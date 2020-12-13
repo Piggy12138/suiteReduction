@@ -1,0 +1,878 @@
+[
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988a820)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988a820)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988a820)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98618d8)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98618d8)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c0000)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9825d30)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9825d30)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9825d30)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "  mCurrentFocus=Window{a982e848 u0 StatusBar(a982e848)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9a90940)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9884a58)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9884a58)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9884a58)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9884a58)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98a6e08)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98d9c20)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.google.android.photostream.PhotostreamActivity(a98c1360)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.launcher2.Launcher(a97b6ac0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  },
+  {
+    "coverage": "42%  (28/67)",
+    "state": "com.android.quicksearchbox.SearchActivity(a9a3ded0)"
+  }
+]

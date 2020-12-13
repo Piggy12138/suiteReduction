@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import xml.etree.ElementTree as ET
 import os
+import pickle
+
 import shutil
 from lxml import html
 from bs4 import UnicodeDammit
@@ -15,7 +17,7 @@ def extract_coverage(path):
 
     parser = html.HTMLParser(encoding=doc.original_encoding)
     root = html.document_fromstring(content, parser=parser)
-    return root.xpath('/html/body/table[2]/tr[2]/td[5]/text()')[0].strip()
+    return root.xpath('/html/body/table[2]/tr[2]/td[2]/text()')[0].strip()
 
 
 # 创建coverage文件夹
@@ -44,6 +46,7 @@ def extract_xml_package_name(rootdir):
     package_name = root.attrib['package']
     return package_name
 
+#
 
 # 生成覆盖率文件，并逐一统计方法覆盖率
 def compare_coverage(apkName):
@@ -61,4 +64,7 @@ def compare_coverage(apkName):
             res.append(extract_coverage('coverage/index.html').replace('\xa0', ' '))
     print(res)
 
-# compareCoverage('Wordpress_394')
+
+compare_coverage('Photostream')
+
+#保存为抽象状态
