@@ -1,0 +1,47 @@
+[
+  {
+    "index": 5,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9849038) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a985c680)",
+    "coverage": "13%  (9/67) to 13%  (9/67)"
+  },
+  {
+    "index": 6,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a985c680) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9849038)",
+    "coverage": "13%  (9/67) to 13%  (9/67)"
+  },
+  {
+    "index": 11,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9849038) to com.google.android.photostream.PhotostreamActivity(a9821e70)",
+    "coverage": "13%  (9/67) to 36%  (24/67)"
+  },
+  {
+    "index": 19,
+    "state": "com.google.android.photostream.PhotostreamActivity(a9821e70) to   mCurrentFocus=null()",
+    "coverage": "36%  (24/67) to 36%  (24/67)"
+  },
+  {
+    "index": 20,
+    "state": "  mCurrentFocus=null() to com.android.launcher2.Launcher(a9810740)",
+    "coverage": "36%  (24/67) to 36%  (24/67)"
+  },
+  {
+    "index": 49,
+    "state": "com.android.launcher2.Launcher(a9810740) to com.android.launcher2.Launcher(a9919760)",
+    "coverage": "36%  (24/67) to 36%  (24/67)"
+  },
+  {
+    "index": 105,
+    "state": "com.android.launcher2.Launcher(a9919760) to com.android.launcher2.Launcher(a9810740)",
+    "coverage": "36%  (24/67) to 36%  (24/67)"
+  },
+  {
+    "index": 106,
+    "state": "com.android.launcher2.Launcher(a9810740) to com.android.internal.app.ChooserActivity(a972b498)",
+    "coverage": "36%  (24/67) to 36%  (24/67)"
+  },
+  {
+    "index": 120,
+    "state": "com.android.internal.app.ChooserActivity(a972b498) to com.android.launcher2.Launcher(a9810740)",
+    "coverage": "36%  (24/67) to 36%  (24/67)"
+  }
+]

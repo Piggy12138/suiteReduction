@@ -1,0 +1,2 @@
+com.android.settings.applications.InstalledAppDetails(a982e240),com.google.android.photostream.LoginActivity(a982fb28),com.google.android.photostream.LoginActivity(a9aef298),com.google.android.photostream.SettingsActivity(a972b498)
+[[158, 189]]

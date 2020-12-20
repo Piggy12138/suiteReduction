@@ -1,0 +1,2 @@
+com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a9849038),com.google.android.photostream.PhotostreamActivity(a9821e70),  mCurrentFocus=null(),com.android.launcher2.Launcher(a9810740)
+[[1, 6], [20, 120]]

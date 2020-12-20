@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8)",
+    "coverage": "36%  (24/67) to 39%  (26/67)"
+  },
+  {
+    "index": 54,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a991f690)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 87,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a991f690) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 98,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c6df8)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 100,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a98c6df8) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 106,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a972b498)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 127,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a972b498) to com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 189,
+    "state": "com.google.android.photostream.EmmaInstrument.InstrumentedActivity(a988e2b8) to com.android.settings.applications.InstalledAppDetails(a982e240)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  }
+]

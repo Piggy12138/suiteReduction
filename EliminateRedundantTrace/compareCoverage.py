@@ -66,5 +66,3 @@ def compare_coverage(apkName):
 
 
 compare_coverage('Photostream')
-
-#保存为抽象状态

@@ -1,3 +1,8 @@
+##########################
+#程序预处理，安装apk、插桩等
+# 2020/12/08
+# by: lyy
+##########################
 import os
 
 
@@ -11,7 +16,7 @@ def preprocess(apkname, motifcore_path, motifcore_script_path, device):
     os.system("adb -s " + device + " push " + motifcore_script_path + " /system/bin")
 
     # 挂载/system/bin/motifcore为可读写权限
-    os.system('adb shell "chmod 777 /system/bin/motifcore"')
+    os.system('adb -s '+ device +' shell "chmod 777 /system/bin/motifcore"')
 
     # 恢复权限
     os.system("adb -s " + device + " shell mount -o remount,ro /system")

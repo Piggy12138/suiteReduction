@@ -1,8 +1,16 @@
+###############################################################
+# 去除冗余循环（没有引起覆盖率增加的脚本文件，以及没有引起覆盖率增加的操作）
+# 2020/12/07
+# by: lyy
+###############################################################
+
 import json
 import os
 
 # 比较整个脚本是否引入了新的覆盖率提升,将能引起覆盖率提升的文件拷贝
 import shutil
+
+
 
 
 def compare_script(path,apkname,i,j,m):
@@ -34,9 +42,9 @@ def state_trans(test_suite_path,apkname,index0,index1,index2):
             init_coverage = coverage
             abstract_state.append(single_state)
     f.close()
-    if not os.path.exists(os.getcwd() + "/State/" + apkname):
-        os.makedirs(os.getcwd() + "/State/" + apkname)
-    with open(os.getcwd() + "/State/" + apkname + "./state"+str(index0)+str(index1)+str(index2)+".json", 'w')as file:
+    if not os.path.exists(os.getcwd() + "/StateTrans/" + apkname):
+        os.makedirs(os.getcwd() + "/StateTrans/" + apkname)
+    with open(os.getcwd() + "/StateTrans/" + apkname + "./state"+str(index0)+str(index1)+str(index2)+".json", 'w')as file:
         file.write(json.dumps(abstract_state))
 
 
@@ -94,6 +102,8 @@ def eliminate_trace(apkname,state_path,script_path,index0,index1,index2):
             line = fp.readlines()[i]
 
             if (j!= len(temp_array)-1 and i == temp_array[j]['index']):
+               for m in range(temp_array[j]['index'],temp_array[j+1]['index']+1):
+                    fw.writelines('\n')
                j = j + 1
                i = temp_array[j]['index']+1
                continue
@@ -108,7 +118,7 @@ def eliminate_trace(apkname,state_path,script_path,index0,index1,index2):
 def init_eliminate(index,apkname):
 
     for i in range(0,index+1):
-        for j in range (0,3):
+        for j in range (0,5):
             for m in range(0,3):
                 try:
                     compare_script('D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\Photostream\\res'
@@ -126,7 +136,7 @@ def init_eliminate(index,apkname):
             for m in range(0,3):
                 try:
                     eliminate_trace('Photostream',
-                                'D:\\2020学年秋季学期\\毕业设计\\suite reduction\\EliminateRedundantTrace\\State\\'+apkname+'\\state'+str(i)+str(j)+str(m)+'.json',
+                                'D:\\2020学年秋季学期\\毕业设计\\suite reduction\\EliminateRedundantTrace\\StateTrans\\'+apkname+'\\state'+str(i)+str(j)+str(m)+'.json',
                                 os.getcwd()+'//Input//'+apkname+'//motifcore'+str(i)+str(j)+str(m)+'.script',i,j,m)
                 except:
                      pass

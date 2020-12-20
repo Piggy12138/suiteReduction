@@ -1,0 +1,27 @@
+[
+  {
+    "index": 140,
+    "state": "com.android.settings.applications.InstalledAppDetails(a982e240) to com.google.android.photostream.LoginActivity(a982fb28)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 152,
+    "state": "com.google.android.photostream.LoginActivity(a982fb28) to com.google.android.photostream.LoginActivity(a9aef298)",
+    "coverage": "39%  (26/67) to 39%  (26/67)"
+  },
+  {
+    "index": 158,
+    "state": "com.google.android.photostream.LoginActivity(a9aef298) to com.google.android.photostream.SettingsActivity(a972b498)",
+    "coverage": "39%  (26/67) to 40%  (27/67)"
+  },
+  {
+    "index": 188,
+    "state": "com.google.android.photostream.SettingsActivity(a972b498) to com.google.android.photostream.SettingsActivity(a98a0fb0)",
+    "coverage": "40%  (27/67) to 40%  (27/67)"
+  },
+  {
+    "index": 189,
+    "state": "com.google.android.photostream.SettingsActivity(a98a0fb0) to com.google.android.photostream.SettingsActivity(a972b498)",
+    "coverage": "40%  (27/67) to 40%  (27/67)"
+  }
+]

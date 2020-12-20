@@ -1,0 +1,182 @@
+[
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9a50410)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9a50410)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9a50410)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9a50410)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a999a9c8)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a999a9c8)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.launcher2.Launcher(a9828078)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  },
+  {
+    "coverage": "36%  (24/67)",
+    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+  }
+]

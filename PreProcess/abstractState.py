@@ -5,6 +5,11 @@ import json
 from bs4 import UnicodeDammit
 import xml.etree.ElementTree as ET
 
+# 运行saphiez生成的脚本，记录每一个操作引起的覆盖率变化
+# 2020/11/30
+# by :lyy
+
+
 namespace = '{http://schemas.android.com/apk/res/android}'
 
 header = "type= raw events\ncount= -1\nspeed= 1.0\nstart data >>\n"
@@ -24,9 +29,9 @@ def init_file(path, apkname):
 
 
 # 获取当前屏幕信息
-def current_screen():
+def current_screen(emulator):
     command = 'dumpsys window windows | grep mCurrent'
-    res = os.popen('adb shell '+'"'+command+'"').read()
+    res = os.popen('adb -s '+emulator+' shell '+'"'+command+'"').read()
     return res
 
 
@@ -47,7 +52,7 @@ def execute_scripts(path, emulator,package_name):
     path = modify_suffix(path, '.script')
     script_name = path.split('/')[-1]
     commandPush = 'adb -s ' + emulator + ' push ' + '"' + path + '"' + ' /mnt/sdcard/.'
-    commandExec = 'adb -s '+emulator+' shell motifcore -p '+package_name+' --bugreport '+ '-f /mnt/sdcard/' + script_name + ' 1'
+    commandExec = 'adb -s '+ emulator +' shell motifcore -p '+package_name+' --bugreport '+ '-f /mnt/sdcard/' + script_name + ' 1'
     os.system(commandPush)
     os.system(commandExec)
     path = modify_suffix(path, '.txt')
@@ -75,7 +80,7 @@ def coverage_instrument(package_name, emulator):
     os.system(start_target)
 
 
-# 生成coverage.ec文件
+# 生成coverage文件
 def generate_coverage(emulator,apkname):
     os.system("adb -s " + emulator + " shell am broadcast -a edu.gatech.m3.emma.COLLECT_COVERAGE")
     os.system('adb -s ' + emulator + ' pull /mnt/sdcard/coverage.ec')
@@ -83,14 +88,13 @@ def generate_coverage(emulator,apkname):
     print(
         "java -cp emma.jar emma report -r html -in "
         +'"'+os.getcwd() + "\\Input\\" + apkname + "\\coverage.em"+'",'
-        +'"'+ os.getcwd() + "\\coverage000-011.ec,"+os.getcwd()+"\\coverage.ec"+'"')
+        +'"'+os.getcwd()+"\\coverage.ec"+'"')
     os.system(
         "java -cp emma.jar emma report -r html -in "
         +'"'+os.getcwd() + "\\Input\\" + apkname + "\\coverage.em"+'",'
-        +'"'+ os.getcwd() + "\\coverage000-011.ec,"+os.getcwd()+"\\coverage.ec")
+        +'"'+os.getcwd()+"\\coverage.ec"+'"')
 
 
-# 删除原有coverage.ec
 
 
 
@@ -113,7 +117,7 @@ def readin(path, apkname, emulator,package_name,script,index0,index1,index2):
         generate_coverage(emulator,apkname)
         temp_dic = {}
         temp = {'coverage':extract_coverage(path+'/coverage/index.html').replace('\xa0', ' '),
-                'state':extract_activity(current_screen()) }
+                'state':extract_activity(current_screen(emulator)) }
         temp_dic.update(temp)
         res.append(temp_dic)
         with open(os.getcwd() + "/abstractState/" + apkname + "./res"+str(index0)+str(index1)+str(index2)+".json", 'w')as file:
@@ -151,7 +155,7 @@ def init(path, apkname, emulator,i):
         os.getcwd()) + '\\Input\\' + apkname + '\\bin\\coverage.em"' + ' "' + path + '\\Input\\' + apkname + '"')
 
     # 读取原始脚本，以事件类型创建抽象状态流
-    for x in range(1,i+1):
+    for x in range(0,i+1):
         for j in range(0,5):
             # clean states
             os.system("adb -s " + emulator + " shell am force-stop " + package_name)
@@ -167,5 +171,5 @@ def init(path, apkname, emulator,i):
 
 
 
-del_before_ec('emulator-5554')
+#del_before_ec('emulator-5554')
 init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"Photostream",'emulator-5554',5)
