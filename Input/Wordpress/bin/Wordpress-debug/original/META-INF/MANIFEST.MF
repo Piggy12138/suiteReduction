@@ -1,0 +1,783 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi/btn_dropdown_normal.9.png
+SHA1-Digest: C0ur6AoftryETu9OOg8rfOHBKnw=
+
+Name: res/layout/table_row_header.xml
+SHA1-Digest: Am1F85I096ubJR8ZU9BHcUe3AtQ=
+
+Name: res/drawable/quickcontact_bottom_frame.9.png
+SHA1-Digest: 01NLc0LvtWs8crW7QEhULp87dJk=
+
+Name: res/layout/link.xml
+SHA1-Digest: O4IKBDpCTHS/D3grx+f8lTrbYMg=
+
+Name: res/drawable-hdpi/btn_check_off_pressed.png
+SHA1-Digest: KdDd9eKuRUZ1FXweXDX62N+7/K4=
+
+Name: res/drawable/posts_tab.png
+SHA1-Digest: 9p7oRMnB4g/XJ7yoDTG6MfuLfoU=
+
+Name: res/drawable/dashboard_button_down.9.png
+SHA1-Digest: 8KqCReg5AsLstIP6ybfS46I26gI=
+
+Name: res/layout/add_account_settings.xml
+SHA1-Digest: eWrdrt/oqNKOZHQZs6VcgqeMB+w=
+
+Name: res/layout/select_blogs_list.xml
+SHA1-Digest: csl6g1cNbnGZfKpxuDBH7W1tmkw=
+
+Name: res/drawable/home_gradient.xml
+SHA1-Digest: u3a2qjo0o46vJ2SczmXjr86n1cs=
+
+Name: res/layout/list_footer_progress.xml
+SHA1-Digest: gs8Swy0izTeEUYtxYQzP0/dufJ0=
+
+Name: res/drawable/wp_button_dashboard_bottom_center.xml
+SHA1-Digest: 8cDJd9nqnDiwqSZ7RehfuIJLRV0=
+
+Name: res/drawable/arrow_up.png
+SHA1-Digest: M/2/X+NkM8LLhGJ3+bXyQMf625g=
+
+Name: res/anim/dashboard_show.xml
+SHA1-Digest: eASvSXHkpXYCB86KhkSiPAGfGyA=
+
+Name: res/drawable/wp_small_over.9.png
+SHA1-Digest: f2Y7LWDtDFQAyQvkqp50kaSKnpE=
+
+Name: res/drawable-mdpi-v11/notification_icon.png
+SHA1-Digest: /IaP0/VLb7e+oGKOWBFGEn6I244=
+
+Name: res/drawable/dashboard_btn_top_right.xml
+SHA1-Digest: z01b5zRl72ErN9UxNw3hfsgvat0=
+
+Name: res/drawable/btn_check_on_selected.png
+SHA1-Digest: lglTQXBVzGBay84CRUJ3t9JxHfM=
+
+Name: res/drawable/dashboard_btn_bottom_left.xml
+SHA1-Digest: kGwiFOgfU+YWhHeaD/ARcWvEJis=
+
+Name: res/drawable/list_header_bg.xml
+SHA1-Digest: gzXqUdbEdD1HdjZMuhNHq6ZJZd0=
+
+Name: res/layout-xlarge/posts.xml
+SHA1-Digest: svhfMm53j1oB6g6xfZsQ/lId6EE=
+
+Name: res/drawable/comments_tab.png
+SHA1-Digest: 4k+XbQtZ1fyK0nJV+bZccSMeaAg=
+
+Name: res/drawable/dashboard_icon_comments.png
+SHA1-Digest: oA7GQLdVCNrCc4dtPdF8h2KqWW8=
+
+Name: res/layout/action_bar.xml
+SHA1-Digest: 3hdB6C8kGSWt+oGO+PSfNO4L5ns=
+
+Name: res/drawable/list_bg_selector.xml
+SHA1-Digest: L1P9Ava91KEt9BIIsPPZOoYVwHw=
+
+Name: res/layout/table_row.xml
+SHA1-Digest: YGE1akov7ZH1Gj7QLaN4eO0MFCQ=
+
+Name: com/vladium/emma/report/report_usage.res
+SHA1-Digest: rNy8vxm9C92z5Xa47Ap1bGjU380=
+
+Name: res/drawable/grey_wp_button_active.9.png
+SHA1-Digest: X7GxE+TlP4gf/O9yab7kXLU6SiA=
+
+Name: res/layout/view_stats.xml
+SHA1-Digest: 4qJTYEUaDOJRWxy44AwX65QF8go=
+
+Name: res/drawable-hdpi/ic_menu_home.png
+SHA1-Digest: 7+BhOasHW8D9NG4RFiRitHgV7kg=
+
+Name: res/drawable/format_bar_bg.xml
+SHA1-Digest: 4qFtoFnEYkDvTEMl7BQChyqS4HI=
+
+Name: res/drawable/icon_titlebar_home_active.png
+SHA1-Digest: 5DGFq8qjYFCg0cXekIQ4Z735D68=
+
+Name: res/drawable/wp_logo_home.png
+SHA1-Digest: rSH/67cGBG/E8/65wYkChiltdYk=
+
+Name: res/drawable-hdpi/grey_wp_button.9.png
+SHA1-Digest: nC/pQXmDEtzWT74aF19dIZ35fTk=
+
+Name: res/drawable/ic_popup_sync_1.png
+SHA1-Digest: 1/J2J3vExmjICMx5O0xcOmiMVKk=
+
+Name: res/layout/posts_tab_selector.xml
+SHA1-Digest: 7eQyIIBWE8YDXGVCWNb32Tb/eGo=
+
+Name: res/layout/list_footer_btn.xml
+SHA1-Digest: U+8LV+W/mhuG6hRVOZjSUL2NxTE=
+
+Name: res/layout/comment_tab_selector.xml
+SHA1-Digest: zXoyGkzbocB0w/pWzBPF8hl+6bw=
+
+Name: res/drawable/quickcontact_slider_grip_left.png
+SHA1-Digest: w9tIj074YLRvMDJpGuHPdvISfao=
+
+Name: res/layout/upload_progress.xml
+SHA1-Digest: 3xIShZHi8yjWYe8PNSUvLMxaC1Q=
+
+Name: res/layout/view_comment.xml
+SHA1-Digest: aA0MdWr7iA1jht+/Uqoc+CNSQz0=
+
+Name: res/drawable/wp_small.9.png
+SHA1-Digest: Nnr2tcolQNGTocUXtGCUlxajNmE=
+
+Name: res/layout/action_item.xml
+SHA1-Digest: 9rrYdKCdtrW/iRWpilj4bf/sKBE=
+
+Name: res/drawable/comment_badge.png
+SHA1-Digest: rXyMLNwEEpPAlZz6K1oo/uqVZD0=
+
+Name: res/drawable/list_highlight_bg.xml
+SHA1-Digest: 1PTdNKqfpx/2lNgTS8ZctmK5vEg=
+
+Name: res/drawable/dashboard_icon_new_page.png
+SHA1-Digest: Fg0rhyFccFNc0QPLPN8gt+Ln7tA=
+
+Name: res/drawable/dashboard_btn_top_left.xml
+SHA1-Digest: GpczH4R/s7xfWhhU0ytGn07QMZM=
+
+Name: res/drawable/wp_check_on.png
+SHA1-Digest: mjUos1Ofb6TXhelJalGBXXRIFFE=
+
+Name: res/drawable/quickcontact_top_frame.9.png
+SHA1-Digest: aB6wOQtYcALPv9F03YqXan6cHD8=
+
+Name: res/drawable/wp_small_down.9.png
+SHA1-Digest: MOL5nJbiehDe8ACZtyOYZPc8WqA=
+
+Name: res/drawable-hdpi/title_bar_shadow.9.png
+SHA1-Digest: +r35ryuKVlKWGuTPH6XFIdzXzj0=
+
+Name: res/drawable/video.png
+SHA1-Digest: VuK3M7rR3UJr92xZd4RZgraQMys=
+
+Name: res/drawable/wp_logo.png
+SHA1-Digest: fBOUfRXqzP9MOah+KEgZUtsfbG0=
+
+Name: res/drawable/format_bar_btn.xml
+SHA1-Digest: J9YouFFo2anyMVnIYm8n/tlNkKw=
+
+Name: res/drawable-hdpi-v11/notification_icon.png
+SHA1-Digest: aXPbAlwgjWIXl36f/0a7LgVG/O8=
+
+Name: res/drawable/content_bg.9.png
+SHA1-Digest: N9LTxsWPNHcmQksHB73Ne3Tk+ys=
+
+Name: res/layout-xlarge/new_account.xml
+SHA1-Digest: sIcBQNkWT07cLMRjmmPN3FSBBrE=
+
+Name: res/drawable/wp_logo_actionbar.png
+SHA1-Digest: RYE5V6Xs0sLjF5Nkjf+7/db4RT8=
+
+Name: res/layout/blogs_row.xml
+SHA1-Digest: 982fynm9Qp5IkmrT7lSL6InEAHA=
+
+Name: res/layout-xlarge/edit.xml
+SHA1-Digest: vKMmqBBYz9bcYQRFQ3LqTJZqQxs=
+
+Name: res/drawable-hdpi/right_shadow.9.png
+SHA1-Digest: LF/wr90vf0ZXPutLX8ML6NKYVDI=
+
+Name: res/drawable/dashboard_icon_subs.png
+SHA1-Digest: A0YcrivPia5x6nabsWnXhAaKCGM=
+
+Name: res/layout/edit.xml
+SHA1-Digest: +R62rNE0Wm1wLIcluwtf/r3wdNM=
+
+Name: res/layout-xlarge/add_account.xml
+SHA1-Digest: Ev7jlJkOR3hXk3tE/GObcIRgSgI=
+
+Name: res/drawable/action_bar_btn_selector.xml
+SHA1-Digest: q7/0KVtg9CNvupKLF/6A0Ml1Tjg=
+
+Name: res/layout-land/action_bar.xml
+SHA1-Digest: 8scPufyfM9ot0/0GuT4M2HoFdts=
+
+Name: res/drawable/quickcontact_slider_btn_pressed.9.png
+SHA1-Digest: Zk9QdlUPN0D5NB+cjNE8iljKBs4=
+
+Name: com/vladium/emma/data/merge_usage.res
+SHA1-Digest: gSgwR8qchJPP4qAY6l658yzRDzY=
+
+Name: res/drawable-hdpi/btn_check_on_selected.png
+SHA1-Digest: BMw0+Bi1XSgiEXNdJeLU4ZQ0G8I=
+
+Name: res/drawable/title_bar_gradient.xml
+SHA1-Digest: YOFPan0oPiacIzae4Yx8HD3rBHw=
+
+Name: res/drawable/drop_down_arrow.png
+SHA1-Digest: A4FfETeV7p0P0P8K7KvJp+sL4vM=
+
+Name: res/drawable/quickcontact_slider_btn_selected.9.png
+SHA1-Digest: XLXDgwXUwhsXd5IVlEwTu/5gnKY=
+
+Name: res/drawable/add.png
+SHA1-Digest: ml/Q1AdjMQMxfQnL5PKYLtK9R8U=
+
+Name: res/layout/row_post_page.xml
+SHA1-Digest: KBfqjwawC07IXgA52jKw4V7R4UM=
+
+Name: res/drawable/title_bg.xml
+SHA1-Digest: Aq/YdSOiApdplzpa30S6tOUUEBY=
+
+Name: res/anim/disappear.xml
+SHA1-Digest: RgMKuijy7EJLsZiekVVHUXpEWPc=
+
+Name: res/drawable-hdpi/comment_badge.png
+SHA1-Digest: rXyMLNwEEpPAlZz6K1oo/uqVZD0=
+
+Name: res/drawable/dashboard_btn_down_shadow.9.png
+SHA1-Digest: y7kETbIWfcefdMZyaeKuMPbhB9g=
+
+Name: com/vladium/emma/exceptions.properties
+SHA1-Digest: 4QGHferxxnE/Q0/z1dZj2B+S7cI=
+
+Name: res/drawable/wp_checkbox.xml
+SHA1-Digest: YHuZGmoOekkyMSDS7/hzkLmobAY=
+
+Name: res/drawable-v12/dashboard_btn_bottom_left.xml
+SHA1-Digest: BrnBjA/v6jn9pcAB2Vzzabhk0MQ=
+
+Name: res/layout-xlarge/global_settings.xml
+SHA1-Digest: K/4A/jE41PQAvJ1Kqql2nXj6jwU=
+
+Name: res/drawable/dashboard_icon_new_post.png
+SHA1-Digest: ushngTphshODBQlpwRBeRBOJFXw=
+
+Name: res/drawable/btn_dropdown_normal.9.png
+SHA1-Digest: Jc07o+3AuMmCYqfvNKAVw4fahUo=
+
+Name: res/drawable/btn_check_off_selected.png
+SHA1-Digest: XBKUK2tlhdV/qNq8ok9EgYmdLoY=
+
+Name: res/anim/shake.xml
+SHA1-Digest: +lujxWEJOguatvRgHEcexPwCzVE=
+
+Name: res/drawable/dashboard_btn_down.xml
+SHA1-Digest: zdYUsw0srEiu6vs7kwC9KfUsHNQ=
+
+Name: res/anim/dashboard_hide.xml
+SHA1-Digest: MEMDnFYZRf+VanVhPoNfsp6T4io=
+
+Name: res/drawable/dashboard_icon_pages.png
+SHA1-Digest: 41TC1sNBjura/cOVAlIHLFMCKlo=
+
+Name: res/drawable/arrow_down.png
+SHA1-Digest: n8dUohIE34/FbnSDKfCvhpDNXq4=
+
+Name: res/drawable-hdpi/dashboard_wp_logo.png
+SHA1-Digest: c/7r3xC/o90chmSBchw2nITn5nM=
+
+Name: res/drawable/wp_spinner_bg.xml
+SHA1-Digest: bikq/z8x89baWfThBiFzwhn7dZQ=
+
+Name: res/layout/add_quickpress_shortcut.xml
+SHA1-Digest: y61xfU78WDFoGLrJDUq3seZOBIY=
+
+Name: res/drawable/tab_bg_selector.xml
+SHA1-Digest: deXxJ4hciJu/FI9gZivIPgo7hC4=
+
+Name: res/drawable/wp_button_dashboard_bottom_left.xml
+SHA1-Digest: K+yOBSuLvcU6QaqdhVTqrAOAU5Y=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: GUajTeiNbAxAF+Bb/QH6O97qfKQ=
+
+Name: res/drawable/action_item_btn.xml
+SHA1-Digest: rJOqjJLCELOLwV8yfkeKhyi48EU=
+
+Name: res/drawable-hdpi/wp_check_on.png
+SHA1-Digest: 1lXemDwCyCHAR4z7FCo6m5w7O4g=
+
+Name: res/drawable/new_account_logo.png
+SHA1-Digest: KmcJv9iHYSxgh6IywspzBCZmJ9o=
+
+Name: res/drawable-v11/list_highlight_bg.xml
+SHA1-Digest: gV3xDgnYcWX9GXi51LIuGLzSFSE=
+
+Name: res/drawable/dashboard_icon_posts.png
+SHA1-Digest: +Lg3kuUk0HuwrT8uOhbm4t5oDQw=
+
+Name: res/drawable-hdpi/pages_tab.png
+SHA1-Digest: XiUY1v5e49CQNB+SfwIu5jkFV3E=
+
+Name: res/drawable/dashboard_btn_bottom_right.xml
+SHA1-Digest: BrnBjA/v6jn9pcAB2Vzzabhk0MQ=
+
+Name: res/layout/row.xml
+SHA1-Digest: xhwJyP8qZ/2dZgCUjNqUvZqQwDk=
+
+Name: res/drawable/pages_tab.png
+SHA1-Digest: xOkTF9/i6roNTIFmrll+ur4udOg=
+
+Name: res/layout/dashboard.xml
+SHA1-Digest: cHKynhzDvT6yqukgvut2aiEFpfM=
+
+Name: com/vladium/emma/instr/instr_usage.res
+SHA1-Digest: I2Rq1dLiPtV0mtpqveL3yz+lPKA=
+
+Name: res/anim/show.xml
+SHA1-Digest: h/cVUAvWZBIP/ZRYOG8AOga0iG0=
+
+Name: res/drawable/title_bar_item_bg.xml
+SHA1-Digest: z0al79osi+FS680y1ZIXSesBEy4=
+
+Name: res/drawable-hdpi/btn_check_on_pressed.png
+SHA1-Digest: dIgzN5BA99SAMNtZ2/4B9TeUJEU=
+
+Name: res/anim/rail.xml
+SHA1-Digest: Ti9YWHVu/vL4ZnOmECTqL3Bqh8Y=
+
+Name: res/drawable-hdpi/pages_tab_active.png
+SHA1-Digest: 5eAAZ4NTbXnf9erS97tgxL+kh84=
+
+Name: res/layout/add_category.xml
+SHA1-Digest: ro2JHnqi+pPs/FkuKfU1UQ8EOOI=
+
+Name: res/layout/reply.xml
+SHA1-Digest: xOziueYcjG0N7CwO6XZaTODDbio=
+
+Name: res/drawable/grey_wp_button_down.9.png
+SHA1-Digest: rMniWSlkW0FXQjEWOSiJg0hc+O0=
+
+Name: com/vladium/emma/rt/RTExitHook.closure
+SHA1-Digest: fHtO1H01futHZ7Ie/L4eKFD8zsM=
+
+Name: res/layout/settings.xml
+SHA1-Digest: zvZLVorgWcqdELONtd2xjBkwVnc=
+
+Name: res/layout/categories_row.xml
+SHA1-Digest: IO/Knf/Yq76DnEFRqQ9rJ78QkhM=
+
+Name: res/drawable/wordpress_gallery_background.xml
+SHA1-Digest: +zz9F1UrhgbEkDHsVTGB8055VH4=
+
+Name: res/layout/image_view.xml
+SHA1-Digest: JlrNb5Jz49i6REMLMTUo57SfLhc=
+
+Name: res/drawable/btn_dropdown_pressed.9.png
+SHA1-Digest: ZLW5RFCTKtJwdTFyDA52qquY/tM=
+
+Name: res/layout-xlarge/edit_page.xml
+SHA1-Digest: FvRUwxcMEJ7CBFWuKsMLQJ14G6s=
+
+Name: res/drawable/grey_wp_button.9.png
+SHA1-Digest: LC4xuwW/q1LxXcGX/BoxF1tFEn0=
+
+Name: res/layout/global_settings.xml
+SHA1-Digest: yRBUG4EG0dwBWowChTIe60TnYsA=
+
+Name: res/layout/comments.xml
+SHA1-Digest: toiZIxW6S7p04zvOJ+ZWJNkqUHM=
+
+Name: res/drawable/attachment.png
+SHA1-Digest: aFvWf/UsjimgppORc3iYfSyu0O8=
+
+Name: res/drawable-hdpi/add.png
+SHA1-Digest: nB0z8fZZF6gqyaWWwBBCeKrLJFg=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: vUa81DDvmI67lu7EEwW1e9Rwgxg=
+
+Name: res/drawable/btn_check_on_pressed.png
+SHA1-Digest: itK8AFtQAPbgeEVAzIHyzNLvxDk=
+
+Name: res/drawable/btn_check_off_pressed.png
+SHA1-Digest: Ff/vYe83Qn2eqWUq1+otXW+rCkE=
+
+Name: res/drawable/wp_button_dashboard_top_left.xml
+SHA1-Digest: swz+8SfE2GFLnMQMRD1DsfKxs9c=
+
+Name: res/drawable-hdpi/posts_tab_icon.png
+SHA1-Digest: NSxkQNPmx83iJ1LJepzf008YD+w=
+
+Name: res/drawable-hdpi/btn_dropdown_selected.9.png
+SHA1-Digest: Uk+5toaeRlwrYCW7zSgVLC2Z2Gk=
+
+Name: res/drawable-xhdpi/notification_icon.png
+SHA1-Digest: 1hJv5cf4VeCbMhIaSd/PxYbAM6Y=
+
+Name: res/drawable/wp_check_off.png
+SHA1-Digest: lPQYVixXI5DlMLapjO5XhSlVDlI=
+
+Name: res/drawable/list_divider.xml
+SHA1-Digest: ddHr4SbdCHfIYbOhaP9lDp/Jouw=
+
+Name: res/drawable/quickcontact_slider_btn_normal.9.png
+SHA1-Digest: fqVonWZFdTvpfm7hztGa/lUhWoY=
+
+Name: res/drawable-hdpi/notification_icon.png
+SHA1-Digest: SDFwp/7gHIgAbfBrsFKCTiF6YCg=
+
+Name: res/drawable/list_bg.xml
+SHA1-Digest: oPBSmXkIfRx1NxBbJBUGboJ3xRc=
+
+Name: res/drawable/wp_statusbar_icon.png
+SHA1-Digest: WKUoxgzQLsRll+0o6K2LrntKOmE=
+
+Name: res/drawable/pages_tab_icon.png
+SHA1-Digest: 7dDldrZXCdXbkSoCwuqEPZrUbu8=
+
+Name: res/layout/home_row.xml
+SHA1-Digest: bTaEwMKMVbQ8F2GbkZUALbqUlgA=
+
+Name: res/drawable/comments_tab_active.png
+SHA1-Digest: tvRjKCjGdDpP71mrHVDzS0GvwuY=
+
+Name: res/drawable-hdpi/stats_tab.png
+SHA1-Digest: 5CiDJi90oEkyKX4xTScvyKO+BUA=
+
+Name: res/drawable/action_item_selected.9.png
+SHA1-Digest: ZaxcNXrkweRaxfCIBpbel4wb+PA=
+
+Name: res/drawable/dashboard_bg_landscape.xml
+SHA1-Digest: cqA6FbOzmb5E9+H30Lwymv45TkU=
+
+Name: res/layout/add_account.xml
+SHA1-Digest: hMHrMgFznTWPuKYO0hkPULd2IDk=
+
+Name: res/layout/dashboard_buttons_landscape.xml
+SHA1-Digest: 9wc3WZdFrJudAZwjgvOPTCMMu5s=
+
+Name: res/layout/pages_tab_selector.xml
+SHA1-Digest: yqvHQwXyl1Be9GujWex/H95aPSI=
+
+Name: res/drawable/tab_color_selector.xml
+SHA1-Digest: Ula0kMQ4qR+YzO9Uoc/HiHxygq4=
+
+Name: res/layout/posts.xml
+SHA1-Digest: GWyd43JJoAuGHT1ox09YOxNF3H4=
+
+Name: res/drawable/dashboard_bg.xml
+SHA1-Digest: sP39fJ/n3O4tIziqmSzUR+99+vY=
+
+Name: res/drawable/menu_button_selector.xml
+SHA1-Digest: Me7iI1m2nov4Ka6t4wTqEAYV5Jw=
+
+Name: res/layout/spinner_textview.xml
+SHA1-Digest: jR+WUyvNMNRV+VwYbZdC1lnso5M=
+
+Name: res/drawable/popup.9.png
+SHA1-Digest: vQ7l6am/S8xD4DuEj2pzDdgf91w=
+
+Name: res/drawable/icon_titlebar_refresh_active.png
+SHA1-Digest: HqhJ2/nfCvn6nnP7G1sLK/j2k4A=
+
+Name: res/drawable/posts_tab_icon.png
+SHA1-Digest: HmXAZrL+X5hNa1KjBwOWOyt4+ps=
+
+Name: res/drawable-hdpi/stats_tab_active.png
+SHA1-Digest: cSgyiPC+TOBnRwULd04+BlE0VQ0=
+
+Name: res/drawable/add_small.png
+SHA1-Digest: HFX44Ee+GgzIIIcWWmVIBQXYKAw=
+
+Name: res/drawable/comment_pending_bg_selector.xml
+SHA1-Digest: K2dh7l+QIlnZSOv4BgCrXePVoTw=
+
+Name: res/drawable-hdpi/grey_wp_button_down.9.png
+SHA1-Digest: /prA+eIjo79HtQbR/Ybnq1mYCP4=
+
+Name: res/drawable-hdpi/wp_small.9.png
+SHA1-Digest: DB3ScZQlzpEkbjZf1gHbGS6+LQQ=
+
+Name: res/drawable/wp_small_toggle.9.png
+SHA1-Digest: kyvHtUSrKMEpEbK1ckSUmlF04vs=
+
+Name: res/drawable/gallery_selected_default.9.png
+SHA1-Digest: QpPKf4kHQPg2oyFUU03ggGWi0xA=
+
+Name: res/layout/blogs_row_actionbar.xml
+SHA1-Digest: JWN2pyd/1FhoZIJwZC6gQwClu50=
+
+Name: res/drawable/stats_tab.png
+SHA1-Digest: vfnikPX73XYRb2AgEr4c5d8qTTU=
+
+Name: res/layout/home.xml
+SHA1-Digest: y61xfU78WDFoGLrJDUq3seZOBIY=
+
+Name: res/layout-xlarge/comments.xml
+SHA1-Digest: go4NfNZT77P8Iq4nxEA4XJ9K9KA=
+
+Name: resources.arsc
+SHA1-Digest: 8p/n23gc3U1tiWlQjiI3+gP316c=
+
+Name: AndroidManifest.xml
+SHA1-Digest: sy3lmywEkKR/Zfoi689WArAJk54=
+
+Name: res/drawable-v12/dashboard_btn_bottom_right.xml
+SHA1-Digest: kGwiFOgfU+YWhHeaD/ARcWvEJis=
+
+Name: res/drawable/view_post_navbar_bg.xml
+SHA1-Digest: 33Owb/QH8SEascaMLz7aKIyqe3s=
+
+Name: res/layout/dashboard_buttons_portrait.xml
+SHA1-Digest: CWVt9ku+LEctnM8471pmnAq02m0=
+
+Name: res/drawable/media.png
+SHA1-Digest: LF4EVsr59bC/bmIn+X/MaSDT354=
+
+Name: res/drawable/stats_tab_icon.png
+SHA1-Digest: BNbMUDOScxdhBMKjcI0IfEgcQSw=
+
+Name: res/drawable/stats_tab_active.png
+SHA1-Digest: sW1VDLW4n+Sx+41OvuZkT8m0m8Q=
+
+Name: res/drawable/wplogo.png
+SHA1-Digest: tr8LH18axaukefEZIYw4uZjwS0k=
+
+Name: res/drawable-mdpi/notification_icon.png
+SHA1-Digest: OKOwQcnvkacV7gNz0xSRgNm2/RM=
+
+Name: res/drawable/dashboard_icon_video.png
+SHA1-Digest: pD6lq85Lc1TFvRjTl6fCk9v1nWw=
+
+Name: com/vladium/emma/run_usage.res
+SHA1-Digest: mHemtPwFTvLEPXfCrRCzKVjCg5Y=
+
+Name: res/drawable/quickcontact_disambig_divider.9.png
+SHA1-Digest: ZeY8lcI5KhZgNGXUYMKJV/7rj8M=
+
+Name: res/drawable/wp_button_dashboard.xml
+SHA1-Digest: iJHd36/eltJEhbzLX7EDMCsiMN8=
+
+Name: res/layout/viewposts.xml
+SHA1-Digest: nLWZvUJomEplXIjYEL2GhH2ui3I=
+
+Name: res/drawable-hdpi/content_bg.9.png
+SHA1-Digest: mcFOz+U2Gkr53PvUEbSd0NIGMbI=
+
+Name: res/layout/edit_page.xml
+SHA1-Digest: iGlltYnylHDF2MxJguWBIUUX6aY=
+
+Name: classes.dex
+SHA1-Digest: y0l/r4Y3oeuJxpOJCI2PaZuVjIA=
+
+Name: res/drawable/quickcontact_drop_shadow.9.png
+SHA1-Digest: DERAIMP+J0wTEJkWGJ/Az00Q20M=
+
+Name: res/drawable/menu_button_bg.9.png
+SHA1-Digest: HrA8lOjPIfF777O+kcmj5pySd6c=
+
+Name: res/anim/cycle_5.xml
+SHA1-Digest: xB4aoXbmdQi+jpDghzJA+bQ8O1U=
+
+Name: res/drawable/tab_unselected.xml
+SHA1-Digest: 0LdHeCtD1Kzk24BVoNO55rY0C1w=
+
+Name: res/drawable-hdpi/wp_small_over.9.png
+SHA1-Digest: VMilIJFuyjc9VQKbFUuTZ301rRQ=
+
+Name: res/drawable/wp_button_dashboard_top_right.xml
+SHA1-Digest: 4vISQGejIZtiTKwkN+EdbKsjy00=
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: OehozsslgIVt21BO2u6j5IeEk/I=
+
+Name: res/drawable/icon_titlebar_refresh.png
+SHA1-Digest: fvePiL5Osk3B+rt0O/7I0JC3ltY=
+
+Name: res/drawable-ldpi-v11/notification_icon.png
+SHA1-Digest: Da5VgbbYUC6c0E1J7/D7IWD+jkI=
+
+Name: res/drawable-xhdpi-v11/notification_icon.png
+SHA1-Digest: qks5L1u1jh7bHvvkPBu3XQd1aH8=
+
+Name: res/drawable-hdpi/btn_dropdown_pressed.9.png
+SHA1-Digest: adBKGwpApDeUl5XkscdJ8OW3+Mg=
+
+Name: assets/webview.css
+SHA1-Digest: +l3RphtSkfUQUxqXDoVvLriupxs=
+
+Name: res/drawable/btn_dropdown_selected.9.png
+SHA1-Digest: rIZShedGt0Fh1WZLGPX7nGVv4OQ=
+
+Name: res/drawable/ic_menu_home.png
+SHA1-Digest: nMnYRAzOIFrenyu/DK54Rj4kZ/k=
+
+Name: res/drawable-hdpi/wp_check_off.png
+SHA1-Digest: GhOCbCSW+WHtRhG1ZDclFFfVFkE=
+
+Name: res/drawable-hdpi/comments_tab.png
+SHA1-Digest: 18Qy8m4tyO6MWD/cc6ry6G0xV5g=
+
+Name: res/drawable/comment_pending_gradient.xml
+SHA1-Digest: IJfOvAZpvyT0lx7/7vu6LaUaaCE=
+
+Name: res/layout/alert_image_options.xml
+SHA1-Digest: fvO65MhRszLkLyC/zAhNUnLXnAE=
+
+Name: res/layout/select_categories.xml
+SHA1-Digest: XEeteOCW1Q2KfMr89eZdHaE/k1A=
+
+Name: res/drawable/wp_button_small.xml
+SHA1-Digest: FVTcljMqxOyk9fiZ6iESccBZuow=
+
+Name: res/drawable-hdpi/btn_check_off_selected.png
+SHA1-Digest: 44pvdJp7iC+eq1KPQkrO7IA5/m8=
+
+Name: res/layout/viewpost.xml
+SHA1-Digest: RC4s6l+JvSha0ZDQC7WVr0DAvCo=
+
+Name: res/layout-hdpi/new_account.xml
+SHA1-Digest: DsTJ6okOjBUTUw4BV1eS/YiYQgA=
+
+Name: res/drawable/placeholder.png
+SHA1-Digest: nbKj6q85zeb8KwwZu6g1744zrtI=
+
+Name: res/drawable/pages_tab_active.png
+SHA1-Digest: 6EanTE12vqVeyNh6UtXefR8rZU0=
+
+Name: res/drawable/quickcontact_slider_btn.xml
+SHA1-Digest: Bvq0W33Lw6nWj6DAHSWBb+P30gk=
+
+Name: emma_default.properties
+SHA1-Digest: t2aJ4vA+08gVAALZAwrrFRx73Oc=
+
+Name: res/drawable-hdpi/wp_small_toggle.9.png
+SHA1-Digest: uP/6TPyMnkO3ZNzagP6kZ6y0KYk=
+
+Name: res/drawable/home_small.png
+SHA1-Digest: GbYpdN4vmBlKRVW9NQ6Mbn7AS4Y=
+
+Name: res/layout/viewcomments.xml
+SHA1-Digest: 3Ug09bZ36Gdwx9cwKwnTTgSzkLA=
+
+Name: res/drawable/quickcontact_disambig_bottom_bg.9.png
+SHA1-Digest: aT9U6P6HPwD4sZwjjn369Bmh+ng=
+
+Name: res/drawable-hdpi/posts_tab_active.png
+SHA1-Digest: S9hSiKjH4C3M2JEqry3EybJWmuA=
+
+Name: res/drawable/quickcontact_slider_background.png
+SHA1-Digest: Y5SgHKWqlYU8qiLf4/hgzCIwLag=
+
+Name: res/drawable/format_bar_btn_toggled.xml
+SHA1-Digest: k96tblnGqzaqTkQE9F8tPzvGLo4=
+
+Name: res/drawable/dashboard_icon_settings.png
+SHA1-Digest: NkxByAScfRm5UBUw1AkEbK7L7MU=
+
+Name: res/drawable/quickcontact_slider_grip_right.png
+SHA1-Digest: B/LDPGSzRUn0rwLdEZlHCFNArCU=
+
+Name: res/drawable/quickcontact_photo_frame.9.png
+SHA1-Digest: p3z2KeTCwHXY3708hj+f/kBie+o=
+
+Name: res/drawable/dashboard_icon_stats.png
+SHA1-Digest: H81CT6Fqgx254Qbj+EhNpQqDfn4=
+
+Name: res/drawable/dashboard_icon_photo.png
+SHA1-Digest: MpWH+LCmy6YtHdD/iKb1KrnA14g=
+
+Name: res/drawable/spinner_white_48.png
+SHA1-Digest: 2nxIz7L8xYZfxoIAErFBt+enkNs=
+
+Name: res/layout/about.xml
+SHA1-Digest: vWsq+V3myi3mv7KsbcnQ4NS76OI=
+
+Name: res/layout-v4/row.xml
+SHA1-Digest: u2OnriHmTf79Ui9jR7UpZUzsmAY=
+
+Name: res/drawable/action_bar_shadow.9.png
+SHA1-Digest: s/BBxeoTy2A9XvLYTFIu+gOEOhw=
+
+Name: res/drawable/dashboard_btn_bottom_center.xml
+SHA1-Digest: OZPU0vpImAxjPAyyoGN3R3hWtr0=
+
+Name: res/layout-small/new_account.xml
+SHA1-Digest: VxmobLg79huEyOIuQl21aKyscGw=
+
+Name: res/drawable/drafts_icon.png
+SHA1-Digest: 6fLGmbdiKQZNbi3hqEl3NNhhaKU=
+
+Name: res/layout/edit_content.xml
+SHA1-Digest: 0x0lzGQ79MxpY/MOCqCrKT6qB/Y=
+
+Name: res/drawable-hdpi/grey_wp_button_active.9.png
+SHA1-Digest: saAamUojA0EQSxTeKM9VaLx92kM=
+
+Name: res/layout/moderatecomments.xml
+SHA1-Digest: uPh/Gzkt9jNBeerpgrhqtjxvQ/I=
+
+Name: res/drawable/quickcontact_arrow_up.png
+SHA1-Digest: B7js6vCAem6NX/DasthAwgbDvcc=
+
+Name: res/drawable/dashboard_btn.xml
+SHA1-Digest: 3e+9BByx3Jbu6nZ/q6/M95Ng5oI=
+
+Name: res/drawable/title_bar_shadow.9.png
+SHA1-Digest: 2udmfM1IlGednlalRl0G5yjN0KE=
+
+Name: res/layout/new_account.xml
+SHA1-Digest: zxF5yPIARlCaS0k0nnfE2s/FeMQ=
+
+Name: res/layout/stats_tab_selector.xml
+SHA1-Digest: QAEpWdysJxKxHe00EgZmnSeVRqc=
+
+Name: res/drawable-hdpi/posts_tab.png
+SHA1-Digest: wYOgOK9EZ7/5VM7m79EFy3vaDJY=
+
+Name: res/drawable-hdpi/wp_small_down.9.png
+SHA1-Digest: AYbc1NVG7wuBl9IEeBxIPxNwBGo=
+
+Name: res/drawable/browser_reload.png
+SHA1-Digest: WFq4314wB9mzzrEuKfUFMZ4cXd4=
+
+Name: res/layout/popup.xml
+SHA1-Digest: 9UWNETpo+JAw51GjzlXs5h1q2Sg=
+
+Name: res/drawable-ldpi/notification_icon.png
+SHA1-Digest: WRkOYrAyARKRBOdBu59+ob3dvY8=
+
+Name: res/drawable/quickcontact_arrow_down.png
+SHA1-Digest: 4GFT+rQyV9EY9mA2lVv/jD1ojtw=
+
+Name: res/layout/reader.xml
+SHA1-Digest: sNu1giikkM6+uAXG4/9TMg5eZFw=
+
+Name: res/drawable/wpcom.png
+SHA1-Digest: TB+QMpeAXF3KGKI4eu12f04cjZI=
+
+Name: res/drawable/wp_button_dashboard_bottom_right.xml
+SHA1-Digest: 4n+0P0cJRC0EBWHXXtrtKX253Ws=
+
+Name: res/drawable/posts_tab_active.png
+SHA1-Digest: UfRVhfugjmdnKQ5YnZWrAAEelEA=
+
+Name: res/drawable-hdpi/wp_statusbar_icon.png
+SHA1-Digest: a6I63RoCujXCRnZvjlLWsQEDERE=
+
+Name: res/drawable-hdpi/comments_tab_active.png
+SHA1-Digest: sxkvtthQ2iMOqD+MTD66c1v4CZo=
+
+Name: res/drawable/icon_titlebar_home.png
+SHA1-Digest: 5IZh7GwpIcbTHJLvTpMXoPcYGBg=
+
+Name: res/drawable/wp_button.xml
+SHA1-Digest: TXNOQK/sp+qbHpnoD+3OvyZOkrY=
+
+Name: res/drawable/wp_button_toggle.xml
+SHA1-Digest: UzRmWtAi3/qOaHjLwQDUCeYxOEM=
+
+Name: res/drawable/wp_spinner_title_bar_bg.xml
+SHA1-Digest: bikq/z8x89baWfThBiFzwhn7dZQ=
+
+Name: emma_ant.properties
+SHA1-Digest: +y6pZF5+WngbtuLnokOF3WlXgj8=
+
+Name: res/drawable/comments_tab_icon.png
+SHA1-Digest: 1vY7u2a3f1sMCWdt7wi0cm8pdSs=
+
+Name: res/drawable-hdpi/gallery_selected_default.9.png
+SHA1-Digest: j6GOmtC6TiPucXP5CXyOy0Jrl9Y=
+
+Name: res/drawable/quickcontact_slider_btn_on.9.png
+SHA1-Digest: MLCq98Pp2WNo7F9jSkCF6SuDW8E=
+

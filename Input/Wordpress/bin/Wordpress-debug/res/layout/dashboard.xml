@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/full_dashboard" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/dashboard" android:background="#ff545454" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/action_bar_height">
+        <ImageView android:layout_width="160.0dip" android:layout_height="160.0dip" android:src="@drawable/dashboard_wp_logo" />
+    </LinearLayout>
+    <include android:id="@id/dashboardActionBar" android:layout_above="@id/dashboard" layout="@layout/action_bar" />
+</RelativeLayout>

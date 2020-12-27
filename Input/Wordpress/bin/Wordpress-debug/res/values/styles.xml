@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme" parent="@android:style/Theme" />
+    <style name="Theme.PlainText" parent="@style/Theme">
+        <item name="android:textAppearance">@style/TextAppearance.Theme.PlainText</item>
+    </style>
+    <style name="Theme.Translucent" parent="@android:style/Theme.Translucent">
+        <item name="android:colorForeground">#ffffffff</item>
+        <item name="android:windowBackground">@drawable/translucent_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Theme.Transparent" parent="@style/Theme">
+        <item name="android:colorForeground">#ffffffff</item>
+        <item name="android:windowBackground">@drawable/transparent_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+    <style name="TextAppearance.Theme.PlainText" parent="@android:style/TextAppearance.Theme">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WordPress" parent="@android:style/Theme.Light">
+        <item name="android:buttonStyle">@style/WordPressButtonAppearance</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/WordPressTitleAppearance</item>
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+        <item name="android:textViewStyle">@style/WordPressTextAppearance</item>
+    </style>
+    <style name="WordPressTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ff464646</item>
+    </style>
+    <style name="WordPressTitleAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff6f6f6</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#bb000000</item>
+        <item name="android:shadowRadius">2.75</item>
+    </style>
+    <style name="WordPressButtonAppearance" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#ff464646</item>
+    </style>
+    <style name="WordPressSectionHeader" parent="@android:style/Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">-4.0dip</item>
+        <item name="android:layout_marginBottom">6.0dip</item>
+        <item name="android:shadowColor">#ffffffff</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="Theme.TabView" parent="@style/Theme">
+        <item name="android:windowBackground">@drawable/screen_background_black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+        <item name="android:progressBarStyle">@android:style/Widget.ProgressBar</item>
+        <item name="android:progressBarStyleHorizontal">@android:style/Widget.ProgressBar.Horizontal</item>
+        <item name="android:progressBarStyleSmall">@android:style/Widget.ProgressBar.Small</item>
+        <item name="android:progressBarStyleLarge">@android:style/Widget.ProgressBar.Large</item>
+        <item name="android:tabWidgetStyle">@style/WordPress.TabWidget</item>
+        <item name="android:progressBarStyleInverse">@android:style/Widget.ProgressBar.Inverse</item>
+        <item name="android:progressBarStyleSmallInverse">@android:style/Widget.ProgressBar.Small.Inverse</item>
+        <item name="android:progressBarStyleLargeInverse">@android:style/Widget.ProgressBar.Large.Inverse</item>
+    </style>
+    <style name="WordPress.TabWidget" parent="@style/WordPress">
+        <item name="android:textAppearance">@style/WordPress.TabWidgetText</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">2</item>
+    </style>
+    <style name="WordPress.TabWidgetText" parent="@style/WordPress">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/tab_indicator_text</item>
+    </style>
+    <style name="WindowTitleBackground">
+        <item name="android:background">@drawable/title_bar_gradient</item>
+        <item name="android:paddingLeft">4.0dip</item>
+    </style>
+    <style name="DashboardButtonText">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

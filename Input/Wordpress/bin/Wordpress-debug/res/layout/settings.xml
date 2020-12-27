@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/settings" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_gravity="center" android:background="#fff5f5f5" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/action_bar_height">
+        <RelativeLayout android:layout_gravity="center" android:background="#fff5f5f5" android:paddingLeft="@dimen/settings_padding" android:paddingTop="@dimen/action_bar_height" android:paddingRight="@dimen/settings_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <RelativeLayout android:id="@id/section1" android:background="@drawable/content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/action_bar_height">
+                <TextView android:id="@id/l_section1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_details" style="@style/WordPressSectionHeader" />
+                <TextView android:textColor="#ff444444" android:id="@id/l_username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/username" android:layout_below="@id/l_section1" />
+                <EditText android:id="@id/username" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0dip" android:singleLine="true" android:layout_below="@id/l_username" />
+                <TextView android:textColor="#ff444444" android:id="@id/l_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/password" android:layout_below="@id/username" />
+                <EditText android:id="@id/password" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0dip" android:password="true" android:singleLine="true" android:layout_below="@id/l_password" />
+                <TextView android:textColor="#ff444444" android:id="@id/l_username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/username" android:layout_below="@id/l_section1" />
+                <TextView android:textColor="#ff444444" android:id="@id/l_httpuser" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/httpuser" android:layout_below="@id/password" />
+                <EditText android:id="@id/httpuser" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0dip" android:singleLine="true" android:layout_below="@id/l_httpuser" />
+                <TextView android:textColor="#ff444444" android:id="@id/l_httppassword" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/httppassword" android:layout_below="@id/httpuser" />
+                <EditText android:id="@id/httppassword" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0dip" android:password="true" android:singleLine="true" android:layout_below="@id/l_httppassword" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/section2" android:background="@drawable/content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_below="@id/section1">
+                <TextView android:id="@id/l_section2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/media" style="@style/WordPressSectionHeader" />
+                <TextView android:textColor="#ff444444" android:id="@id/l_maxImageWidth" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/max_thumbnail_px_width" android:layout_below="@id/l_section2" />
+                <Spinner android:id="@id/maxImageWidth" android:background="@drawable/wp_spinner_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/l_maxImageWidth" />
+                <CheckBox android:textColor="#ff444444" android:id="@id/fullSizeImage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:text="@string/upload_full_size_image" android:layout_below="@id/maxImageWidth" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/section3" android:background="@drawable/content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_below="@id/section2">
+                <TextView android:id="@id/l_section3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/location" style="@style/WordPressSectionHeader" />
+                <CheckBox android:textColor="#ff444444" android:id="@id/location" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:text="@string/geotag" android:layout_below="@id/l_section3" />
+            </RelativeLayout>
+            <Button android:id="@id/save" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/save" android:layout_below="@id/section3" android:layout_alignParentRight="true" />
+            <Button android:id="@id/cancel" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_toLeftOf="@id/save" android:layout_alignTop="@id/save" />
+        </RelativeLayout>
+    </ScrollView>
+    <include android:id="@id/settingsActionBar" android:layout_above="@id/settings" layout="@layout/action_bar" />
+</RelativeLayout>

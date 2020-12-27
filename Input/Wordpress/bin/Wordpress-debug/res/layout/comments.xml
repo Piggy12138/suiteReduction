@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/comments" android:background="#fff4f4f4" android:padding="0.0px" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/commentDetailFragmentContainer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/action_bar_height">
+        <fragment android:name="org.wordpress.android.ViewComments" android:id="@id/commentList" android:background="#ff00ff00" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <include android:id="@id/commentsActionBar" android:layout_above="@id/comments" layout="@layout/action_bar" />
+</RelativeLayout>

@@ -6,8 +6,9 @@
 
 import json
 import os
+import re
 
-header = "type= raw events\ncount= -1\nspeed= 1.0\nstart data >>\n"
+header = "type= raw events\ncount= -1\nspeed= 2.0\nstart data >>\n"
 
 # 查找最后一个出现的元素
 def find_last(lst, sought_elt):
@@ -67,7 +68,20 @@ def eliminate_loops(apkname, index0, index1, index2):
                 else:
                     index_del.pop()
                     index_temp.append(index_res[-1])
-                index_temp.append(test_suite[index]['index'])
+                temp_fp = open(os.getcwd()+'/Output/'+apkname+'/script'+str(index0)+str(index1)+str(index2)+'.txt','r').readlines()
+                index_now = temp_fp[int(test_suite[index]['index'])+4].split('(')[1].split(',')[0]
+
+                temp_fp = open(os.getcwd() + '/Output/' + apkname + '/script' + str(index0) + str(index1) + str(
+                    index2) + '.txt', 'r').readlines()
+                count = 0
+                for i in temp_fp:
+                    count = count+1
+                    if index_now in i:
+                        index_start = count - 5
+                        break
+
+                #index_temp.append(test_suite[index]['index'])
+                index_temp.append(index_start)
                 index_del.append(index_temp)
             # 引起了coverage的变化，不是冗余循环
             else:
@@ -141,4 +155,4 @@ def init_elinimate(apkname,index0,index1,index2):
 
 
 
-init_elinimate('Photostream',0,1,1)
+init_elinimate('RandomMusicPlayer',0,0,0)

@@ -1,182 +1,182 @@
 [
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9a50410)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9a50410)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9a50410)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9a50410)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a976ad80)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a976ad80)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a999a9c8)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a999a9c8)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.launcher2.Launcher(a9828078)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   },
   {
     "coverage": "36%  (24/67)",
-    "state": "com.android.internal.app.ChooserActivity(a980fec0)"
+    "state": "com.android.quicksearchbox.SearchActivity(a96ed940)"
   }
 ]

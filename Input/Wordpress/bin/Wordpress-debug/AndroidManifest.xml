@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="org.wordpress.android">
+    <application android:debuggable="true" android:hardwareAccelerated="true" android:icon="@drawable/app_icon" android:label="WordPress" android:name="WordPress" android:theme="@style/WordPress">
+        <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/app_icon" android:name="wpAndroid"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="Settings"/>
+        <activity android:label="Enter a URL" android:name="Link" android:theme="@android:style/Theme.Dialog"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="ViewPostComments"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="AddAccount" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="EditPost" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain"/>
+                <data android:mimeType="image/*"/>
+                <data android:mimeType="video/*"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name=".Read" android:theme="@android:style/Theme.Light"/>
+        <activity android:name="Preferences" android:windowSoftInputMode="stateHidden"/>
+        <service android:label="Comment Service" android:name="CommentService"/>
+        <receiver android:name="CommentBroadcastReceiver"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="TabView" android:theme="@style/Theme.TabView"/>
+        <activity android:name="ReplyToComment" android:theme="@android:style/Theme.Dialog"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="SelectCategories"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/add_new_category" android:name=".AddCategory" android:theme="@android:style/Theme.Dialog"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="Signup" android:theme="@android:style/Theme.Light"/>
+        <activity android:name="NewAccount"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="ViewStats"/>
+        <activity android:label="QuickPress" android:name=".AddQuickPressShortcut">
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="AddAcountSettings"/>
+        <activity android:name="ViewPosts"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="Dashboard">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="ViewDrafts"/>
+        <activity android:name="Write"/>
+        <activity android:name="About"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="EditContent" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask" android:name="Comments"/>
+        <activity android:name="ViewCommentActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="Posts"/>
+        <activity android:name="ViewPostActivity"/>
+        <receiver android:name="org.wordpress.android.EmmaInstrument.SMSInstrumentedReceiver">
+            <intent-filter>
+                <action android:name="edu.gatech.m3.emma.COLLECT_COVERAGE"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="EmmaInstrumentationActivity" android:name="org.wordpress.android.EmmaInstrument.InstrumentedActivity"/>
+    </application>
+    <instrumentation android:handleProfiling="true" android:label="EmmaInstrumentation" android:name="org.wordpress.android.EmmaInstrument.EmmaInstrumentation" android:targetPackage="org.wordpress.android"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-feature android:name="android.hardware.location" android:required="false"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT"/>
+</manifest>

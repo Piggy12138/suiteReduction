@@ -16,12 +16,13 @@ import shutil
 def compare_script(path,apkname,i,j,m):
     f = open(path, encoding='utf-8')
     test_suite = json.load(f)
-    if not os.path.exists(os.getcwd() + "/Input/" + apkname):
-        os.makedirs(os.getcwd() + "/Input/" + apkname)
-    if (test_suite[0]['coverage'] != test_suite[-1]['coverage']) or (test_suite[0]['state'] != test_suite[-1]['state']):
+    if not os.path.exists(os.getcwd() + "/Output/" + apkname):
+        os.makedirs(os.getcwd() + "/Output/" + apkname)
+   # if (test_suite[0]['coverage'] != test_suite[-1]['coverage']) or (test_suite[0]['state'] != test_suite[-1]['state']):
+    if (test_suite[0]['coverage'] != test_suite[-1]['coverage']):
         shutil.copyfile('D:\\2020学年秋季学期\毕业设计\suite reduction\\Input\\'+apkname+'\\intermediate\\motifcore.evo.script.'
                         +str(i)+'.'+str(j)+'.'+str(m),
-                        os.getcwd()+'//Input//'+apkname+'//motifcore'+str(i)+str(j)+str(m)+'.script')
+                        os.getcwd()+'//Output//'+apkname+'//script'+str(i)+str(j)+str(m)+'.txt')
 
 
 #读取json文件，获取状态转换
@@ -115,39 +116,36 @@ def eliminate_trace(apkname,state_path,script_path,index0,index1,index2):
 
 
 # 程序入口
-def init_eliminate(index,apkname):
+def init_eliminate(indexi,indexj,indexm,apkname):
 
-    for i in range(0,index+1):
-        for j in range (0,5):
-            for m in range(0,3):
-                try:
-                    compare_script('D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\Photostream\\res'
+    for i in range(0,indexi+1):
+        for j in range (0,indexj+1):
+            for m in range(0,indexm+1):
+
+                    compare_script('D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\\'+apkname+'\\res'
                             +str(i)+str(j)+str(m)+'.json',apkname,i,j,m)
 
-                    state_trans('D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\Photostream\\res'
+                    state_trans('D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\\'+apkname+'\\res'
                             +str(i)+str(j)+str(m)+'.json',apkname,i,j,m)
-                except:
-                    pass
-                continue
 
 
-    for i in range(0,index+1):
-        for j in range(0,5):
-            for m in range(0,3):
-                try:
-                    eliminate_trace('Photostream',
-                                'D:\\2020学年秋季学期\\毕业设计\\suite reduction\\EliminateRedundantTrace\\StateTrans\\'+apkname+'\\state'+str(i)+str(j)+str(m)+'.json',
-                                os.getcwd()+'//Input//'+apkname+'//motifcore'+str(i)+str(j)+str(m)+'.script',i,j,m)
-                except:
-                     pass
-                continue
+    # for i in range(0, indexi + 1):
+    #     for j in range(0, indexj + 1):
+    #         for m in range(0, indexm + 1):
+    #             try:
+    #                 eliminate_trace(apkname,
+    #                             'D:\\2020学年秋季学期\\毕业设计\\suite reduction\\EliminateRedundantTrace\\StateTrans\\'+apkname+'\\state'+str(i)+str(j)+str(m)+'.json',
+    #                             os.getcwd()+'//Input//'+apkname+'//motifcore'+str(i)+str(j)+str(m)+'.script',i,j,m)
+    #             except:
+    #                  pass
+    #             continue
 
 
 
 
 
 #eliminate_trace('emulator-5554','Photostream','D:\\2020学年秋季学期\\毕业设计\\suite reduction\\EliminateRedundantTrace\\State\\Photostream\\state002.json',os.getcwd()+'/Input/motifcore.evo.script.0.1.2')
-init_eliminate(2,'Photostream')
+init_eliminate(0,0,1,'RandomMusicPlayer')
 
 
 #state_trans("D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\Photostream\\res2.json",'Photostream')

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="#ff464646" android:textColorLink="#ff21759b" android:id="@id/col1" android:background="#ffffffff" android:paddingRight="3.0dip" android:layout_marginBottom="2.0dip" android:text="Column 1" />
+    <TextView android:textColor="#ff464646" android:id="@id/col2" android:background="#ffffffff" android:paddingRight="2.0dip" android:layout_marginBottom="2.0dip" android:text="Column 2" />
+</TableRow>

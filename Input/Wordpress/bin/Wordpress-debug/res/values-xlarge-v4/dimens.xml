@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="comment_detail_font_size">20.0dip</dimen>
+    <dimen name="action_bar_height">56.0dip</dimen>
+    <dimen name="dashboard_padding_large_left">200.0dip</dimen>
+    <dimen name="dashboard_padding_small_left">120.0dip</dimen>
+    <dimen name="dashboard_padding_large_right">198.0dip</dimen>
+    <dimen name="dashboard_padding_small_right">118.0dip</dimen>
+    <dimen name="dashboard_image_size">96.0dip</dimen>
+    <dimen name="comment_badge_right_margin">0.0dip</dimen>
+    <dimen name="comment_badge_text_view_size">40.0dip</dimen>
+    <dimen name="comment_badge_text_size">20.0dip</dimen>
+    <dimen name="comment_badge_size">64.0dip</dimen>
+    <dimen name="action_bar_gravatar_size">42.0dip</dimen>
+    <dimen name="action_bar_title_text_size">22.0dip</dimen>
+    <dimen name="action_bar_right_margin">113.0dip</dimen>
+    <dimen name="action_bar_button_padding">8.0dip</dimen>
+    <dimen name="chart_width">480.0dip</dimen>
+    <dimen name="chart_height">320.0dip</dimen>
+    <dimen name="settings_padding">200.0dip</dimen>
+    <dimen name="comment_badge_top_margin_landscape">16.0dip</dimen>
+    <dimen name="comment_badge_right_margin_landscape">16.0dip</dimen>
+    <dimen name="comment_badge_top_margin_portrait">385.0dip</dimen>
+    <dimen name="comment_badge_right_margin_portrait">16.0dip</dimen>
+</resources>

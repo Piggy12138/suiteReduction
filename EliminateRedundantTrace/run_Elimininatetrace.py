@@ -6,6 +6,8 @@
 
 import html
 import os
+import time
+
 from bs4 import UnicodeDammit
 import xml.etree.ElementTree as ET
 from lxml import html
@@ -34,7 +36,7 @@ def coverage_instrument(package_name, emulator):
 def run_script(path,emulator,package_name):
     script_name = path.split('/')[-1]
     commandPush = 'adb -s ' + emulator + ' push ' + '"' + path + '"' + ' /mnt/sdcard/.'
-    commandExec = 'adb -s ' + emulator + ' shell motifcore -p ' + package_name + ' --bugreport ' + '-f /mnt/sdcard/' + script_name + ' 1'
+    commandExec = 'adb -s ' + emulator + ' shell monkey -p ' + package_name + ' --bugreport ' + '-f /mnt/sdcard/'+script_name + ' 1'
     os.system(commandPush)
     os.system(commandExec)
 
@@ -63,25 +65,30 @@ def extract_coverage(path):
     return root.xpath('/html/body/table[2]/tr[2]/td[2]/text()')[0].strip()
 
 
-def init(emulator,apkname,indexi):
+def init(emulator,apkname,indexi,indexj,indexm):
     # 拷贝coverage.em文件
     os.system('copy "' + os.path.dirname(
         os.getcwd()) + '\\Input\\' + apkname + '\\bin\\coverage.em"' + ' "' + os.getcwd() + '\\Input\\' + apkname + '"')
     #解析package_name
     package_name = extract_package_name(os.path.dirname(os.getcwd()) + '/Input/' + apkname + '/bin/AndroidManifest.xml')
     for i in range(0,indexi+1):
-            for j in range(0,5):
-                for m in range(0,3):
+            for j in range(0,indexj+1):
+                for m in range(0,indexm+1):
                     os.system("adb -s " + emulator + " shell am force-stop " + package_name)
                     os.system("adb -s " + emulator + " shell pm clear " + package_name)
                     coverage_instrument(package_name,emulator)
-                    run_script(os.getcwd()+'/Output/'+apkname+'/script'+str(i)+str(j)+str(m)+'.txt',emulator,package_name)
+                   # run_script(os.getcwd()+'/Output/'+apkname+'/script'+str(i)+str(j)+str(m)+'.txt',emulator,package_name)
+                    time.sleep(3)
+                    run_script(os.getcwd() + '/Output/' + apkname + '/script' + str(i) + str(j) + str(m) + '.txt',
+                               emulator, package_name)
                     generate_coverage(emulator,apkname)
-                    with open(os.getcwd()+'\\Output\\'+apkname+'\\coverage'+str(i)+str(j)+str(m)+'.txt','w')as file:
-                        file.write(extract_coverage(os.getcwd()+'/coverage/index.html').replace('\xa0', ' '))
+                    try:
+                        with open(os.getcwd()+'\\Output\\'+apkname+'\\coverage'+str(i)+str(j)+str(m)+'.txt','w')as file:
+                                        file.write(extract_coverage(os.getcwd()+'/coverage/index.html').replace('\xa0', ' '))
+                    except:
+                        pass
 
 
 
-
-del_before_ec('emulator-5554')
-init('emulator-5554','Phot ostream',2)
+del_before_ec('emulator-5558')
+init('emulator-5558','RandomMusicPlayer',0,0,2)

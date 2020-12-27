@@ -1,10 +1,12 @@
 # -- coding:utf-8 --
 import os
+import time
+
 from lxml import html
 import json
 from bs4 import UnicodeDammit
 import xml.etree.ElementTree as ET
-
+from playsound import playsound
 # 运行saphiez生成的脚本，记录每一个操作引起的覆盖率变化
 # 2020/11/30
 # by :lyy
@@ -12,7 +14,7 @@ import xml.etree.ElementTree as ET
 
 namespace = '{http://schemas.android.com/apk/res/android}'
 
-header = "type= raw events\ncount= -1\nspeed= 1.0\nstart data >>\n"
+header = "type= raw events\ncount= -1\nspeed= 2.0\nstart data >>\n"
 
 # 初始化文件夹
 def init_file(path, apkname):
@@ -52,8 +54,9 @@ def execute_scripts(path, emulator,package_name):
     path = modify_suffix(path, '.script')
     script_name = path.split('/')[-1]
     commandPush = 'adb -s ' + emulator + ' push ' + '"' + path + '"' + ' /mnt/sdcard/.'
-    commandExec = 'adb -s '+ emulator +' shell motifcore -p '+package_name+' --bugreport '+ '-f /mnt/sdcard/' + script_name + ' 1'
+    commandExec = 'adb -s '+ emulator +' shell monkey -p '+package_name+' --bugreport '+ '-f /mnt/sdcard/' + script_name + ' 1'
     os.system(commandPush)
+    #time.sleep(5)
     os.system(commandExec)
     path = modify_suffix(path, '.txt')
 
@@ -87,11 +90,11 @@ def generate_coverage(emulator,apkname):
     print("### Getting EMMA coverage.ec and report ...")
     print(
         "java -cp emma.jar emma report -r html -in "
-        +'"'+os.getcwd() + "\\Input\\" + apkname + "\\coverage.em"+'",'
+        +'"'+os.path.dirname(os.getcwd()) + "\\Input\\" + apkname + "\\bin\\coverage.em"+'",'
         +'"'+os.getcwd()+"\\coverage.ec"+'"')
     os.system(
         "java -cp emma.jar emma report -r html -in "
-        +'"'+os.getcwd() + "\\Input\\" + apkname + "\\coverage.em"+'",'
+        +'"'+os.path.dirname(os.getcwd()) + "\\Input\\" + apkname + "\\bin\\coverage.em"+'",'
         +'"'+os.getcwd()+"\\coverage.ec"+'"')
 
 
@@ -102,6 +105,7 @@ def generate_coverage(emulator,apkname):
 def readin(path, apkname, emulator,package_name,script,index0,index1,index2):
 
     res = []
+
     # 创建临时脚本
     temp_script = init_file(path, apkname) + '/temp.txt'
 
@@ -135,6 +139,7 @@ def extract_coverage(path):
 
     parser = html.HTMLParser(encoding=doc.original_encoding)
     root = html.document_fromstring(content, parser=parser)
+    root = html.document_fromstring(content, parser=parser)
     return root.xpath('/html/body/table[2]/tr[2]/td[2]/text()')[0].strip()
 
 
@@ -157,19 +162,26 @@ def init(path, apkname, emulator,i):
     # 读取原始脚本，以事件类型创建抽象状态流
     for x in range(0,i+1):
         for j in range(0,5):
-            # clean states
-            os.system("adb -s " + emulator + " shell am force-stop " + package_name)
-            os.system("adb -s " + emulator + " shell pm clear " + package_name)
-            # 程序插桩，启动Emma
-            coverage_instrument(package_name, emulator)
+
+
             for m in range(0,3):
-                 script = os.path.dirname(os.getcwd())+\
+                 # clean states
+                 os.system("adb -s " + emulator + " shell am force-stop " + package_name)
+                 os.system("adb -s " + emulator + " shell pm clear " + package_name)
+                 # 程序插桩，启动Emma
+                 coverage_instrument(package_name, emulator)
+                 print("Current script:script" + str(x) + str(j) + str(m))
+                 playsound("D:\\BaiduNetdiskDownload\\media.mp3")
+                 command = input("Do you want to continue with the next script?")
+                 # os.remove('D:\\BaiduNetdiskDownload\\media.mp3')
+                 if(command == 'yes'):
+                         script = os.path.dirname(os.getcwd())+\
                           '\\Input\\'+apkname+'\\intermediate\\motifcore.evo.script.'+str(x)+'.'+str(j)+'.'+str(m)
-                 # 调用readin函数
-                 readin(path, apkname, emulator, package_name,script,x,j,m)
+                          # 调用readin函数
+                         readin(path, apkname, emulator, package_name,script,x,j,m)
 
 
 
 
 #del_before_ec('emulator-5554')
-init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"Photostream",'emulator-5554',5)
+init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"RandomMusicPlayer",'emulator-5554',5)

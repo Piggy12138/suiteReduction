@@ -1,0 +1,5 @@
+type= raw events
+count= -1
+speed= 2.0
+start data >>
+DispatchTrackball(-1,437811,2,3.0,-3.0,0.0,0.0,0,1.0,1.0,0,0)

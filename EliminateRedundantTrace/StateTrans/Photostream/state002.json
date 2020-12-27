@@ -1,1 +1,0 @@
-[{"index": 18, "state": "com.android.internal.app.ChooserActivity(a9769768) to   mCurrentFocus=null()", "coverage": "36%  (24/67) to 36%  (24/67)"}, {"index": 19, "state": "  mCurrentFocus=null() to com.android.settings.applications.InstalledAppDetails(a982e240)", "coverage": "36%  (24/67) to 36%  (24/67)"}]

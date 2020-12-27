@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/postBar" android:background="@drawable/format_bar_bg" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <TextView android:textSize="20.0dip" android:gravity="center_vertical" android:id="@id/postTitle" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="110.0dip" android:singleLine="true" android:shadowColor="#ffffffff" android:shadowDx="0.0" android:shadowDy="1.0" android:shadowRadius="1.0" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/deletePost" android:background="@drawable/menu_button_selector" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@android:drawable/ic_menu_delete" android:scaleType="fitCenter" android:text="@string/delete_post" android:layout_alignParentRight="true" />
+            <ImageButton android:id="@id/sharePostLink" android:background="@drawable/menu_button_selector" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginRight="4.0dip" android:src="@android:drawable/ic_menu_share" android:scaleType="fitCenter" android:text="@string/share_url" android:layout_toLeftOf="@id/deletePost" android:layout_alignTop="@id/deletePost" />
+            <ImageButton android:id="@id/editPost" android:background="@drawable/menu_button_selector" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginRight="4.0dip" android:src="@android:drawable/ic_menu_edit" android:scaleType="fitCenter" android:text="@string/edit_post" android:layout_toLeftOf="@id/sharePostLink" android:layout_alignTop="@id/sharePostLink" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/postBar">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <WebView android:id="@id/viewPostWebView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <TextView android:id="@id/viewPostTextView" android:padding="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </ScrollView>
+</RelativeLayout>

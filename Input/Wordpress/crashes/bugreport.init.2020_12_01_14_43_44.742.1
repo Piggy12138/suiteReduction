@@ -1,0 +1,27 @@
+// CRASH: org.wordpress.android (pid 17896)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Unable to start activity ComponentInfo{org.wordpress.android/org.wordpress.android.Preferences}: java.lang.NullPointerException
+// Build Label: generic/sdk/generic:4.4.2/KK/3462041:eng/test-keys
+// Build Changelist: 3462041
+// Build Time: 1478757122000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{org.wordpress.android/org.wordpress.android.Preferences}: java.lang.NullPointerException
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NullPointerException
+// 	at org.wordpress.android.Preferences.displayAccounts(Preferences.java:53)
+// 	at org.wordpress.android.Preferences.onCreate(Preferences.java:41)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// 

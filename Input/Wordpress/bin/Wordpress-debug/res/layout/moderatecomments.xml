@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/moderatecomments" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:textColor="#ff444444" android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scrollingCache="true" android:cacheColorHint="#00000000" android:divider="@drawable/list_divider" android:dividerHeight="1.0px" android:choiceMode="singleChoice" />
+    <RelativeLayout android:id="@id/moderationBar" android:background="#88000000" android:paddingTop="4.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="52.0dip" android:layout_alignParentBottom="true">
+        <Button android:textSize="14.0dip" android:textColor="#ffbc0b0b" android:id="@id/bulkDeleteComment" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" android:text="@string/delete" android:layout_alignParentRight="true" />
+        <Button android:textSize="14.0dip" android:textColor="#ff006505" android:id="@id/bulkApproveComment" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" android:text="@string/approve" android:layout_alignParentLeft="true" />
+        <Button android:textSize="14.0dip" android:textColor="#ffd98500" android:id="@id/bulkUnapproveComment" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" android:text="@string/unapprove" android:layout_toRightOf="@id/bulkApproveComment" />
+        <Button android:textSize="14.0dip" android:textColor="#ffbc0b0b" android:id="@id/bulkMarkSpam" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" android:text="@string/spam" android:layout_toRightOf="@id/bulkUnapproveComment" />
+    </RelativeLayout>
+</RelativeLayout>

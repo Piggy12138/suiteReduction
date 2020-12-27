@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reportTypes">
+        <item>@string/report_views</item>
+        <item>@string/report_postviews</item>
+        <item>@string/report_referrers</item>
+        <item>@string/report_searchterms</item>
+        <item>@string/report_clicks</item>
+    </string-array>
+    <string-array name="reportIntervals">
+        <item>@string/today</item>
+        <item>@string/seven_days</item>
+        <item>@string/thirty_days</item>
+        <item>@string/quarter</item>
+        <item>@string/year</item>
+        <item>@string/all</item>
+    </string-array>
+    <string-array name="post_formats_array">
+        <item>Aside</item>
+        <item>Audio</item>
+        <item>Chat</item>
+        <item>Gallery</item>
+        <item>Image</item>
+        <item>Link</item>
+        <item>Quote</item>
+        <item>Standard</item>
+        <item>Status</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="alignment_array">
+        <item>None</item>
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textStyle="bold" android:id="@id/categoryNameLabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/category_name" />
+        <EditText android:id="@id/category_name" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0px" android:layout_below="@id/categoryNameLabel" android:inputType="text" />
+        <TextView android:textStyle="bold" android:id="@id/categorySlugLabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/category_slug" android:layout_below="@id/category_name" />
+        <EditText android:id="@id/category_slug" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0px" android:layout_below="@id/categorySlugLabel" android:inputType="text" />
+        <TextView android:textStyle="bold" android:id="@id/categoryDescLabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/category_desc" android:layout_below="@id/category_slug" />
+        <EditText android:id="@id/category_desc" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="40.0px" android:layout_below="@id/categoryDescLabel" android:inputType="text" />
+        <TextView android:textStyle="bold" android:id="@id/parentDescLabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/category_parent" android:layout_below="@id/category_desc" />
+        <Spinner android:id="@id/parent_category" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginBottom="16.0dip" android:layout_below="@id/parentDescLabel" />
+        <Button android:textSize="20.0dip" android:id="@id/ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="OK" android:layout_below="@id/parent_category" android:layout_alignParentRight="true" />
+        <Button android:textSize="20.0dip" android:id="@id/cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_toLeftOf="@id/ok" android:layout_alignTop="@id/ok" />
+    </RelativeLayout>
+</ScrollView>

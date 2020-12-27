@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/mainRL" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/action_bar_height" android:fillViewport="true">
+        <RelativeLayout android:id="@id/viewstats" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/filters" android:background="@drawable/format_bar_bg" android:padding="4.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/mainRL">
+                <Spinner android:entries="@array/reportTypes" android:id="@id/reportType" android:layout_width="140.0dip" android:layout_height="wrap_content" />
+                <Spinner android:entries="@array/reportIntervals" android:id="@id/reportInterval" android:layout_width="130.0dip" android:layout_height="wrap_content" android:layout_toRightOf="@id/reportType" android:layout_alignTop="@id/reportType" />
+                <Button android:id="@id/go" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GO" android:layout_toRightOf="@id/reportInterval" android:layout_alignTop="@id/reportInterval" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/chartWrapper" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/filters">
+                <TextView android:textSize="16.0dip" android:typeface="serif" android:textStyle="bold" android:textColor="#ff464646" android:gravity="center_horizontal" android:id="@id/chartTitle" android:padding="6.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/filters" />
+                <ImageView android:id="@id/chart" android:paddingLeft="14.0dip" android:visibility="invisible" android:layout_width="@dimen/chart_width" android:layout_height="@dimen/chart_height" android:scaleType="fitXY" android:layout_below="@id/chartTitle" android:layout_centerHorizontal="true" />
+                <TableLayout android:id="@id/dataTable" android:padding="6.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:stretchColumns="*" android:layout_below="@id/chart" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/dotcomLogin" android:background="#aa111111" android:padding="4.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                <TextView android:textColor="#ffffffff" android:id="@id/dotcom" android:paddingLeft="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="WordPress.com login:" android:shadowColor="#ff000000" android:shadowDx="0.0" android:shadowDy="0.5" android:shadowRadius="1.0" android:layout_below="@id/chart" />
+                <EditText android:id="@id/dotcomUsername" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/stats_username" android:layout_below="@id/dotcom" />
+                <EditText android:id="@id/dotcomPassword" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/stats_password" android:layout_below="@id/dotcomUsername" android:inputType="textPassword" />
+                <Button android:textColor="#ff464646" android:id="@id/saveDotcom" android:background="@drawable/wp_button_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/save" android:layout_below="@id/dotcomPassword" android:layout_alignParentRight="true" />
+                <TextView android:textColor="#ffffffff" android:layout_gravity="left" android:id="@id/wpcomHelp" android:paddingLeft="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" android:text="@string/help_stats" android:shadowColor="#ff000000" android:shadowDx="0.0" android:shadowDy="0.5" android:shadowRadius="1.0" android:layout_alignBottom="@id/saveDotcom" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <include android:id="@id/actionBar" android:layout_above="@id/viewstats" layout="@layout/action_bar" />
+</RelativeLayout>

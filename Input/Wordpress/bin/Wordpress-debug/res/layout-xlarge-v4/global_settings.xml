@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/settings" android:background="#fff5f5f5" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center" android:background="#fff5f5f5" android:padding="10.0dip" android:layout_width="450.0dip" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:id="@id/section1" android:background="@drawable/content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/l_section1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Comment Notifications" style="@style/WordPressSectionHeader" />
+            <TextView android:textColor="#ff444444" android:id="@id/l_comment_notifications" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Select blogs to receive comment notifications:" android:layout_below="@id/l_section1" />
+            <LinearLayout android:id="@id/notification_accounts" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:textColor="#ff444444" android:id="@id/l_interval" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Update Interval:" android:layout_below="@id/l_comment_notifications" />
+            <Spinner android:id="@id/interval" android:background="@android:drawable/editbox_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/l_interval" />
+            <CheckBox android:textColor="#ff444444" android:id="@id/notification_sound" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/notification_sound" android:layout_below="@id/interval" />
+            <CheckBox android:textColor="#ff444444" android:id="@id/notification_vibrate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/notification_vibrate" android:layout_below="@id/notification_sound" />
+            <CheckBox android:textColor="#ff444444" android:id="@id/notification_light" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/notification_blink" android:layout_below="@id/notification_vibrate" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/section2" android:background="@drawable/content_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_below="@id/section1">
+            <TextView android:id="@id/l_section2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Post Signature" style="@style/WordPressSectionHeader" />
+            <CheckBox android:textColor="#ff444444" android:id="@id/signature_flag" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Add a signature to new posts:" android:layout_below="@id/l_section2" />
+            <EditText android:textColor="#ff444444" android:id="@id/signature" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Posted from WordPress for Android" android:maxLength="200" android:layout_below="@id/signature_flag" />
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>
