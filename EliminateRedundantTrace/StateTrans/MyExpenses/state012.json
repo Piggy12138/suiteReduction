@@ -1,0 +1,52 @@
+[
+  {
+    "index": 23,
+    "state": "com.android.launcher2.Launcher(b4689040) to com.android.internal.app.ChooserActivity(b3edc018)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 82,
+    "state": "com.android.internal.app.ChooserActivity(b3edc018) to   mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 91,
+    "state": "  mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78) to com.android.internal.app.ChooserActivity(b3edc018)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 92,
+    "state": "com.android.internal.app.ChooserActivity(b3edc018) to com.android.settings.applications.InstalledAppDetails(b4610e50)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 95,
+    "state": "com.android.settings.applications.InstalledAppDetails(b4610e50) to com.android.settings.applications.InstalledAppDetails(b3e1c5b8)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 129,
+    "state": "com.android.settings.applications.InstalledAppDetails(b3e1c5b8) to com.android.settings.applications.InstalledAppDetails(b4610e50)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 308,
+    "state": "com.android.settings.applications.InstalledAppDetails(b4610e50) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b40faa38)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 324,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b40faa38) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41b4b60)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 325,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41b4b60) to   mCurrentFocus=Window{b40e5868 u0 PopupWindow:b3f18600(b40e5868)",
+    "coverage": "33%  (33/100) to 36%  (36/100)"
+  },
+  {
+    "index": 330,
+    "state": "  mCurrentFocus=Window{b40e5868 u0 PopupWindow:b3f18600(b40e5868) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41b4b60)",
+    "coverage": "36%  (36/100) to 36%  (36/100)"
+  }
+]

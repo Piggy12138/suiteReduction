@@ -1,0 +1,37 @@
+[
+  {
+    "index": 10,
+    "state": "com.android.launcher2.Launcher(b4689040) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4219908)",
+    "coverage": "36%  (36/100) to 36%  (36/100)"
+  },
+  {
+    "index": 18,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4219908) to   mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78)",
+    "coverage": "36%  (36/100) to 36%  (36/100)"
+  },
+  {
+    "index": 28,
+    "state": "  mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4219908)",
+    "coverage": "36%  (36/100) to 36%  (36/100)"
+  },
+  {
+    "index": 100,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4219908) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e1c350)",
+    "coverage": "36%  (36/100) to 36%  (36/100)"
+  },
+  {
+    "index": 102,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e1c350) to org.totschnig.myexpenses.ExpenseEdit(b3e54fa8)",
+    "coverage": "36%  (36/100) to 36%  (36/100)"
+  },
+  {
+    "index": 106,
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b3e54fa8) to org.totschnig.myexpenses.SelectCategory(b3f12d58)",
+    "coverage": "36%  (36/100) to 40%  (40/100)"
+  },
+  {
+    "index": 120,
+    "state": "org.totschnig.myexpenses.SelectCategory(b3f12d58) to org.totschnig.myexpenses.GrisbiImport(b4688e80)",
+    "coverage": "40%  (40/100) to 41%  (41/100)"
+  }
+]

@@ -1,0 +1,2229 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xlarge-mdpi/card_blue_0_fuckyou_ff.png
+SHA1-Digest: +gn1HQb46hwQOmA4HMyhE+6m7R4=
+
+Name: res/drawable-xlarge-hdpi/card_green_5.png
+SHA1-Digest: nP02oEEVjK3GTVclsCTG8Rvmvho=
+
+Name: res/drawable-xlarge-hdpi/card_wild.png
+SHA1-Digest: xMFXRzXW+KyV62zH+WSKdHX3mEc=
+
+Name: res/drawable-xhdpi/card_yellow_0.png
+SHA1-Digest: ozuoaSIoYqL8S1O4zFPXCAK3VTg=
+
+Name: res/drawable-xlarge-hdpi/winner_east.png
+SHA1-Digest: lyMxWtOcdwTKcx8/4mbNKkf2vSk=
+
+Name: res/drawable-mdpi/card_blue_7.png
+SHA1-Digest: vx4BR/CyKfT27iUc4+ZVK6N1v8k=
+
+Name: res/drawable-xlarge-mdpi/card_blue_8.png
+SHA1-Digest: f6YqTUoNuWy6PQ+c3SYPh1LrqPI=
+
+Name: res/drawable-xlarge-hdpi/player_red_west.png
+SHA1-Digest: wjQn6UFeD994DErSBOZy085GIuk=
+
+Name: res/drawable-xhdpi/card_yellow_1.png
+SHA1-Digest: yc0vt3C0gMbiJIoNzfXB8n80wF8=
+
+Name: res/drawable-xlarge-hdpi/card_green_0.png
+SHA1-Digest: kM2JAks8fhrKP75qYF2ZLqj4OXw=
+
+Name: res/drawable-hdpi/card_blue_6.png
+SHA1-Digest: i+OdZTpGT8pHqfbOODQtnlgvYj4=
+
+Name: res/drawable-xhdpi/card_red_0_hd.png
+SHA1-Digest: YTf8tpPl2655DaXq4qKsfnW3swU=
+
+Name: res/drawable-xlarge-mdpi/player_red_west.png
+SHA1-Digest: MIF+1Hr74IdIXC952Yd4ncssUvc=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_s_double.png
+SHA1-Digest: gTxvExARyyl6ISB2fLfldRlQ70I=
+
+Name: res/drawable-mdpi/card_green_9.png
+SHA1-Digest: p7O5jvmtfO3SAtopeezqqp/IH+k=
+
+Name: res/drawable-xlarge-hdpi/card_red_s_double.png
+SHA1-Digest: c7XIKmzUGd6bg6mQXhu/nvIczkE=
+
+Name: res/drawable-hdpi/btn_new_game.png
+SHA1-Digest: EcuVbCI/qt8qjPIQvS5x4eZnKfs=
+
+Name: res/drawable-xlarge-hdpi/card_green_1.png
+SHA1-Digest: lPad7+2FoOylWAchUwQFlAH99XY=
+
+Name: res/drawable-xhdpi/winner_south.png
+SHA1-Digest: 9dA8bcrdD10QYech1u3YkYqV7KA=
+
+Name: res/drawable-mdpi/winner_north.png
+SHA1-Digest: EtMG3BCTDsgDnch9Hn3bOJk9s1o=
+
+Name: res/drawable-xhdpi/card_wild_hos.png
+SHA1-Digest: eWIDxGPvc4S8HvYzErPNKO3Ues8=
+
+Name: res/drawable-xlarge-mdpi/player_green_north.png
+SHA1-Digest: 2u71HpGrJXRHqSJWj1zBM5qQeKQ=
+
+Name: res/drawable-xlarge-mdpi/card_red_7.png
+SHA1-Digest: 2PLw5uphnKu53VOfRx4g2DYM5EQ=
+
+Name: res/drawable-xlarge-hdpi/card_green_2.png
+SHA1-Digest: EFodkFKh7gQwcZXbJpo6Pdw2N9E=
+
+Name: res/drawable-xlarge-mdpi/winner_north.png
+SHA1-Digest: SWoDVRdIM8Q5jOKPEXB5bViUY5k=
+
+Name: res/drawable-mdpi/card_wild_db.png
+SHA1-Digest: jQbjd4ahImMM8vo6SkWhUseSrU0=
+
+Name: res/drawable-xlarge-mdpi/player_red_east.png
+SHA1-Digest: 8YbzFdQDgUQWbJ/Co4d2B/vKu/0=
+
+Name: res/drawable-mdpi/card_green_5.png
+SHA1-Digest: wZBkoD9ztmq740gsKIwL3U7xN20=
+
+Name: res/drawable-xlarge-hdpi/player_west.png
+SHA1-Digest: NNV7ZcxWcceHuKYPDzwc4+eCP4w=
+
+Name: res/drawable-xlarge-hdpi/btn_help.png
+SHA1-Digest: /81Zye7Zup63mAxQA1CGgVHJJeE=
+
+Name: res/drawable-hdpi/cw_green.png
+SHA1-Digest: L9HGDmIYdfAfz1ULEx+Jm/RxDfc=
+
+Name: res/drawable-mdpi/card_yellow_4.png
+SHA1-Digest: 5+vwLO35hzdotB+MC8sOlx+Qa0U=
+
+Name: res/drawable-mdpi/emoticon_victim.png
+SHA1-Digest: /xSrf679uY2V9PDljYeNMM0XxYs=
+
+Name: res/drawable-mdpi/sel_btn_new_game.xml
+SHA1-Digest: pRatkBw2svZZ53JokXEndoeFqHY=
+
+Name: res/drawable-xhdpi/btn_exit.png
+SHA1-Digest: zpg58bWPXAS7Ny1WhPMKYVUlyWI=
+
+Name: res/drawable-xhdpi/card_blue_0.png
+SHA1-Digest: 0w8mknKV+zoms8oHGxW59iLE9jE=
+
+Name: res/drawable-hdpi/card_green_s_double.png
+SHA1-Digest: dpEsL/yGlsapPoHCbzmREOLkzPU=
+
+Name: com/vladium/emma/report/report_usage.res
+SHA1-Digest: rNy8vxm9C92z5Xa47Ap1bGjU380=
+
+Name: res/drawable-mdpi/card_green_7.png
+SHA1-Digest: pg/ArEQJcqw3U6pJla9Afcvg2dk=
+
+Name: res/drawable-hdpi/card_blue_d.png
+SHA1-Digest: yWQwaw/JYTw+bWlhwOh7H+4qM/0=
+
+Name: res/drawable-xlarge-mdpi/player_blue_north.png
+SHA1-Digest: wgGfiuk/+TNiwaso0wcR5aJ8cSs=
+
+Name: res/drawable-xlarge-hdpi/sel_btn_settings.xml
+SHA1-Digest: xFdTnRvq8P8ws8Bo6zkGLBmkW/Y=
+
+Name: res/drawable-xhdpi/card_green_4_irish.png
+SHA1-Digest: zOD1Pj6LnTZgycyim6/ngQorwp0=
+
+Name: res/drawable-mdpi/card_green_2.png
+SHA1-Digest: /gVDKAjr47hlG7sbBr7bdaDv72s=
+
+Name: res/drawable-xlarge-hdpi/card_blue_d.png
+SHA1-Digest: Wd4M1Ym9mZaihThru18W9bhTrRY=
+
+Name: res/drawable-mdpi/btn_exit.png
+SHA1-Digest: mAGrajckvgBFF7wrsl9QRM3Bxco=
+
+Name: res/drawable-hdpi/card_yellow_r_skip.png
+SHA1-Digest: ZBhiR0L6U0JhyKdcDwtLDuGy+CI=
+
+Name: res/drawable-hdpi/card_green_2.png
+SHA1-Digest: 471NMCSgrjFiVnkn84Q9zC30pAA=
+
+Name: res/drawable-xlarge-mdpi/winner_east.png
+SHA1-Digest: lyMxWtOcdwTKcx8/4mbNKkf2vSk=
+
+Name: res/drawable-xhdpi/player_south.png
+SHA1-Digest: tHQo2hYT8rhGzAM9v5JQYmrLGQY=
+
+Name: res/drawable-hdpi/card_blue_9.png
+SHA1-Digest: FwKxc65ixabs5iIebJ4MTFMSRfg=
+
+Name: res/drawable-hdpi/card_yellow_8.png
+SHA1-Digest: TuzKtZUPQO6wUjkTcRDWQ/k9Lcw=
+
+Name: res/drawable-hdpi/card_blue_5.png
+SHA1-Digest: leMu8/zkrlfFxNPgAAho/BXMNqE=
+
+Name: res/drawable-xlarge-hdpi/card_red_0.png
+SHA1-Digest: Y7xGMbMDeBGphe6gi5h1ZJBhNf4=
+
+Name: res/drawable-xlarge-mdpi/card_blue_s_double.png
+SHA1-Digest: Sq1WFMQ+OtmTMOHteqI2k//6m30=
+
+Name: res/drawable-mdpi/card_red_4.png
+SHA1-Digest: sQulw4dtxlSNSKDgj71oC8nBwKY=
+
+Name: res/drawable-hdpi/card_blue_0_fuckyou.png
+SHA1-Digest: J8Vg8i6pXtL2SlkSAL78Mem2+1k=
+
+Name: res/drawable-xlarge-hdpi/player_red_south.png
+SHA1-Digest: PGwt64JwdKIFGwAqNJIU1fzByqY=
+
+Name: res/drawable-xhdpi/card_green_9.png
+SHA1-Digest: dFob5nuc4ep0mQl3nVkjQq2S/C8=
+
+Name: res/drawable-mdpi/player_red_east.png
+SHA1-Digest: yytlVNJ4nrfed8DCPbrVz2p3Jos=
+
+Name: res/drawable-xlarge-mdpi/player_blue_south.png
+SHA1-Digest: 5y4U/8V7KF6n3UKhNlg/CPQ/q3s=
+
+Name: res/drawable-xhdpi/ccw_red.png
+SHA1-Digest: 5x/pukYMrO2MOccfoO8F2OURycw=
+
+Name: res/drawable-xlarge-hdpi/card_green_3_aids.png
+SHA1-Digest: o4UXKAknJifn4nZZLjFR0BZtE5o=
+
+Name: res/drawable-xlarge-hdpi/card_blue_2_shield.png
+SHA1-Digest: Y/YT6jvzsO/pbt+Gc3Ea6nnyA10=
+
+Name: res/drawable-mdpi/card_yellow_d.png
+SHA1-Digest: I0/DNcXFSlCVmAFg4HuCnYh0ocI=
+
+Name: res/drawable-xlarge-mdpi/card_blue_3.png
+SHA1-Digest: sr1Ktf05uP6qJVEcoBYlBo6YxQo=
+
+Name: res/drawable-xhdpi/sel_btn_exit.xml
+SHA1-Digest: QX7Yz+wpmxiQb00Ie/WncobWmnQ=
+
+Name: res/drawable-mdpi/card_red_0_hd.png
+SHA1-Digest: zhjD55NDBuGcVAtZnF77NctnS/Y=
+
+Name: res/drawable-mdpi/card_red_r_skip.png
+SHA1-Digest: oIftm6AdrVB1I1P9J8eho6Qrhgg=
+
+Name: res/drawable-xlarge-mdpi/player_yellow_south.png
+SHA1-Digest: Yia2w8qeOgdm0wUVcRHbFVNWLi4=
+
+Name: res/drawable-xlarge-mdpi/winner_south.png
+SHA1-Digest: 9dA8bcrdD10QYech1u3YkYqV7KA=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_s_double.png
+SHA1-Digest: nU5E63z0cpsF2DEFiKu51g0NIyo=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_s.png
+SHA1-Digest: DZFLWJwKLYxluB4r4atxGtmcGto=
+
+Name: res/drawable-xhdpi/card_red_8.png
+SHA1-Digest: sc43ldKzsDbnRRLwYIMgIU3YjJM=
+
+Name: res/drawable-xhdpi/card_blue_2.png
+SHA1-Digest: unMBCH7wv8kyFnuAhhPDJds9nTc=
+
+Name: res/drawable-xlarge-mdpi/player_yellow_west.png
+SHA1-Digest: 9+1BL49VYqZtNs9knDzA7F4s6d8=
+
+Name: res/drawable-hdpi/btn_settings.png
+SHA1-Digest: ZbadG5pRY041HighwwA/T6blOs4=
+
+Name: res/drawable-mdpi/card_yellow_7.png
+SHA1-Digest: 3glwpvzqrIHaSStHPcKg5OauRg8=
+
+Name: res/drawable-hdpi/card_wild_db.png
+SHA1-Digest: nerp686bdj8ZpzmBQWG4zloceNU=
+
+Name: res/drawable-mdpi/sel_btn_about.xml
+SHA1-Digest: h+TqSY+4mJK3ifDtf7p4Ci1IDTg=
+
+Name: res/drawable-xlarge-hdpi/card_green_r_skip.png
+SHA1-Digest: +2N1sF7SW5iOhkbEQaEQuB1YDqA=
+
+Name: res/drawable-xhdpi/winner_north.png
+SHA1-Digest: SWoDVRdIM8Q5jOKPEXB5bViUY5k=
+
+Name: res/drawable-hdpi/ccw_red.png
+SHA1-Digest: uJDParQkeuJ+Hlbw7EmM5AJEutY=
+
+Name: res/drawable-xlarge-mdpi/card_green_r.png
+SHA1-Digest: 8nt2/Q2QHyTtjNixLmTXedeOJ3w=
+
+Name: res/drawable-xhdpi/ccw_yellow.png
+SHA1-Digest: 8snq+Upymsec03gT74taDyWN9aE=
+
+Name: res/drawable-xhdpi/cw_blue.png
+SHA1-Digest: 1FGX272erkdHcNwSm/ScXMbp3P8=
+
+Name: res/drawable-hdpi/card_blue_r.png
+SHA1-Digest: phBPekp0gPmwi38MfsAsqAHRx7Q=
+
+Name: res/drawable-hdpi/card_back.png
+SHA1-Digest: 9c2TzUfDqQvVvC8VF/0MdElhI/k=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_69.png
+SHA1-Digest: 4EGfD5G8x25BGnan8MgCX5A/w1U=
+
+Name: com/vladium/emma/data/merge_usage.res
+SHA1-Digest: gSgwR8qchJPP4qAY6l658yzRDzY=
+
+Name: res/drawable-hdpi/card_wild_hos.png
+SHA1-Digest: m7uOw6CC/wa78EJzUkehtemnBag=
+
+Name: res/drawable-hdpi/card_wild_hd.png
+SHA1-Digest: 8fNNJpr5XBbn7SA0GZEJxqtE/4U=
+
+Name: res/drawable-mdpi/card_yellow_0.png
+SHA1-Digest: KII3202Sz73+nD3/7iA7Szf+FAc=
+
+Name: res/drawable-xlarge-mdpi/card_blue_r_skip.png
+SHA1-Digest: dkd9+rKb2stIj78q5lHVExZrPsU=
+
+Name: res/drawable-xlarge-mdpi/btn_exit_outline.png
+SHA1-Digest: gYQDlteLfw+/NxoW3XOBPr8l9I8=
+
+Name: res/drawable-xhdpi/card_red_s.png
+SHA1-Digest: Z3GorinnmyOfphBnaC8WGzOYu54=
+
+Name: res/drawable-xlarge-mdpi/player_green_south.png
+SHA1-Digest: zkAfDmr0ujIWSYIMxVwJNHTjHwg=
+
+Name: res/drawable-mdpi/card_wild_mystery.png
+SHA1-Digest: OA5mXZkveOpb9tlc+/G1lbm2g+o=
+
+Name: res/drawable-mdpi/winner_west.png
+SHA1-Digest: yKcos387Mq6vjkiu23SNlZzSHVY=
+
+Name: res/drawable-xhdpi/card_yellow_1_mad.png
+SHA1-Digest: PO9XO/4XFSNraJXh1HumOksxr70=
+
+Name: res/drawable-xlarge-hdpi/card_blue_4.png
+SHA1-Digest: EZmRPbouoWYPWgP2SJxErGpg/7U=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_4.png
+SHA1-Digest: 7iCRGZfolTb8oQnqvbjINnVboGA=
+
+Name: res/drawable-hdpi/card_badge.png
+SHA1-Digest: 9RJ2u/wT0iDahRqfBFy51kB5xF0=
+
+Name: res/drawable-xlarge-hdpi/winner_north.png
+SHA1-Digest: SWoDVRdIM8Q5jOKPEXB5bViUY5k=
+
+Name: res/drawable-hdpi/card_red_d_spreader.png
+SHA1-Digest: hgnujjyWwTaqnsAHxZ9vg/1PEME=
+
+Name: res/drawable-hdpi/card_red_3.png
+SHA1-Digest: a/Cz9QCZOTcDk+m/QhfM70F9ReY=
+
+Name: res/drawable-xlarge-hdpi/card_red_s.png
+SHA1-Digest: Z3GorinnmyOfphBnaC8WGzOYu54=
+
+Name: res/drawable-mdpi/card_blue_r_skip.png
+SHA1-Digest: wyTmVKLwFszOIztaeGh6v8Zl7Nk=
+
+Name: res/drawable-xlarge-mdpi/card_red_6.png
+SHA1-Digest: Ed1RZIK9l0h+uuWx9EfkR0oTQUs=
+
+Name: res/drawable-mdpi/card_yellow_6.png
+SHA1-Digest: W1HRhWBq077eVTipDbGezSjTblA=
+
+Name: res/drawable-xlarge-mdpi/splash.png
+SHA1-Digest: kQym6EFPmr4144OE48d4zG7DOms=
+
+Name: res/drawable-xlarge-mdpi/emoticon_victim.png
+SHA1-Digest: QFsFeowvJsizj9SqzYBcnHm1yGc=
+
+Name: res/drawable-hdpi/card_green_4_irish.png
+SHA1-Digest: pjza/bb38UpS/zyX7QCPKjOah4A=
+
+Name: res/drawable-xlarge-hdpi/card_wild_mystery.png
+SHA1-Digest: VkwrTwTWTHOwDumrGjFK0wKHRQg=
+
+Name: res/drawable-xlarge-mdpi/card_red_d.png
+SHA1-Digest: dIipmZg9k3n5zUlBa00wjMUIHBk=
+
+Name: res/drawable-hdpi/card_blue_2.png
+SHA1-Digest: mVEDkQf47Remx8GuN2aYTaj7/kY=
+
+Name: res/drawable-xlarge-hdpi/cw_blue.png
+SHA1-Digest: 1FGX272erkdHcNwSm/ScXMbp3P8=
+
+Name: res/drawable-mdpi/card_blue_0_fuckyou.png
+SHA1-Digest: GRrCGehJyj+Kau3Ro9EyBQwfIuY=
+
+Name: res/drawable-xlarge-hdpi/player_yellow_south.png
+SHA1-Digest: xkKLsJ1IPd1rbUNcgPfPHqv7f0E=
+
+Name: res/drawable-xhdpi/card_red_5_magic.png
+SHA1-Digest: biTUz1nM8hN5q4gGxV/yKVf6gp0=
+
+Name: res/drawable-xlarge-mdpi/card_red_2_glasnost.png
+SHA1-Digest: KNsE22iqZRB7u6+1FgtKARUONfw=
+
+Name: res/layout-land/main.xml
+SHA1-Digest: KWQYoH8AHuV2xrucJZi6POQVGUs=
+
+Name: res/drawable-hdpi/winner_south.png
+SHA1-Digest: 9dA8bcrdD10QYech1u3YkYqV7KA=
+
+Name: res/drawable-xlarge-mdpi/card_red_3.png
+SHA1-Digest: a/Cz9QCZOTcDk+m/QhfM70F9ReY=
+
+Name: res/drawable-hdpi/card_yellow_69.png
+SHA1-Digest: 4EGfD5G8x25BGnan8MgCX5A/w1U=
+
+Name: res/drawable-xhdpi/btn_new_game.png
+SHA1-Digest: uJyaUvZvqnKRO6GRcY9xg/8M1Gk=
+
+Name: res/drawable-xhdpi/sel_btn_help.xml
+SHA1-Digest: GxxbGxLYZHPFIhYhf5ZkKmu/B9A=
+
+Name: res/drawable-xhdpi/card_red_5.png
+SHA1-Digest: bX8BoyQQFfXqAmTv/kvD7Lh2cT0=
+
+Name: res/drawable-xlarge-hdpi/card_red_d_spreader.png
+SHA1-Digest: ZE4rEKHVlUCJk8SfUaaovM9uEkw=
+
+Name: res/drawable-hdpi/sel_btn_continue.xml
+SHA1-Digest: vC0y58TFyUxfjY2OmaogxCuxbRI=
+
+Name: res/drawable-mdpi/card_yellow_9.png
+SHA1-Digest: W7hZS2eSAfVRr5UcIWjuV2hm+Is=
+
+Name: res/drawable-hdpi/card_blue_2_shield.png
+SHA1-Digest: /Xdd8qRbNzmMw3xTPKszB9jedEk=
+
+Name: res/drawable-mdpi/card_green_4.png
+SHA1-Digest: Wub90vYx8DsrtUZI29NbZ0xX4AE=
+
+Name: res/drawable-hdpi/card_blue_s.png
+SHA1-Digest: R3t7VypKiF/QeU6aRh8L/nD1aRo=
+
+Name: res/drawable-xhdpi/card_red_9.png
+SHA1-Digest: XKtfXdMhPzA1XvRztJvYM0XGtqQ=
+
+Name: res/drawable-xlarge-hdpi/player_yellow_west.png
+SHA1-Digest: S3BfUtsHumYnbOYvnbsNg/46ssc=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_5.png
+SHA1-Digest: 8zsRqhsnapb4s/E1Wv71RIiMbX4=
+
+Name: res/drawable-hdpi/card_yellow_1_mad.png
+SHA1-Digest: 5z2TB6NRWlWa3ipSX59a6imQDl0=
+
+Name: res/drawable-xhdpi/card_red_s_double.png
+SHA1-Digest: c7XIKmzUGd6bg6mQXhu/nvIczkE=
+
+Name: res/drawable-xlarge-mdpi/card_wild.png
+SHA1-Digest: M6PQzfdrtZI5iNttfX0qbO8agbQ=
+
+Name: res/drawable-xlarge-mdpi/card_badge.png
+SHA1-Digest: 9RJ2u/wT0iDahRqfBFy51kB5xF0=
+
+Name: res/drawable-xlarge-hdpi/card_wild_hd.png
+SHA1-Digest: wHMOWnASA3L6XYqhH9yEyDsQYXs=
+
+Name: res/drawable-xhdpi/card_green_7.png
+SHA1-Digest: ovV0jOKhSxpH2vI7tGCQGt4YFgk=
+
+Name: res/drawable-xlarge-hdpi/splash_land.png
+SHA1-Digest: +sp2wwZ93nGOOra2gNEscIWMu5Y=
+
+Name: res/drawable-xlarge-mdpi/player_yellow_east.png
+SHA1-Digest: BcwT2Pgl5322ponEmzgIuVb89EU=
+
+Name: res/drawable-xhdpi/card_red_3.png
+SHA1-Digest: SYFBN2PayZxu/WdAZOoJkKeiCRM=
+
+Name: res/drawable-xhdpi/card_blue_0_fuckyou_ff.png
+SHA1-Digest: F7ax20Ps1Lv1PvnttG4VR1qw2q8=
+
+Name: res/drawable-hdpi/player_west.png
+SHA1-Digest: VZ62AQ8PgyKHaFU9Mg7yEvOfryY=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_s.png
+SHA1-Digest: RT+xI66F/AEU7VY5yzd+Fzx7CWU=
+
+Name: res/drawable-mdpi/card_blue_4.png
+SHA1-Digest: Rpr7bkRzAP3VRyek69n0lEOuL7s=
+
+Name: res/drawable-mdpi/card_red_s_double.png
+SHA1-Digest: c5FeH1Uk4Gqjim/17dEF2Z22Ges=
+
+Name: res/drawable-mdpi/card_blue_3.png
+SHA1-Digest: EAqmBqt6Vv0kpffApLzICCZnHWU=
+
+Name: res/drawable-xlarge-hdpi/card_green_0_quitter.png
+SHA1-Digest: vUse1VL4sdgMMabQMwEEXaWov/E=
+
+Name: res/drawable-xlarge-hdpi/table_background.png
+SHA1-Digest: wI/4iqdO8GB0+1UaJNvJIXkGjms=
+
+Name: res/drawable-xhdpi/card_blue_d.png
+SHA1-Digest: Wd4M1Ym9mZaihThru18W9bhTrRY=
+
+Name: res/drawable-xlarge-hdpi/btn_help_outline.png
+SHA1-Digest: MrgGSLUEGjV2z/51LAOhueKDOsk=
+
+Name: res/drawable-hdpi/card_yellow_4.png
+SHA1-Digest: 7iCRGZfolTb8oQnqvbjINnVboGA=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_r_skip.png
+SHA1-Digest: ZBhiR0L6U0JhyKdcDwtLDuGy+CI=
+
+Name: res/drawable-xlarge-hdpi/card_red_5.png
+SHA1-Digest: bX8BoyQQFfXqAmTv/kvD7Lh2cT0=
+
+Name: res/drawable-xlarge-hdpi/card_blue_5.png
+SHA1-Digest: 036pdiPvC3MX/f1wixmC4DQy+RM=
+
+Name: res/drawable-mdpi/card_yellow_3.png
+SHA1-Digest: DsrL73HSE2SM3unc3FEVPcXQOwM=
+
+Name: res/drawable-xhdpi/card_green_4.png
+SHA1-Digest: KFOSus2cv8V+9Tq12kkFv5lIsD0=
+
+Name: res/drawable-xlarge-hdpi/emoticon_victim.png
+SHA1-Digest: NqizUEuLflRkYKx0rXI70wGnymo=
+
+Name: res/drawable-hdpi/card_green_3_aids.png
+SHA1-Digest: 6I5O6dXoN+rMsOqxcTkSgABuHxg=
+
+Name: res/drawable-hdpi/player_blue_south.png
+SHA1-Digest: 5y4U/8V7KF6n3UKhNlg/CPQ/q3s=
+
+Name: res/drawable-xhdpi/btn_about.png
+SHA1-Digest: MyemtkVJVduTTnTJ4RBbrrxQIf4=
+
+Name: res/drawable-hdpi/card_green_3_aids_ff.png
+SHA1-Digest: Rdy4kYZOMCMc4lKU0d/2pmiEo4s=
+
+Name: res/drawable-hdpi/card_yellow_0_shitter.png
+SHA1-Digest: 95rBqCA5s76zyR7qghHnzLmHIUs=
+
+Name: res/drawable-mdpi/card_red_s.png
+SHA1-Digest: FXJtp7fOkVzkiLs/lryMY/KFw9Q=
+
+Name: res/drawable-xlarge-mdpi/btn_about.png
+SHA1-Digest: 7/3dLQXcDP8diln6Uw9S0Bph8DE=
+
+Name: res/drawable-xlarge-hdpi/btn_settings.png
+SHA1-Digest: ytH4iu3W2mJ43RxcZOc1jXisaAs=
+
+Name: res/drawable-hdpi/card_green_7.png
+SHA1-Digest: kRv+OMkONoUWsC/HWzvu15X20eY=
+
+Name: res/drawable-mdpi/sel_btn_exit.xml
+SHA1-Digest: QX7Yz+wpmxiQb00Ie/WncobWmnQ=
+
+Name: res/drawable-xhdpi/player_blue_north.png
+SHA1-Digest: MibhSxAUZQ5ZnsxhbYF5tqjusuo=
+
+Name: res/layout/dlg_help.xml
+SHA1-Digest: 6XqZqDYLMy5l5jg+2D0nEx/Hrzs=
+
+Name: res/drawable-xhdpi/splash_land.png
+SHA1-Digest: +sp2wwZ93nGOOra2gNEscIWMu5Y=
+
+Name: res/drawable-xlarge-mdpi/btn_continue_outline.png
+SHA1-Digest: 5V0TKL6TgjxvIoVbpXGVt3GqrfQ=
+
+Name: res/drawable-xlarge-hdpi/card_red_d.png
+SHA1-Digest: HMPShzJB0AQ0LPkmfzqlG7ceWiY=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_6.png
+SHA1-Digest: 5j8uEt7YKHRWeXqTvpwy3mI/okw=
+
+Name: res/drawable-xlarge-hdpi/card_wild_db.png
+SHA1-Digest: wgwY1tPD7XHRh4PWfnE6rDokUs8=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: BmbhDLkuSgj7xj742E1Gsqfc+YI=
+
+Name: res/drawable-mdpi/card_yellow_r.png
+SHA1-Digest: 4Y/mGc0DjNHtN9NXTG0/4ewPdUU=
+
+Name: res/drawable-mdpi/card_red_9.png
+SHA1-Digest: i6Kp+Vkgy6srgCxRlQddTwCCatk=
+
+Name: res/drawable-xlarge-hdpi/sel_btn_new_game.xml
+SHA1-Digest: pRatkBw2svZZ53JokXEndoeFqHY=
+
+Name: res/drawable-xlarge-mdpi/card_green_s.png
+SHA1-Digest: eTfCVjtZd7BzllnEciDp7NyiqCc=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_9.png
+SHA1-Digest: UbIcGFpO0qfj5zqjKKSPq/QXX0Q=
+
+Name: res/drawable-xlarge-hdpi/card_red_r.png
+SHA1-Digest: CMw5FfgXsGH+m+wdBDodE9irWD0=
+
+Name: res/drawable-xhdpi/emoticon_aggressor.png
+SHA1-Digest: OIw/UEO/MHJ0PQf3TAabbdnA0tE=
+
+Name: res/drawable-xhdpi/card_red_4.png
+SHA1-Digest: JTjLtYr2SoyWm1QeBmwjWM4QyrE=
+
+Name: res/drawable-xlarge-mdpi/btn_settings.png
+SHA1-Digest: ZbadG5pRY041HighwwA/T6blOs4=
+
+Name: res/drawable-xlarge-mdpi/card_green_3.png
+SHA1-Digest: uYfVXYHMDcWm6Z2ab+JMsGjYrv4=
+
+Name: res/drawable-xlarge-mdpi/card_blue_2_shield.png
+SHA1-Digest: /Xdd8qRbNzmMw3xTPKszB9jedEk=
+
+Name: res/drawable-xhdpi/card_yellow_5.png
+SHA1-Digest: ypVd0eEVvhgKEcymbuEZVEYa/pg=
+
+Name: res/drawable-mdpi/btn_continue_outline.png
+SHA1-Digest: DuIwtcGbATgIXvgBaBejxvbEEFM=
+
+Name: res/drawable-xlarge-mdpi/btn_new_game.png
+SHA1-Digest: EcuVbCI/qt8qjPIQvS5x4eZnKfs=
+
+Name: res/drawable-mdpi/card_green_4_irish.png
+SHA1-Digest: Ln6WN4YKVaHkfOB9xpcMsCbwE4k=
+
+Name: res/drawable-hdpi/card_red_s_double.png
+SHA1-Digest: CkfRgDedPNITgba1zTk9YOB+aig=
+
+Name: res/drawable-xhdpi/card_blue_3.png
+SHA1-Digest: Q9WSH9Z/WYgvey64VhJnBchGwqI=
+
+Name: res/drawable-xhdpi/card_green_0_quitter.png
+SHA1-Digest: vUse1VL4sdgMMabQMwEEXaWov/E=
+
+Name: res/drawable-xlarge-hdpi/card_red_r_skip.png
+SHA1-Digest: JXJZazSE4Ohb9oTbc+sv5bXUipE=
+
+Name: res/drawable-xhdpi/card_yellow_s_double.png
+SHA1-Digest: gTxvExARyyl6ISB2fLfldRlQ70I=
+
+Name: res/drawable-xlarge-hdpi/btn_settings_outline.png
+SHA1-Digest: 9+FdnUo5ZIfmSNXFw4QLqPL4c6A=
+
+Name: res/drawable-xlarge-hdpi/card_blue_3.png
+SHA1-Digest: Q9WSH9Z/WYgvey64VhJnBchGwqI=
+
+Name: res/drawable-xlarge-hdpi/player_blue_north.png
+SHA1-Digest: MibhSxAUZQ5ZnsxhbYF5tqjusuo=
+
+Name: res/drawable-xlarge-hdpi/card_red_9.png
+SHA1-Digest: XKtfXdMhPzA1XvRztJvYM0XGtqQ=
+
+Name: res/drawable-xhdpi/card_yellow_3.png
+SHA1-Digest: AkVBsTMUAg2Ybs5/y1Y3HNFaRVQ=
+
+Name: res/drawable-xhdpi/card_blue_1.png
+SHA1-Digest: 6Z9jnpKqylyi0g25ICHKBCqEuPM=
+
+Name: res/drawable-xhdpi/player_yellow_east.png
+SHA1-Digest: 6RjqIeAHvNaZeDrSclDqCGXBcig=
+
+Name: res/drawable-mdpi/btn_new_game.png
+SHA1-Digest: or/YVzz3MCebA3cf5rUCH/dzBPY=
+
+Name: res/drawable-mdpi/player_south.png
+SHA1-Digest: 7lsbJ/tUjMpGSnOyID68jRjKbjc=
+
+Name: res/drawable-xlarge-hdpi/card_wild_hos.png
+SHA1-Digest: eWIDxGPvc4S8HvYzErPNKO3Ues8=
+
+Name: res/drawable-xlarge-hdpi/card_green_4_irish.png
+SHA1-Digest: zOD1Pj6LnTZgycyim6/ngQorwp0=
+
+Name: res/drawable-hdpi/player_blue_east.png
+SHA1-Digest: nO1Q8YTCna3hCGRbGOrYTPcAwts=
+
+Name: res/drawable-hdpi/card_red_9.png
+SHA1-Digest: i4egDag7EMNpa74EDkeJeMqwLdo=
+
+Name: res/drawable-hdpi/card_wild_drawfour.png
+SHA1-Digest: YS92CYG3hcYFsckPE8JWczF+xzg=
+
+Name: res/drawable-xlarge-hdpi/card_blue_9.png
+SHA1-Digest: 8jyY46C1B2LSqs2bAJGQHHHevy0=
+
+Name: res/drawable-xlarge-mdpi/card_red_1.png
+SHA1-Digest: TGQbEpS3yD84+xpv4ksdHaT/x3g=
+
+Name: res/drawable-xhdpi/sel_btn_about.xml
+SHA1-Digest: h+TqSY+4mJK3ifDtf7p4Ci1IDTg=
+
+Name: res/drawable-xhdpi/card_wild_mystery.png
+SHA1-Digest: VkwrTwTWTHOwDumrGjFK0wKHRQg=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_r_skip.png
+SHA1-Digest: wy0sKF649D8K5/pGHSsJeDHvnRo=
+
+Name: res/drawable-xlarge-mdpi/sel_btn_settings.xml
+SHA1-Digest: xFdTnRvq8P8ws8Bo6zkGLBmkW/Y=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_1_mad.png
+SHA1-Digest: PO9XO/4XFSNraJXh1HumOksxr70=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_r.png
+SHA1-Digest: 7opEQJBwXhnn1yjxX2Tzqj5kbHY=
+
+Name: res/drawable-xlarge-mdpi/btn_exit.png
+SHA1-Digest: G5ubXrZFZJ2oKdLkofUlTbKlOGw=
+
+Name: res/drawable-hdpi/player_yellow_west.png
+SHA1-Digest: 9+1BL49VYqZtNs9knDzA7F4s6d8=
+
+Name: res/drawable-xlarge-mdpi/cw_green.png
+SHA1-Digest: L9HGDmIYdfAfz1ULEx+Jm/RxDfc=
+
+Name: res/drawable-xlarge-mdpi/card_red_s_double.png
+SHA1-Digest: CkfRgDedPNITgba1zTk9YOB+aig=
+
+Name: res/drawable-hdpi/btn_about.png
+SHA1-Digest: 7/3dLQXcDP8diln6Uw9S0Bph8DE=
+
+Name: res/drawable-xhdpi/card_green_0.png
+SHA1-Digest: kM2JAks8fhrKP75qYF2ZLqj4OXw=
+
+Name: res/drawable-xlarge-mdpi/btn_new_game_outline.png
+SHA1-Digest: 0g7TkTwInOMWTqwo9IX0+t1ASyk=
+
+Name: res/drawable-xlarge-mdpi/player_red_north.png
+SHA1-Digest: WdvAGMXNK/I6ljtkqAkhFdCRR6Y=
+
+Name: res/drawable-mdpi/btn_exit_outline.png
+SHA1-Digest: RcrpDxkiaSknQeylkIrNBDsLGSg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0VqTLGf60/0pif/iesfqRnFvPu8=
+
+Name: res/drawable-xlarge-mdpi/player_south.png
+SHA1-Digest: aCFxvbToMZqkCwGahLJSy5kKtM8=
+
+Name: res/drawable-xlarge-mdpi/card_green_d.png
+SHA1-Digest: HN9hhFm/sf4ajo6i1HOShSXKOnc=
+
+Name: res/drawable-hdpi/card_yellow_5.png
+SHA1-Digest: 8zsRqhsnapb4s/E1Wv71RIiMbX4=
+
+Name: res/drawable-mdpi/card_wild_hos.png
+SHA1-Digest: ByiYwWMoI/tf91+psrYgMbdheg8=
+
+Name: res/drawable-mdpi/card_yellow_s_double.png
+SHA1-Digest: bN57P9+jOTZ0hjcscC9TrS04/QE=
+
+Name: res/drawable-xlarge-hdpi/card_red_6.png
+SHA1-Digest: 940GziNiWm7DRx777fkEMTCowh4=
+
+Name: res/drawable-xhdpi/sel_btn_settings.xml
+SHA1-Digest: xFdTnRvq8P8ws8Bo6zkGLBmkW/Y=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_0.png
+SHA1-Digest: lGZJp6vB2/Z9YH3C7NlBsZi32yI=
+
+Name: res/drawable-xlarge-mdpi/card_green_4_irish.png
+SHA1-Digest: pjza/bb38UpS/zyX7QCPKjOah4A=
+
+Name: res/drawable-mdpi/emoticon_aggressor.png
+SHA1-Digest: cxY0yTFew1DqumtXrckhmPN4AzE=
+
+Name: res/drawable-xlarge-mdpi/card_green_7.png
+SHA1-Digest: kRv+OMkONoUWsC/HWzvu15X20eY=
+
+Name: res/drawable-xhdpi/btn_settings_outline.png
+SHA1-Digest: 9+FdnUo5ZIfmSNXFw4QLqPL4c6A=
+
+Name: com/vladium/emma/run_usage.res
+SHA1-Digest: mHemtPwFTvLEPXfCrRCzKVjCg5Y=
+
+Name: res/drawable-xhdpi/card_blue_s_double.png
+SHA1-Digest: gVLXbSND+zq90Mo3LxRZk8FaWQo=
+
+Name: res/drawable-xlarge-hdpi/cw_green.png
+SHA1-Digest: sUHsM/dp5wQmNg5P1PBThFAdAHc=
+
+Name: res/drawable-xlarge-hdpi/card_green_9.png
+SHA1-Digest: dFob5nuc4ep0mQl3nVkjQq2S/C8=
+
+Name: res/drawable-mdpi/card_yellow_0_shitter.png
+SHA1-Digest: H8HMGRWEEON4pnqLEYel4ZhqhSM=
+
+Name: classes.dex
+SHA1-Digest: N/XB2VpDiL2cwyLsbwFxq4clG3A=
+
+Name: res/drawable-hdpi/card_green_4.png
+SHA1-Digest: zTLDtPDTgW6YRQm9HMKFqFB0p44=
+
+Name: res/drawable-xlarge-mdpi/card_green_6.png
+SHA1-Digest: 5QePk04Z8GD+F8A8H1LFNYExjq8=
+
+Name: res/drawable-mdpi/card_blue_r.png
+SHA1-Digest: zu41LW9B+LWpE/m30oz9Armtz7s=
+
+Name: res/drawable-hdpi/card_red_2_glasnost.png
+SHA1-Digest: KNsE22iqZRB7u6+1FgtKARUONfw=
+
+Name: res/drawable-xlarge-hdpi/card_back.png
+SHA1-Digest: uDl/YSQnmGgpPh+VywDVhDP7zPc=
+
+Name: res/drawable-mdpi/card_blue_0.png
+SHA1-Digest: 397Tle866FZbBvRX6wWuSV8f3Rs=
+
+Name: res/drawable-hdpi/player_red_east.png
+SHA1-Digest: 8YbzFdQDgUQWbJ/Co4d2B/vKu/0=
+
+Name: res/drawable-mdpi/player_green_south.png
+SHA1-Digest: cyVQgJkYneD+DeAlxj+2PnmDWX0=
+
+Name: res/drawable-mdpi/player_east.png
+SHA1-Digest: dlLrPVkw6oGnYdf9B7gSD3yJkuo=
+
+Name: res/drawable-mdpi/card_yellow_0_shitter_ff.png
+SHA1-Digest: jDBGmyH9snVt7XIZcLJVRX+09ko=
+
+Name: res/drawable-mdpi/card_yellow_2.png
+SHA1-Digest: QvJoGgrX6tT9Si2Zslur0Q6O/78=
+
+Name: res/drawable-xlarge-mdpi/table_background.png
+SHA1-Digest: wI/4iqdO8GB0+1UaJNvJIXkGjms=
+
+Name: res/layout/dlg_card_help.xml
+SHA1-Digest: fB/a3Tg1ETVfh3eGwQcQD/RoQ88=
+
+Name: res/drawable-xhdpi/player_blue_south.png
+SHA1-Digest: Ww715nT5d75leduzMJgjIK/BFZA=
+
+Name: res/drawable-xhdpi/card_blue_d_spreader.png
+SHA1-Digest: CzHO4E71YC6wo0zNgHl6U6MQFT8=
+
+Name: res/drawable-xhdpi/card_blue_s.png
+SHA1-Digest: prjZbvP73r6bBzei6RmcucFvtTU=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: wOBY+BARRVOAu5N7Pzzx3AXbVz8=
+
+Name: res/drawable-hdpi/card_yellow_2.png
+SHA1-Digest: 8iNLYJDYapJz3ykcHvZnsarzWU8=
+
+Name: res/drawable-xlarge-hdpi/emoticon_aggressor.png
+SHA1-Digest: OIw/UEO/MHJ0PQf3TAabbdnA0tE=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_0.png
+SHA1-Digest: ozuoaSIoYqL8S1O4zFPXCAK3VTg=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_0_shitter_ff.png
+SHA1-Digest: 85FJH/s0/3Z/1P+BLng/rbTuX8E=
+
+Name: res/drawable-mdpi/card_red_3.png
+SHA1-Digest: S+NfneoX0tLkS5K2R2kOaep49ik=
+
+Name: res/drawable-mdpi/card_badge.png
+SHA1-Digest: zmxOF12KOV4XD/gBVKR8vHmZPOo=
+
+Name: res/drawable-hdpi/card_blue_3.png
+SHA1-Digest: sr1Ktf05uP6qJVEcoBYlBo6YxQo=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_3.png
+SHA1-Digest: wKUpPpS9qkvKa6t4q7qVz/6QpNI=
+
+Name: res/drawable-xlarge-mdpi/sel_btn_about.xml
+SHA1-Digest: h+TqSY+4mJK3ifDtf7p4Ci1IDTg=
+
+Name: res/drawable-xhdpi/card_yellow_2.png
+SHA1-Digest: CGNyP23QyGFJf7nbU8sieNRFtOM=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 7WpHSVSCn/q8jCcXA19ZFCYeVxA=
+
+Name: res/drawable-xlarge-hdpi/btn_continue_outline.png
+SHA1-Digest: +SSF1exbNs3A6c6VkxRj8BI6p1Y=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_7.png
+SHA1-Digest: 9N6kpLFM8i86EhgVL9cv4MnUOMs=
+
+Name: res/drawable-hdpi/card_blue_1.png
+SHA1-Digest: ftcLL0wF/jQ3Y/hDBpM6yfNqltQ=
+
+Name: res/drawable-xhdpi/emoticon_victim.png
+SHA1-Digest: NqizUEuLflRkYKx0rXI70wGnymo=
+
+Name: res/drawable-hdpi/player_blue_north.png
+SHA1-Digest: wgGfiuk/+TNiwaso0wcR5aJ8cSs=
+
+Name: res/drawable-hdpi/card_yellow_0_shitter_ff.png
+SHA1-Digest: /RQ9x6M1CdIaZE8iL3P7HmVnfTg=
+
+Name: res/drawable-xhdpi/card_blue_5.png
+SHA1-Digest: 036pdiPvC3MX/f1wixmC4DQy+RM=
+
+Name: res/drawable-xhdpi/btn_help_outline.png
+SHA1-Digest: MrgGSLUEGjV2z/51LAOhueKDOsk=
+
+Name: res/drawable-xlarge-mdpi/sel_btn_help.xml
+SHA1-Digest: GxxbGxLYZHPFIhYhf5ZkKmu/B9A=
+
+Name: res/drawable-xlarge-hdpi/card_blue_7.png
+SHA1-Digest: 4oHppvcNDfBf7bZ3gRxAe71CC8w=
+
+Name: res/drawable-xhdpi/cw_green.png
+SHA1-Digest: sUHsM/dp5wQmNg5P1PBThFAdAHc=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_2.png
+SHA1-Digest: CGNyP23QyGFJf7nbU8sieNRFtOM=
+
+Name: res/drawable-xhdpi/card_green_3_aids.png
+SHA1-Digest: o4UXKAknJifn4nZZLjFR0BZtE5o=
+
+Name: res/drawable-mdpi/card_red_0.png
+SHA1-Digest: 75N/JQlpvZvAL4/u4UBjpbKyEMI=
+
+Name: res/drawable-hdpi/sel_btn_about.xml
+SHA1-Digest: h+TqSY+4mJK3ifDtf7p4Ci1IDTg=
+
+Name: res/drawable-xhdpi/card_red_7.png
+SHA1-Digest: OCCW1Rj7tAKIZ2mJ+hORZxdRhZY=
+
+Name: res/drawable-mdpi/card_red_7.png
+SHA1-Digest: 8RzZOXvIt9NueHlZ1qx0eEcGofU=
+
+Name: res/drawable-mdpi/card_red_d_spreader.png
+SHA1-Digest: g0RrkRwrZnnJAoGskt7liB7bc+M=
+
+Name: res/drawable-xlarge-mdpi/ccw_red.png
+SHA1-Digest: uJDParQkeuJ+Hlbw7EmM5AJEutY=
+
+Name: res/drawable-hdpi/card_green_5.png
+SHA1-Digest: gxHRHx9zI8iv3t1XnS6RMt4wYTc=
+
+Name: res/drawable-mdpi/btn_new_game_outline.png
+SHA1-Digest: tCOZ0aekQIoL9w3RDrwOlCw8hpQ=
+
+Name: res/drawable-xlarge-mdpi/ccw_green.png
+SHA1-Digest: bbozPIONsSl+X7F9tXbqIAam5bE=
+
+Name: res/drawable-xlarge-mdpi/player_blue_west.png
+SHA1-Digest: 6pb88HRmqlXb0oAfC3xahoHNsSE=
+
+Name: res/drawable-hdpi/card_blue_d_spreader.png
+SHA1-Digest: 9Ws0SDWiBsyDVRiSDn4lWK3btX4=
+
+Name: res/drawable-xhdpi/card_red_2_glasnost.png
+SHA1-Digest: /C6DE0MmCLeddEm8rJ+nD6Tj/1w=
+
+Name: res/drawable-xlarge-mdpi/card_blue_d.png
+SHA1-Digest: yWQwaw/JYTw+bWlhwOh7H+4qM/0=
+
+Name: res/drawable-xlarge-hdpi/player_yellow_north.png
+SHA1-Digest: Z3lb3LVnq/EmXLfG8zsJXOb4mTs=
+
+Name: res/drawable-xlarge-hdpi/card_blue_6.png
+SHA1-Digest: r9H4xkBGcZkxlfR4XLIDUvVbj5Q=
+
+Name: res/drawable-mdpi/winner_south.png
+SHA1-Digest: UKdZZSLyU4l/hZqWQMir7r8CLN0=
+
+Name: res/drawable-xhdpi/btn_exit_outline.png
+SHA1-Digest: llo4glJ8A9BxzQHi5KhI+9jkx6Y=
+
+Name: res/drawable-mdpi/card_red_5_magic.png
+SHA1-Digest: ixo3bTv9LD5HfODRhEUGPrwLHHc=
+
+Name: res/drawable-xlarge-mdpi/card_green_8.png
+SHA1-Digest: P2wYb5cTPhNhnWw0RwoXgKUdzHM=
+
+Name: res/drawable-xhdpi/card_green_3.png
+SHA1-Digest: rCzY3KDkJS7ddLVEtyEtAAn4Ppo=
+
+Name: res/drawable-hdpi/card_green_9.png
+SHA1-Digest: CGuqtIoeo+O2px8Cmcf2xHrfdUc=
+
+Name: res/drawable-xlarge-hdpi/card_red_3.png
+SHA1-Digest: SYFBN2PayZxu/WdAZOoJkKeiCRM=
+
+Name: res/drawable-xlarge-hdpi/btn_new_game_outline.png
+SHA1-Digest: HgEvY6smKnruXCmXA32VpRf3WzQ=
+
+Name: res/drawable-xlarge-hdpi/player_yellow_east.png
+SHA1-Digest: 6RjqIeAHvNaZeDrSclDqCGXBcig=
+
+Name: res/drawable-xhdpi/card_green_2.png
+SHA1-Digest: EFodkFKh7gQwcZXbJpo6Pdw2N9E=
+
+Name: res/drawable-hdpi/card_red_5.png
+SHA1-Digest: VGLX67txTAnclO2YHLZKvhVS0qw=
+
+Name: res/drawable-xhdpi/player_red_south.png
+SHA1-Digest: PGwt64JwdKIFGwAqNJIU1fzByqY=
+
+Name: res/drawable-xhdpi/player_yellow_south.png
+SHA1-Digest: xkKLsJ1IPd1rbUNcgPfPHqv7f0E=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_9.png
+SHA1-Digest: 9c6A1TluSqXYqJYAiKaxEFXUNHM=
+
+Name: res/drawable-xhdpi/card_red_2.png
+SHA1-Digest: mk0VUDedru4HBXvyonoLHMlX4z0=
+
+Name: res/drawable-mdpi/card_yellow_1.png
+SHA1-Digest: 9s6pmF+YCC6WjCglIV+IRssnaSs=
+
+Name: res/drawable-xhdpi/card_green_r_skip.png
+SHA1-Digest: +2N1sF7SW5iOhkbEQaEQuB1YDqA=
+
+Name: res/drawable-xlarge-mdpi/cw.png
+SHA1-Digest: iEDKIylRuyrP/X4VLQchaOaLCs4=
+
+Name: res/drawable-xlarge-mdpi/player_yellow_north.png
+SHA1-Digest: fdDx6LDsNLEcoz5Yi2h4R2BHHTU=
+
+Name: res/drawable-mdpi/card_blue_8.png
+SHA1-Digest: dCeFGMFP7V7FiLLvnKKvtC/pNlA=
+
+Name: res/drawable-hdpi/ccw.png
+SHA1-Digest: onZntNPwImzUkuu4L9Dy3wWGA5c=
+
+Name: res/drawable-xlarge-mdpi/card_wild_mystery.png
+SHA1-Digest: fPgQdTjBwxNWZ2Ud9nRZoiWIY5U=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_5.png
+SHA1-Digest: ypVd0eEVvhgKEcymbuEZVEYa/pg=
+
+Name: res/drawable-xlarge-mdpi/emoticon_aggressor.png
+SHA1-Digest: 4dDxPM5OyvjRQLJ050iFAHNmXCs=
+
+Name: res/drawable-xlarge-hdpi/winner_west.png
+SHA1-Digest: 9/LK1MrPFjTUEafw7M4isv7N3gk=
+
+Name: res/drawable-xlarge-hdpi/sel_btn_exit.xml
+SHA1-Digest: QX7Yz+wpmxiQb00Ie/WncobWmnQ=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_4.png
+SHA1-Digest: INpFvofSnA6Itt+iL/eKlAawRDQ=
+
+Name: res/drawable-hdpi/card_blue_7.png
+SHA1-Digest: KUBvlnH7YsQQY5jHBj9ewbLBrO0=
+
+Name: res/drawable-mdpi/card_red_2_glasnost.png
+SHA1-Digest: Ikv5LH+d2UAoKzwW0kswSZKCSZQ=
+
+Name: res/drawable-mdpi/ccw_green.png
+SHA1-Digest: 0AWWI3KnvBMEofZVgVL+tfZd+4M=
+
+Name: res/drawable-hdpi/card_red_2.png
+SHA1-Digest: A1AUV/Qo65qLamd/BaxaLjM3NKM=
+
+Name: res/drawable-hdpi/sel_btn_settings.xml
+SHA1-Digest: xFdTnRvq8P8ws8Bo6zkGLBmkW/Y=
+
+Name: res/drawable-hdpi/card_green_0_quitter.png
+SHA1-Digest: 8HQr9gLXnudOT/1q3YvDGttfObI=
+
+Name: res/drawable-xhdpi/winner_east.png
+SHA1-Digest: lyMxWtOcdwTKcx8/4mbNKkf2vSk=
+
+Name: res/drawable-xlarge-mdpi/player_north.png
+SHA1-Digest: gPZuNVEa3J5I5s+seOz42G3yWf0=
+
+Name: res/drawable-hdpi/btn_continue_outline.png
+SHA1-Digest: 5V0TKL6TgjxvIoVbpXGVt3GqrfQ=
+
+Name: res/drawable-mdpi/card_yellow_d_spreader.png
+SHA1-Digest: dePXuMrN4cUXOA3o6UiQkawTIhw=
+
+Name: res/drawable-xlarge-mdpi/card_green_1.png
+SHA1-Digest: PaAHVCkTZ0oWXcyDoNzIYvXUpOs=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: OUfytCebbR1ewQdRiZLeqYfc4J8=
+
+Name: res/drawable-xhdpi/card_wild_hd.png
+SHA1-Digest: wHMOWnASA3L6XYqhH9yEyDsQYXs=
+
+Name: res/drawable-hdpi/card_red_d.png
+SHA1-Digest: dIipmZg9k3n5zUlBa00wjMUIHBk=
+
+Name: res/drawable-mdpi/card_green_s.png
+SHA1-Digest: bDNkvi/X8gyzxfpSI5Kp4xRJwyk=
+
+Name: res/drawable-mdpi/player_green_north.png
+SHA1-Digest: +IziUgGBV2lmY/k0L+YkQaLceOw=
+
+Name: res/drawable-mdpi/card_red_d.png
+SHA1-Digest: ER2EAnVEY5YGWCFk/O+4FfmWNGA=
+
+Name: res/drawable-xlarge-mdpi/card_red_4.png
+SHA1-Digest: SAvzn2tPnvj3fKnZ4tTjbnuJyl0=
+
+Name: res/drawable-mdpi/card_green_3.png
+SHA1-Digest: mfD983iqE0d2DEf8nO2toq8QQws=
+
+Name: res/drawable-xlarge-mdpi/card_blue_r.png
+SHA1-Digest: phBPekp0gPmwi38MfsAsqAHRx7Q=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_1.png
+SHA1-Digest: yc0vt3C0gMbiJIoNzfXB8n80wF8=
+
+Name: res/drawable-hdpi/cw.png
+SHA1-Digest: iEDKIylRuyrP/X4VLQchaOaLCs4=
+
+Name: emma_ant.properties
+SHA1-Digest: +y6pZF5+WngbtuLnokOF3WlXgj8=
+
+Name: res/drawable-xhdpi/player_yellow_north.png
+SHA1-Digest: Z3lb3LVnq/EmXLfG8zsJXOb4mTs=
+
+Name: res/drawable-xlarge-mdpi/card_wild_drawfour.png
+SHA1-Digest: YS92CYG3hcYFsckPE8JWczF+xzg=
+
+Name: res/drawable-hdpi/player_blue_west.png
+SHA1-Digest: 6pb88HRmqlXb0oAfC3xahoHNsSE=
+
+Name: res/drawable-hdpi/cw_blue.png
+SHA1-Digest: G67Hycpu8CMxfwS7p3UCwa9Bh1Q=
+
+Name: res/drawable-xhdpi/table_background.png
+SHA1-Digest: wI/4iqdO8GB0+1UaJNvJIXkGjms=
+
+Name: res/drawable-xlarge-mdpi/card_blue_0.png
+SHA1-Digest: 09lDnFn7G/PmNnWk3ckDlsCznII=
+
+Name: res/drawable-xlarge-hdpi/card_green_3.png
+SHA1-Digest: rCzY3KDkJS7ddLVEtyEtAAn4Ppo=
+
+Name: res/drawable-xlarge-hdpi/card_blue_r_skip.png
+SHA1-Digest: NeLYvnHatYttwPpvVQYS6hkRXbw=
+
+Name: res/drawable-mdpi/btn_about.png
+SHA1-Digest: y+rCc+YlRXS1V31c3HLzOpZoBeM=
+
+Name: res/drawable-xlarge-mdpi/player_green_east.png
+SHA1-Digest: C5ZTI0tCC8rLNCVVErurY5vOMAQ=
+
+Name: res/drawable-mdpi/sel_btn_settings.xml
+SHA1-Digest: xFdTnRvq8P8ws8Bo6zkGLBmkW/Y=
+
+Name: res/drawable-xlarge-hdpi/card_blue_r.png
+SHA1-Digest: yQ1rZGrvGmIQmNVbkkbSIertvfo=
+
+Name: res/drawable-xlarge-mdpi/card_blue_1.png
+SHA1-Digest: ftcLL0wF/jQ3Y/hDBpM6yfNqltQ=
+
+Name: res/drawable-xlarge-mdpi/card_red_5.png
+SHA1-Digest: VGLX67txTAnclO2YHLZKvhVS0qw=
+
+Name: res/drawable-xlarge-hdpi/cw_red.png
+SHA1-Digest: 1Pu/GaqdCinps5UO0JfA55dNqfw=
+
+Name: res/drawable-xhdpi/player_red_north.png
+SHA1-Digest: WHG3twtAz8tk3PzD6k7Dk3qfUT0=
+
+Name: res/drawable-xlarge-hdpi/card_green_r.png
+SHA1-Digest: 95Xl0e7JLh3+oVU14qp8nkzq3W0=
+
+Name: res/drawable-xlarge-hdpi/btn_exit_outline.png
+SHA1-Digest: llo4glJ8A9BxzQHi5KhI+9jkx6Y=
+
+Name: res/drawable-hdpi/player_red_south.png
+SHA1-Digest: gc3K8kSrLiqOo2vW1zz76OxkrDI=
+
+Name: res/drawable-xlarge-mdpi/card_green_3_aids_ff.png
+SHA1-Digest: Rdy4kYZOMCMc4lKU0d/2pmiEo4s=
+
+Name: res/drawable-xhdpi/card_yellow_0_shitter_ff.png
+SHA1-Digest: 85FJH/s0/3Z/1P+BLng/rbTuX8E=
+
+Name: res/drawable-xlarge-mdpi/card_red_s.png
+SHA1-Digest: +pldDAVC4/idIEYkZ8I+JoIA++s=
+
+Name: res/drawable-mdpi/card_green_1.png
+SHA1-Digest: L9qK38w5CBQ47MjiU1gnaQALv6U=
+
+Name: res/drawable-xhdpi/btn_about_outline.png
+SHA1-Digest: 7i0IvuwS5GVxOlSgfzRchS6ZD+M=
+
+Name: res/drawable-xlarge-mdpi/card_green_5.png
+SHA1-Digest: gxHRHx9zI8iv3t1XnS6RMt4wYTc=
+
+Name: res/drawable-xhdpi/card_wild.png
+SHA1-Digest: xMFXRzXW+KyV62zH+WSKdHX3mEc=
+
+Name: res/drawable-xlarge-mdpi/card_blue_9.png
+SHA1-Digest: FwKxc65ixabs5iIebJ4MTFMSRfg=
+
+Name: res/drawable-mdpi/cw_blue.png
+SHA1-Digest: s0D3CcnZ0SaflT2zJi8Gb6rycBE=
+
+Name: res/drawable-mdpi/player_yellow_west.png
+SHA1-Digest: ne94VDA4GrLvJ9BpVZXc314iZig=
+
+Name: res/drawable-mdpi/card_wild_drawfour.png
+SHA1-Digest: bCu/KF16vA4q1TgwDCLPpPtOK/I=
+
+Name: res/drawable-mdpi/card_green_8.png
+SHA1-Digest: yMn3QWkg8rN07uLcs35zMT23MO0=
+
+Name: res/drawable-xlarge-hdpi/card_green_6.png
+SHA1-Digest: KSSRlqOyQnh68Ka4D/Ig8mtJeFE=
+
+Name: res/drawable-hdpi/card_red_5_magic.png
+SHA1-Digest: GPS569dTi+m7G/Shya/xcDj+nVs=
+
+Name: res/drawable-hdpi/btn_continue.png
+SHA1-Digest: PtL0j5Mq6sC/aU0IKH1bJ0CHWdM=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_d.png
+SHA1-Digest: qZpxnAEV/xAA6exk3iWHLZ3PqJ0=
+
+Name: res/drawable-mdpi/card_back.png
+SHA1-Digest: bQmf67+kwBkuc/HO5fhKaB/kof0=
+
+Name: res/drawable-xlarge-mdpi/card_green_2.png
+SHA1-Digest: 471NMCSgrjFiVnkn84Q9zC30pAA=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_69.png
+SHA1-Digest: eBPp4lnkDGY8V1wcMH/yOG5/SgA=
+
+Name: res/drawable-hdpi/card_green_1.png
+SHA1-Digest: PaAHVCkTZ0oWXcyDoNzIYvXUpOs=
+
+Name: res/drawable-xlarge-hdpi/cw_yellow.png
+SHA1-Digest: m+rDvzh5hL8VC/lkaZonBWpN7R4=
+
+Name: res/drawable-hdpi/card_blue_0_fuckyou_ff.png
+SHA1-Digest: +gn1HQb46hwQOmA4HMyhE+6m7R4=
+
+Name: res/layout/dlg_card_catalog.xml
+SHA1-Digest: 2a7qvt8L9vVbQzJCEPke1ull+Gg=
+
+Name: res/drawable-mdpi/player_blue_west.png
+SHA1-Digest: cBk6T//EOYU9/JpjREXHf8aWsz0=
+
+Name: res/drawable-mdpi/player_blue_south.png
+SHA1-Digest: PGn+WJmDq2qAQzVJA+83blJTQ04=
+
+Name: res/drawable-xlarge-mdpi/card_green_s_double.png
+SHA1-Digest: dpEsL/yGlsapPoHCbzmREOLkzPU=
+
+Name: res/drawable-hdpi/card_blue_s_double.png
+SHA1-Digest: Sq1WFMQ+OtmTMOHteqI2k//6m30=
+
+Name: res/drawable-xlarge-mdpi/sel_btn_continue.xml
+SHA1-Digest: vC0y58TFyUxfjY2OmaogxCuxbRI=
+
+Name: res/drawable-xlarge-mdpi/card_back.png
+SHA1-Digest: 9c2TzUfDqQvVvC8VF/0MdElhI/k=
+
+Name: res/drawable-xlarge-hdpi/ccw_yellow.png
+SHA1-Digest: 8snq+Upymsec03gT74taDyWN9aE=
+
+Name: res/drawable-mdpi/splash_land.png
+SHA1-Digest: dsFY3HZPBlNP1uq208rQY1ERhCI=
+
+Name: res/drawable-xhdpi/card_green_8.png
+SHA1-Digest: xTwTZmfgwx91BdzmF37SYBdtyhk=
+
+Name: res/drawable-xhdpi/card_yellow_7.png
+SHA1-Digest: fme1Pn8z1CRarOyTOWKWY69H9zo=
+
+Name: res/drawable-mdpi/card_green_6.png
+SHA1-Digest: TyQOcN1DdYjq0HTqHEUGNy8TmF4=
+
+Name: res/drawable-mdpi/card_yellow_r_skip.png
+SHA1-Digest: R22isH5BrTVFbZO2Wx6jXAE8aeg=
+
+Name: res/drawable-hdpi/splash_land.png
+SHA1-Digest: +sp2wwZ93nGOOra2gNEscIWMu5Y=
+
+Name: res/drawable-xlarge-mdpi/ccw_blue.png
+SHA1-Digest: q1jLLSXbHaVwCcK15BlA/98FX8A=
+
+Name: res/drawable-mdpi/card_green_0_quitter.png
+SHA1-Digest: b1ydcBoehA87j69akZ2mxZ9dYPs=
+
+Name: res/drawable-mdpi/card_blue_1.png
+SHA1-Digest: yKt+H0UPPluRty+OTi+wC80OqzQ=
+
+Name: res/drawable-xhdpi/card_red_6.png
+SHA1-Digest: 940GziNiWm7DRx777fkEMTCowh4=
+
+Name: res/drawable-xlarge-mdpi/card_red_0.png
+SHA1-Digest: donNroGc2XzVg0CcSdOyihmlLbk=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_r.png
+SHA1-Digest: hGcO/nw8LNIGxkqFcgiY02J2f0s=
+
+Name: res/drawable-xhdpi/player_green_north.png
+SHA1-Digest: tdfFZ1zYkSU6wjZ4W5YEwCHnGVs=
+
+Name: res/drawable-xhdpi/card_green_d.png
+SHA1-Digest: oSQpw7YLU6RMuvAxbhNb9Bico9M=
+
+Name: res/drawable-xhdpi/card_green_d_spreader.png
+SHA1-Digest: rfP+WX4W9fgD+e8e/LJDXNsGtbQ=
+
+Name: res/drawable-hdpi/player_red_west.png
+SHA1-Digest: MIF+1Hr74IdIXC952Yd4ncssUvc=
+
+Name: res/drawable-hdpi/ccw_yellow.png
+SHA1-Digest: uLQywAVAqec6gqa0YHOmVL44t+E=
+
+Name: res/drawable-xlarge-mdpi/player_blue_east.png
+SHA1-Digest: nO1Q8YTCna3hCGRbGOrYTPcAwts=
+
+Name: res/drawable-xlarge-hdpi/player_red_east.png
+SHA1-Digest: aOaoKvI3Dq0JXvLG1gW78WGRjLQ=
+
+Name: res/drawable-xlarge-mdpi/card_green_d_spreader.png
+SHA1-Digest: s3+8be5RW5+IZ/XD7Y/X9s0/mp4=
+
+Name: res/drawable-xhdpi/player_green_west.png
+SHA1-Digest: 2vCDuTPze5wGpavZ+VjBLnoKP2o=
+
+Name: res/drawable-xlarge-hdpi/card_red_2_glasnost.png
+SHA1-Digest: /C6DE0MmCLeddEm8rJ+nD6Tj/1w=
+
+Name: res/drawable-mdpi/card_green_d_spreader.png
+SHA1-Digest: 2jGlcCrP8/pxjBusjCS+34bopjA=
+
+Name: res/drawable-xlarge-mdpi/cw_red.png
+SHA1-Digest: K9wdXF+/2Q9qbi1qqFVDQsLV5OA=
+
+Name: res/drawable-mdpi/cw_red.png
+SHA1-Digest: SpCAuRTSX0bnDfvPMc7R3Pw67tY=
+
+Name: res/drawable-mdpi/card_green_3_aids_ff.png
+SHA1-Digest: 0V63BcluJvz7QgYRFhz9dkJHW2Y=
+
+Name: res/drawable-hdpi/btn_settings_outline.png
+SHA1-Digest: +qP6X+tg9t2+j6PSVyn5xvQ398M=
+
+Name: res/drawable-mdpi/card_green_d.png
+SHA1-Digest: qmhcUXcLtnyaZu9lZlXiLOBviAI=
+
+Name: res/drawable-hdpi/emoticon_victim.png
+SHA1-Digest: QFsFeowvJsizj9SqzYBcnHm1yGc=
+
+Name: res/drawable-xlarge-mdpi/card_blue_7.png
+SHA1-Digest: KUBvlnH7YsQQY5jHBj9ewbLBrO0=
+
+Name: res/drawable-hdpi/card_wild_mystery.png
+SHA1-Digest: fPgQdTjBwxNWZ2Ud9nRZoiWIY5U=
+
+Name: res/drawable-xhdpi/card_green_s_double.png
+SHA1-Digest: yyCng8JBA8ovMIcD9L5TtRrbEwA=
+
+Name: res/drawable-mdpi/btn_settings_outline.png
+SHA1-Digest: sKp9vX7GU3Fe2j1JGTQ0jKtzib0=
+
+Name: res/drawable-hdpi/card_yellow_6.png
+SHA1-Digest: 4XszOzUCQ8hAUagxu/GksBDXWJQ=
+
+Name: res/drawable-mdpi/card_green_0.png
+SHA1-Digest: Z2CzjQ4sZgIM5ruA8zpI6i+zzH0=
+
+Name: res/drawable-hdpi/card_yellow_7.png
+SHA1-Digest: 9N6kpLFM8i86EhgVL9cv4MnUOMs=
+
+Name: res/drawable-hdpi/card_red_0_hd.png
+SHA1-Digest: j65Oo4P5VJj8btbjWRb8svatVjs=
+
+Name: res/drawable-mdpi/card_red_2.png
+SHA1-Digest: tc+qQty6gDJf2u19K4OInbL8kHc=
+
+Name: res/drawable-xlarge-hdpi/ccw.png
+SHA1-Digest: 268I4v+M6PI4CEezCPmt1cvAwSE=
+
+Name: res/drawable-xlarge-mdpi/sel_btn_new_game.xml
+SHA1-Digest: pRatkBw2svZZ53JokXEndoeFqHY=
+
+Name: res/drawable-xlarge-hdpi/ccw_red.png
+SHA1-Digest: 5x/pukYMrO2MOccfoO8F2OURycw=
+
+Name: res/drawable-mdpi/card_green_r.png
+SHA1-Digest: mNjt1kl6zaxk5QQrr7S0oBnmNrI=
+
+Name: res/drawable-hdpi/player_yellow_east.png
+SHA1-Digest: BcwT2Pgl5322ponEmzgIuVb89EU=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_6.png
+SHA1-Digest: 4XszOzUCQ8hAUagxu/GksBDXWJQ=
+
+Name: res/drawable-xlarge-hdpi/player_green_south.png
+SHA1-Digest: yVNrTDwQF+Qz0axp4RTL7QY/bPA=
+
+Name: res/drawable-xlarge-hdpi/btn_exit.png
+SHA1-Digest: zpg58bWPXAS7Ny1WhPMKYVUlyWI=
+
+Name: res/drawable-xlarge-hdpi/card_green_s_double.png
+SHA1-Digest: yyCng8JBA8ovMIcD9L5TtRrbEwA=
+
+Name: res/drawable-xhdpi/card_yellow_r.png
+SHA1-Digest: hGcO/nw8LNIGxkqFcgiY02J2f0s=
+
+Name: com/vladium/emma/exceptions.properties
+SHA1-Digest: 4QGHferxxnE/Q0/z1dZj2B+S7cI=
+
+Name: res/drawable-xhdpi/sel_btn_new_game.xml
+SHA1-Digest: pRatkBw2svZZ53JokXEndoeFqHY=
+
+Name: res/drawable-mdpi/card_blue_0_fuckyou_ff.png
+SHA1-Digest: bOjLkxsRwvANQvBGCZG5Ho8WWQs=
+
+Name: res/drawable-mdpi/player_green_west.png
+SHA1-Digest: YoTpgGLyFacx2FOIwBd+/DJYIAw=
+
+Name: res/drawable-hdpi/emoticon_aggressor.png
+SHA1-Digest: 4dDxPM5OyvjRQLJ050iFAHNmXCs=
+
+Name: res/drawable-xlarge-hdpi/player_blue_west.png
+SHA1-Digest: EFaxlY7dZrXyMrzBRpIxxi4u9HM=
+
+Name: res/drawable-xlarge-hdpi/card_red_4.png
+SHA1-Digest: JTjLtYr2SoyWm1QeBmwjWM4QyrE=
+
+Name: res/drawable-hdpi/card_red_r_skip.png
+SHA1-Digest: p+Eui4HPj5BYcLq0EYVxii9EgOI=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: nx9BCHTJuVFFCV3jldU6dydZZj8=
+
+Name: res/drawable-hdpi/card_red_8.png
+SHA1-Digest: 7Is9DcJA9vrB6FXSBjFvmYi8n+U=
+
+Name: res/drawable-xlarge-mdpi/player_east.png
+SHA1-Digest: nCOvjK7nlBr7BNaxJe0dDDtFJqc=
+
+Name: res/drawable-xhdpi/ccw.png
+SHA1-Digest: 268I4v+M6PI4CEezCPmt1cvAwSE=
+
+Name: com/smorgasbork/hotdeath/Game.java.new
+SHA1-Digest: 4L80evXa6PXJ5G0GUK41bysWC/4=
+
+Name: res/drawable-xlarge-hdpi/card_badge.png
+SHA1-Digest: QrXuLTwUlxc+3Ljd7y1/BjwwCiw=
+
+Name: res/drawable-xhdpi/btn_new_game_outline.png
+SHA1-Digest: HgEvY6smKnruXCmXA32VpRf3WzQ=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_d.png
+SHA1-Digest: QVU7aipkIkRiP5XuyY9BIUi/ybw=
+
+Name: res/drawable-mdpi/card_green_r_skip.png
+SHA1-Digest: wob47dTF+fN/mOI1j+Pld071t5c=
+
+Name: res/drawable-mdpi/card_red_6.png
+SHA1-Digest: Lll8VsuWxpKx/61SynRkOi9OQgg=
+
+Name: res/drawable-xhdpi/splash.png
+SHA1-Digest: kQym6EFPmr4144OE48d4zG7DOms=
+
+Name: res/drawable-hdpi/player_north.png
+SHA1-Digest: gPZuNVEa3J5I5s+seOz42G3yWf0=
+
+Name: res/drawable-mdpi/card_wild_hd.png
+SHA1-Digest: +ncB6sdPIIFRrVK99ZYVCdkwRKE=
+
+Name: res/drawable-xhdpi/card_red_r.png
+SHA1-Digest: CMw5FfgXsGH+m+wdBDodE9irWD0=
+
+Name: res/drawable-hdpi/btn_new_game_outline.png
+SHA1-Digest: 0g7TkTwInOMWTqwo9IX0+t1ASyk=
+
+Name: res/drawable-xlarge-mdpi/card_blue_4.png
+SHA1-Digest: vyACtIkq8OSiJFydziyxYT4xypc=
+
+Name: res/drawable-xhdpi/btn_help.png
+SHA1-Digest: /81Zye7Zup63mAxQA1CGgVHJJeE=
+
+Name: res/drawable-xhdpi/card_green_5.png
+SHA1-Digest: nP02oEEVjK3GTVclsCTG8Rvmvho=
+
+Name: res/drawable-xlarge-mdpi/card_red_r.png
+SHA1-Digest: 4NZJ/YxRWpgm6LbPYi2bQujQH5c=
+
+Name: res/drawable-xlarge-mdpi/card_green_3_aids.png
+SHA1-Digest: 6I5O6dXoN+rMsOqxcTkSgABuHxg=
+
+Name: res/drawable-xhdpi/ccw_blue.png
+SHA1-Digest: w0ngV7/8qjiZpwoBX7hCTCUTZ1I=
+
+Name: res/drawable-xlarge-mdpi/icon.png
+SHA1-Digest: BmbhDLkuSgj7xj742E1Gsqfc+YI=
+
+Name: res/drawable-mdpi/btn_continue.png
+SHA1-Digest: 6ye7XdKFuWmrETf8cHqOwciXRJs=
+
+Name: res/drawable-xlarge-hdpi/player_red_north.png
+SHA1-Digest: WHG3twtAz8tk3PzD6k7Dk3qfUT0=
+
+Name: res/drawable-mdpi/card_blue_d_spreader.png
+SHA1-Digest: kgCSUNSx7bJCy9YgU6oh3VKT9BM=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_d_spreader.png
+SHA1-Digest: neSG+Hyybmi/ITR21KKZ0ZoO4Zk=
+
+Name: res/drawable-xlarge-mdpi/card_green_0_quitter.png
+SHA1-Digest: 8HQr9gLXnudOT/1q3YvDGttfObI=
+
+Name: res/drawable-xlarge-hdpi/player_green_west.png
+SHA1-Digest: 2vCDuTPze5wGpavZ+VjBLnoKP2o=
+
+Name: res/drawable-hdpi/card_green_3.png
+SHA1-Digest: uYfVXYHMDcWm6Z2ab+JMsGjYrv4=
+
+Name: res/drawable-xlarge-hdpi/card_green_4.png
+SHA1-Digest: KFOSus2cv8V+9Tq12kkFv5lIsD0=
+
+Name: res/drawable-xhdpi/card_yellow_0_shitter.png
+SHA1-Digest: z9Wp78+Hua5VtxJoxMVI3n5TZmA=
+
+Name: res/drawable-hdpi/btn_exit_outline.png
+SHA1-Digest: gYQDlteLfw+/NxoW3XOBPr8l9I8=
+
+Name: res/drawable-xlarge-hdpi/card_green_s.png
+SHA1-Digest: EwXMQMWHCll8V/rEAyTtlzhBePI=
+
+Name: res/drawable-xhdpi/card_badge.png
+SHA1-Digest: QrXuLTwUlxc+3Ljd7y1/BjwwCiw=
+
+Name: res/drawable-hdpi/card_green_d.png
+SHA1-Digest: HN9hhFm/sf4ajo6i1HOShSXKOnc=
+
+Name: res/drawable-hdpi/card_yellow_r.png
+SHA1-Digest: 7opEQJBwXhnn1yjxX2Tzqj5kbHY=
+
+Name: res/drawable-mdpi/table_background.png
+SHA1-Digest: /x3DqdBbzHOnrJf8iQPMTkKzWyc=
+
+Name: res/drawable-xhdpi/card_green_s.png
+SHA1-Digest: EwXMQMWHCll8V/rEAyTtlzhBePI=
+
+Name: res/drawable-hdpi/sel_btn_new_game.xml
+SHA1-Digest: pRatkBw2svZZ53JokXEndoeFqHY=
+
+Name: res/drawable-mdpi/cw_yellow.png
+SHA1-Digest: MWglTpEiPTKXY7zV4L9z0U14IUU=
+
+Name: com/vladium/emma/instr/instr_usage.res
+SHA1-Digest: I2Rq1dLiPtV0mtpqveL3yz+lPKA=
+
+Name: res/drawable-xlarge-hdpi/card_green_3_aids_ff.png
+SHA1-Digest: KUxwUk8RV5vJz6o5DQAHPxAaxo8=
+
+Name: res/drawable-mdpi/ccw_blue.png
+SHA1-Digest: NWQnDpfF9IY6a/hGV+rbf1pUygM=
+
+Name: res/drawable-xhdpi/card_blue_9.png
+SHA1-Digest: 8jyY46C1B2LSqs2bAJGQHHHevy0=
+
+Name: res/drawable-xhdpi/winner_west.png
+SHA1-Digest: 9/LK1MrPFjTUEafw7M4isv7N3gk=
+
+Name: res/drawable-xhdpi/player_blue_east.png
+SHA1-Digest: mUtMWoYGimKxG9oaFxgLgb7QkQ8=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_1.png
+SHA1-Digest: b+ehyqz5URqqW1fZ8KIFiVNL1VI=
+
+Name: res/drawable-xlarge-hdpi/player_blue_east.png
+SHA1-Digest: mUtMWoYGimKxG9oaFxgLgb7QkQ8=
+
+Name: res/drawable-xhdpi/card_red_d_spreader.png
+SHA1-Digest: ZE4rEKHVlUCJk8SfUaaovM9uEkw=
+
+Name: res/drawable-hdpi/cw_yellow.png
+SHA1-Digest: SkB2o8HCexTP/bhv89xXTmN/pcQ=
+
+Name: res/drawable-xhdpi/btn_continue_outline.png
+SHA1-Digest: +SSF1exbNs3A6c6VkxRj8BI6p1Y=
+
+Name: res/drawable-xlarge-hdpi/sel_btn_about.xml
+SHA1-Digest: h+TqSY+4mJK3ifDtf7p4Ci1IDTg=
+
+Name: res/drawable-hdpi/card_green_r_skip.png
+SHA1-Digest: WFyKTMgckLZVo/WXRLRbti37MyQ=
+
+Name: res/drawable-mdpi/ccw.png
+SHA1-Digest: GX4CmFWyLM1I0v76/1YY9rXKxik=
+
+Name: com/vladium/emma/rt/RTExitHook.closure
+SHA1-Digest: fHtO1H01futHZ7Ie/L4eKFD8zsM=
+
+Name: res/menu/gameplay_menu.xml
+SHA1-Digest: Ozl1XeS1CUQyV0tGg1O28vtVjqE=
+
+Name: res/drawable-xhdpi/player_north.png
+SHA1-Digest: D5+WUg/bJH/204y6HZaU+ahwYGE=
+
+Name: res/drawable-mdpi/player_west.png
+SHA1-Digest: 9BlmaDFBFb4k+USc+fYadctJ/RY=
+
+Name: res/drawable-hdpi/winner_north.png
+SHA1-Digest: SWoDVRdIM8Q5jOKPEXB5bViUY5k=
+
+Name: res/drawable-hdpi/player_yellow_south.png
+SHA1-Digest: Yia2w8qeOgdm0wUVcRHbFVNWLi4=
+
+Name: res/drawable-xlarge-hdpi/card_wild_drawfour.png
+SHA1-Digest: LKnneMi9dLMELZq/VJR65uST+PI=
+
+Name: res/drawable-hdpi/table_background.png
+SHA1-Digest: wI/4iqdO8GB0+1UaJNvJIXkGjms=
+
+Name: res/drawable-mdpi/splash.png
+SHA1-Digest: O9iyNGiKQkIXYEHyo9zMoYLB1Rw=
+
+Name: res/drawable-xlarge-hdpi/btn_about_outline.png
+SHA1-Digest: 7i0IvuwS5GVxOlSgfzRchS6ZD+M=
+
+Name: res/drawable-hdpi/card_yellow_1.png
+SHA1-Digest: b+ehyqz5URqqW1fZ8KIFiVNL1VI=
+
+Name: res/drawable-xhdpi/sel_btn_continue.xml
+SHA1-Digest: vC0y58TFyUxfjY2OmaogxCuxbRI=
+
+Name: res/drawable-xlarge-hdpi/card_red_8.png
+SHA1-Digest: sc43ldKzsDbnRRLwYIMgIU3YjJM=
+
+Name: res/drawable-xhdpi/card_yellow_9.png
+SHA1-Digest: UbIcGFpO0qfj5zqjKKSPq/QXX0Q=
+
+Name: res/drawable-xhdpi/card_yellow_d_spreader.png
+SHA1-Digest: 8IKzRyrANZYjr7wEHYvEEoKuiGo=
+
+Name: res/drawable-hdpi/cw_red.png
+SHA1-Digest: K9wdXF+/2Q9qbi1qqFVDQsLV5OA=
+
+Name: res/drawable-xlarge-mdpi/winner_west.png
+SHA1-Digest: 9/LK1MrPFjTUEafw7M4isv7N3gk=
+
+Name: res/drawable-mdpi/sel_btn_continue.xml
+SHA1-Digest: vC0y58TFyUxfjY2OmaogxCuxbRI=
+
+Name: res/drawable-xlarge-mdpi/card_blue_0_fuckyou.png
+SHA1-Digest: J8Vg8i6pXtL2SlkSAL78Mem2+1k=
+
+Name: res/drawable-xlarge-hdpi/sel_btn_continue.xml
+SHA1-Digest: vC0y58TFyUxfjY2OmaogxCuxbRI=
+
+Name: res/drawable-xlarge-hdpi/ccw_green.png
+SHA1-Digest: VZIRkIXvNRjaNNsFe/HFusQBxhc=
+
+Name: res/drawable-hdpi/player_green_south.png
+SHA1-Digest: zkAfDmr0ujIWSYIMxVwJNHTjHwg=
+
+Name: res/drawable-xlarge-mdpi/card_red_r_skip.png
+SHA1-Digest: p+Eui4HPj5BYcLq0EYVxii9EgOI=
+
+Name: res/drawable-xlarge-mdpi/btn_continue.png
+SHA1-Digest: PtL0j5Mq6sC/aU0IKH1bJ0CHWdM=
+
+Name: res/drawable-mdpi/player_green_east.png
+SHA1-Digest: VDX8dGubsIkKpp6cfO8fLzM4t5I=
+
+Name: res/drawable-xlarge-hdpi/icon.png
+SHA1-Digest: OUfytCebbR1ewQdRiZLeqYfc4J8=
+
+Name: res/drawable-xhdpi/player_green_east.png
+SHA1-Digest: 19DajKrUfmXTKeHBJ6Tb8xy/E8c=
+
+Name: res/drawable-xlarge-hdpi/player_east.png
+SHA1-Digest: sfSNzb9e8woQliKGsggUrZkV67U=
+
+Name: res/drawable-xlarge-hdpi/card_red_5_magic.png
+SHA1-Digest: biTUz1nM8hN5q4gGxV/yKVf6gp0=
+
+Name: res/drawable-mdpi/cw.png
+SHA1-Digest: S3qqp7HgM2lZf4nyYLNSCIv7Yww=
+
+Name: res/drawable-xlarge-hdpi/winner_south.png
+SHA1-Digest: 9dA8bcrdD10QYech1u3YkYqV7KA=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_7.png
+SHA1-Digest: fme1Pn8z1CRarOyTOWKWY69H9zo=
+
+Name: res/drawable-hdpi/card_red_1.png
+SHA1-Digest: TGQbEpS3yD84+xpv4ksdHaT/x3g=
+
+Name: res/drawable-xlarge-mdpi/btn_settings_outline.png
+SHA1-Digest: +qP6X+tg9t2+j6PSVyn5xvQ398M=
+
+Name: res/drawable-hdpi/player_green_east.png
+SHA1-Digest: C5ZTI0tCC8rLNCVVErurY5vOMAQ=
+
+Name: res/drawable-mdpi/sel_btn_help.xml
+SHA1-Digest: GxxbGxLYZHPFIhYhf5ZkKmu/B9A=
+
+Name: res/drawable-xlarge-hdpi/card_green_7.png
+SHA1-Digest: ovV0jOKhSxpH2vI7tGCQGt4YFgk=
+
+Name: res/drawable-xlarge-mdpi/card_green_4.png
+SHA1-Digest: zTLDtPDTgW6YRQm9HMKFqFB0p44=
+
+Name: res/drawable-hdpi/player_red_north.png
+SHA1-Digest: WdvAGMXNK/I6ljtkqAkhFdCRR6Y=
+
+Name: res/drawable-hdpi/sel_btn_help.xml
+SHA1-Digest: GxxbGxLYZHPFIhYhf5ZkKmu/B9A=
+
+Name: res/drawable-xlarge-mdpi/card_wild_hd.png
+SHA1-Digest: 8fNNJpr5XBbn7SA0GZEJxqtE/4U=
+
+Name: res/drawable-xlarge-hdpi/card_blue_8.png
+SHA1-Digest: dVJnK+8zcML4chcZWIJICDh5/ss=
+
+Name: res/drawable-mdpi/card_blue_6.png
+SHA1-Digest: Wsksoy8WpZzSt6JIu04X+2OJ82c=
+
+Name: res/drawable-xlarge-hdpi/cw.png
+SHA1-Digest: THdKJU9991FOBukR/KbEUDJroQw=
+
+Name: res/drawable-xhdpi/card_wild_db.png
+SHA1-Digest: wgwY1tPD7XHRh4PWfnE6rDokUs8=
+
+Name: res/drawable-mdpi/cw_green.png
+SHA1-Digest: x/wxUjgNnTEV116LUuzeuFt5EWs=
+
+Name: res/drawable-hdpi/card_red_4.png
+SHA1-Digest: SAvzn2tPnvj3fKnZ4tTjbnuJyl0=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_2.png
+SHA1-Digest: 8iNLYJDYapJz3ykcHvZnsarzWU8=
+
+Name: res/drawable-xhdpi/card_yellow_4.png
+SHA1-Digest: INpFvofSnA6Itt+iL/eKlAawRDQ=
+
+Name: res/drawable-mdpi/player_red_west.png
+SHA1-Digest: 1tT3baH4g5OW4AvPBuoxuiZW7f4=
+
+Name: res/drawable-hdpi/card_wild.png
+SHA1-Digest: M6PQzfdrtZI5iNttfX0qbO8agbQ=
+
+Name: res/drawable-xlarge-hdpi/card_blue_s.png
+SHA1-Digest: prjZbvP73r6bBzei6RmcucFvtTU=
+
+Name: res/drawable-mdpi/player_blue_east.png
+SHA1-Digest: p9Y+2N0hWfUGMM9sMlzDZPT49os=
+
+Name: res/drawable-xhdpi/card_yellow_8.png
+SHA1-Digest: 8l9+Lt+QNC4xxJED5hk2Q932K1A=
+
+Name: res/drawable-xlarge-hdpi/card_blue_d_spreader.png
+SHA1-Digest: CzHO4E71YC6wo0zNgHl6U6MQFT8=
+
+Name: res/drawable-mdpi/btn_settings.png
+SHA1-Digest: CVNchA6q+JU0gKRzgEhrahC0G9Y=
+
+Name: res/drawable-xhdpi/card_blue_8.png
+SHA1-Digest: dVJnK+8zcML4chcZWIJICDh5/ss=
+
+Name: res/drawable-xhdpi/player_west.png
+SHA1-Digest: NNV7ZcxWcceHuKYPDzwc4+eCP4w=
+
+Name: res/drawable-hdpi/player_green_west.png
+SHA1-Digest: xZ++2yoZ0U13CuTg5L57cWNM/3I=
+
+Name: res/drawable-xhdpi/card_blue_0_fuckyou.png
+SHA1-Digest: Px/voohGyjZtYt/p7RIKb9AbgDg=
+
+Name: res/drawable-xlarge-hdpi/card_red_0_hd.png
+SHA1-Digest: YTf8tpPl2655DaXq4qKsfnW3swU=
+
+Name: res/drawable-mdpi/card_blue_2_shield.png
+SHA1-Digest: mq//1eh60rVQs5CSGA4G7zsZGCk=
+
+Name: res/drawable-mdpi/card_blue_d.png
+SHA1-Digest: d1miYz+D5aLGIFe/v2AWbwlJpzc=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_0_shitter.png
+SHA1-Digest: 95rBqCA5s76zyR7qghHnzLmHIUs=
+
+Name: res/drawable-hdpi/card_red_6.png
+SHA1-Digest: Ed1RZIK9l0h+uuWx9EfkR0oTQUs=
+
+Name: res/drawable-xhdpi/card_green_6.png
+SHA1-Digest: KSSRlqOyQnh68Ka4D/Ig8mtJeFE=
+
+Name: res/drawable-hdpi/card_green_s.png
+SHA1-Digest: eTfCVjtZd7BzllnEciDp7NyiqCc=
+
+Name: res/drawable-xlarge-mdpi/btn_help.png
+SHA1-Digest: lNOOJJZyvZ8LjKiD7/AD3blBcdo=
+
+Name: res/drawable-xhdpi/cw_yellow.png
+SHA1-Digest: m+rDvzh5hL8VC/lkaZonBWpN7R4=
+
+Name: res/drawable-xhdpi/card_blue_r_skip.png
+SHA1-Digest: NeLYvnHatYttwPpvVQYS6hkRXbw=
+
+Name: res/drawable-xlarge-hdpi/player_green_east.png
+SHA1-Digest: 19DajKrUfmXTKeHBJ6Tb8xy/E8c=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_0_shitter.png
+SHA1-Digest: z9Wp78+Hua5VtxJoxMVI3n5TZmA=
+
+Name: res/drawable-mdpi/player_red_north.png
+SHA1-Digest: Kat+fw8BUwKtZpF3otRPLOPGugk=
+
+Name: res/drawable-hdpi/winner_east.png
+SHA1-Digest: lyMxWtOcdwTKcx8/4mbNKkf2vSk=
+
+Name: res/drawable-hdpi/player_yellow_north.png
+SHA1-Digest: fdDx6LDsNLEcoz5Yi2h4R2BHHTU=
+
+Name: res/drawable-xlarge-hdpi/player_blue_south.png
+SHA1-Digest: Ww715nT5d75leduzMJgjIK/BFZA=
+
+Name: res/drawable-hdpi/card_red_r.png
+SHA1-Digest: 4NZJ/YxRWpgm6LbPYi2bQujQH5c=
+
+Name: res/drawable-xlarge-mdpi/btn_about_outline.png
+SHA1-Digest: Hf5HPFavWc7zLJpqx8px/n5psCM=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_8.png
+SHA1-Digest: 8l9+Lt+QNC4xxJED5hk2Q932K1A=
+
+Name: res/drawable-xlarge-hdpi/card_green_d_spreader.png
+SHA1-Digest: rfP+WX4W9fgD+e8e/LJDXNsGtbQ=
+
+Name: res/drawable-mdpi/card_blue_5.png
+SHA1-Digest: 0jMtLERD+kXzbHUWGWOhYiUOo54=
+
+Name: res/drawable-xhdpi/card_blue_2_shield.png
+SHA1-Digest: Y/YT6jvzsO/pbt+Gc3Ea6nnyA10=
+
+Name: res/drawable-xhdpi/btn_continue.png
+SHA1-Digest: 7FTMrWZq04GhZe+wmeVWBygmfug=
+
+Name: res/drawable-mdpi/ccw_red.png
+SHA1-Digest: IuUxHS2fctlelvi6NNoC3Q6LKTg=
+
+Name: res/drawable-xlarge-mdpi/card_blue_s.png
+SHA1-Digest: R3t7VypKiF/QeU6aRh8L/nD1aRo=
+
+Name: res/drawable-mdpi/btn_about_outline.png
+SHA1-Digest: Mv69MzWOK5HyAyIir9P5zNmROIo=
+
+Name: res/drawable-xlarge-hdpi/card_blue_0.png
+SHA1-Digest: 0w8mknKV+zoms8oHGxW59iLE9jE=
+
+Name: res/drawable-mdpi/card_yellow_1_mad.png
+SHA1-Digest: 9hA6Y6AGq8bLYj7o4+3MLVkufG4=
+
+Name: res/drawable-mdpi/card_yellow_69.png
+SHA1-Digest: 9osHeBfcev3/DddXlTFmjvh1G2g=
+
+Name: res/drawable-xhdpi/card_blue_4.png
+SHA1-Digest: EZmRPbouoWYPWgP2SJxErGpg/7U=
+
+Name: res/drawable-xlarge-mdpi/splash_land.png
+SHA1-Digest: +sp2wwZ93nGOOra2gNEscIWMu5Y=
+
+Name: res/drawable-xlarge-mdpi/player_west.png
+SHA1-Digest: VZ62AQ8PgyKHaFU9Mg7yEvOfryY=
+
+Name: res/drawable-xlarge-hdpi/card_blue_2.png
+SHA1-Digest: unMBCH7wv8kyFnuAhhPDJds9nTc=
+
+Name: res/drawable-xhdpi/card_green_3_aids_ff.png
+SHA1-Digest: KUxwUk8RV5vJz6o5DQAHPxAaxo8=
+
+Name: res/drawable-xhdpi/player_green_south.png
+SHA1-Digest: yVNrTDwQF+Qz0axp4RTL7QY/bPA=
+
+Name: res/drawable-xhdpi/card_red_r_skip.png
+SHA1-Digest: JXJZazSE4Ohb9oTbc+sv5bXUipE=
+
+Name: res/drawable-xlarge-mdpi/sel_btn_exit.xml
+SHA1-Digest: QX7Yz+wpmxiQb00Ie/WncobWmnQ=
+
+Name: res/drawable-xlarge-mdpi/card_red_5_magic.png
+SHA1-Digest: GPS569dTi+m7G/Shya/xcDj+nVs=
+
+Name: res/drawable-xlarge-mdpi/cw_yellow.png
+SHA1-Digest: SkB2o8HCexTP/bhv89xXTmN/pcQ=
+
+Name: res/drawable-xlarge-mdpi/card_blue_5.png
+SHA1-Digest: leMu8/zkrlfFxNPgAAho/BXMNqE=
+
+Name: res/layout/dlg_about.xml
+SHA1-Digest: 6XqZqDYLMy5l5jg+2D0nEx/Hrzs=
+
+Name: res/drawable-xhdpi/card_blue_7.png
+SHA1-Digest: 4oHppvcNDfBf7bZ3gRxAe71CC8w=
+
+Name: resources.arsc
+SHA1-Digest: 5hqm/qHF6Qa2v3nOUZn0sPTJzWk=
+
+Name: res/drawable-hdpi/player_green_north.png
+SHA1-Digest: 2u71HpGrJXRHqSJWj1zBM5qQeKQ=
+
+Name: res/drawable-xlarge-mdpi/ccw.png
+SHA1-Digest: onZntNPwImzUkuu4L9Dy3wWGA5c=
+
+Name: res/drawable-xlarge-hdpi/sel_btn_help.xml
+SHA1-Digest: GxxbGxLYZHPFIhYhf5ZkKmu/B9A=
+
+Name: res/drawable-xhdpi/player_red_west.png
+SHA1-Digest: wjQn6UFeD994DErSBOZy085GIuk=
+
+Name: res/drawable-xlarge-hdpi/card_blue_0_fuckyou.png
+SHA1-Digest: Px/voohGyjZtYt/p7RIKb9AbgDg=
+
+Name: res/drawable-mdpi/player_yellow_south.png
+SHA1-Digest: tJBFEs7q2ItuNF1AcOvso5ISBTw=
+
+Name: res/drawable-hdpi/card_blue_0.png
+SHA1-Digest: 09lDnFn7G/PmNnWk3ckDlsCznII=
+
+Name: res/drawable-xhdpi/card_yellow_d.png
+SHA1-Digest: QVU7aipkIkRiP5XuyY9BIUi/ybw=
+
+Name: res/drawable-xlarge-mdpi/card_green_0.png
+SHA1-Digest: sE9XHmsQmuFlqCKm4lJdSq4KP2M=
+
+Name: res/drawable-xlarge-hdpi/card_green_8.png
+SHA1-Digest: xTwTZmfgwx91BdzmF37SYBdtyhk=
+
+Name: res/drawable-xhdpi/player_blue_west.png
+SHA1-Digest: EFaxlY7dZrXyMrzBRpIxxi4u9HM=
+
+Name: res/drawable-xlarge-mdpi/player_red_south.png
+SHA1-Digest: gc3K8kSrLiqOo2vW1zz76OxkrDI=
+
+Name: res/drawable-hdpi/card_red_0.png
+SHA1-Digest: donNroGc2XzVg0CcSdOyihmlLbk=
+
+Name: res/drawable-xlarge-mdpi/card_blue_6.png
+SHA1-Digest: i+OdZTpGT8pHqfbOODQtnlgvYj4=
+
+Name: res/drawable-xlarge-hdpi/splash.png
+SHA1-Digest: kQym6EFPmr4144OE48d4zG7DOms=
+
+Name: res/drawable-xlarge-mdpi/card_red_0_hd.png
+SHA1-Digest: j65Oo4P5VJj8btbjWRb8svatVjs=
+
+Name: res/drawable-hdpi/card_blue_8.png
+SHA1-Digest: f6YqTUoNuWy6PQ+c3SYPh1LrqPI=
+
+Name: res/drawable-hdpi/btn_about_outline.png
+SHA1-Digest: Hf5HPFavWc7zLJpqx8px/n5psCM=
+
+Name: res/drawable-xhdpi/btn_settings.png
+SHA1-Digest: ytH4iu3W2mJ43RxcZOc1jXisaAs=
+
+Name: res/drawable-xhdpi/card_green_r.png
+SHA1-Digest: 95Xl0e7JLh3+oVU14qp8nkzq3W0=
+
+Name: res/drawable-mdpi/card_green_3_aids.png
+SHA1-Digest: 9330fQi9O89WBW54GFjA3uyB098=
+
+Name: res/drawable-mdpi/card_blue_s.png
+SHA1-Digest: s12zjVClIh2XFfVYm2MWLKReitE=
+
+Name: res/drawable-hdpi/sel_btn_exit.xml
+SHA1-Digest: QX7Yz+wpmxiQb00Ie/WncobWmnQ=
+
+Name: res/drawable-xlarge-mdpi/card_red_d_spreader.png
+SHA1-Digest: hgnujjyWwTaqnsAHxZ9vg/1PEME=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_3.png
+SHA1-Digest: AkVBsTMUAg2Ybs5/y1Y3HNFaRVQ=
+
+Name: res/drawable-xhdpi/cw.png
+SHA1-Digest: THdKJU9991FOBukR/KbEUDJroQw=
+
+Name: res/drawable-hdpi/ccw_green.png
+SHA1-Digest: bbozPIONsSl+X7F9tXbqIAam5bE=
+
+Name: res/drawable-hdpi/btn_help_outline.png
+SHA1-Digest: pzwkngibO3+sZ5RLVaY6wI5RO8Q=
+
+Name: res/drawable-mdpi/player_blue_north.png
+SHA1-Digest: 9LG4nIEVB2ftn+5e5y7Ejb9lf4o=
+
+Name: res/drawable-mdpi/card_blue_s_double.png
+SHA1-Digest: 7kACjbsdAqLTFwp55mT4de5os5g=
+
+Name: res/drawable-mdpi/btn_help.png
+SHA1-Digest: 4g738I0tXiZxUeaq+ZS2CnUxalY=
+
+Name: res/drawable-hdpi/card_yellow_3.png
+SHA1-Digest: wKUpPpS9qkvKa6t4q7qVz/6QpNI=
+
+Name: res/drawable-xhdpi/card_red_1.png
+SHA1-Digest: 6wkxw1ICQFYjAIsoJyycQ/Kyvpc=
+
+Name: res/drawable-xlarge-mdpi/card_blue_d_spreader.png
+SHA1-Digest: 9Ws0SDWiBsyDVRiSDn4lWK3btX4=
+
+Name: res/drawable-mdpi/card_blue_2.png
+SHA1-Digest: VfgeRCPITzTu0HgUJ/Q3fP7TONQ=
+
+Name: res/drawable-hdpi/card_yellow_9.png
+SHA1-Digest: 9c6A1TluSqXYqJYAiKaxEFXUNHM=
+
+Name: res/drawable-mdpi/card_red_8.png
+SHA1-Digest: UF7YSfuGpiKoA4xToZ48NhcwEd4=
+
+Name: res/drawable-hdpi/card_green_8.png
+SHA1-Digest: P2wYb5cTPhNhnWw0RwoXgKUdzHM=
+
+Name: res/drawable-xlarge-hdpi/card_green_d.png
+SHA1-Digest: oSQpw7YLU6RMuvAxbhNb9Bico9M=
+
+Name: res/drawable-xhdpi/card_green_1.png
+SHA1-Digest: lPad7+2FoOylWAchUwQFlAH99XY=
+
+Name: res/drawable-xhdpi/player_east.png
+SHA1-Digest: sfSNzb9e8woQliKGsggUrZkV67U=
+
+Name: res/drawable-hdpi/splash.png
+SHA1-Digest: kQym6EFPmr4144OE48d4zG7DOms=
+
+Name: res/drawable-xlarge-mdpi/card_wild_db.png
+SHA1-Digest: nerp686bdj8ZpzmBQWG4zloceNU=
+
+Name: res/drawable-hdpi/card_yellow_0.png
+SHA1-Digest: lGZJp6vB2/Z9YH3C7NlBsZi32yI=
+
+Name: res/drawable-xlarge-hdpi/player_south.png
+SHA1-Digest: tHQo2hYT8rhGzAM9v5JQYmrLGQY=
+
+Name: res/drawable-hdpi/card_green_0.png
+SHA1-Digest: sE9XHmsQmuFlqCKm4lJdSq4KP2M=
+
+Name: res/drawable-mdpi/card_red_5.png
+SHA1-Digest: u7+z9/9ZZGVc79kKtvVHAZRc81k=
+
+Name: res/drawable-mdpi/player_yellow_north.png
+SHA1-Digest: 1qnYwW0fpwIOCXC9IN6RJ2tHgPc=
+
+Name: res/drawable-xlarge-hdpi/card_blue_0_fuckyou_ff.png
+SHA1-Digest: F7ax20Ps1Lv1PvnttG4VR1qw2q8=
+
+Name: res/drawable-mdpi/player_yellow_east.png
+SHA1-Digest: WOvSmF3n+B+F5x9ARHn2frbcmwg=
+
+Name: res/drawable-xlarge-hdpi/player_north.png
+SHA1-Digest: D5+WUg/bJH/204y6HZaU+ahwYGE=
+
+Name: res/drawable-xhdpi/card_red_0.png
+SHA1-Digest: Y7xGMbMDeBGphe6gi5h1ZJBhNf4=
+
+Name: res/drawable-hdpi/card_green_r.png
+SHA1-Digest: 8nt2/Q2QHyTtjNixLmTXedeOJ3w=
+
+Name: res/drawable-xlarge-hdpi/btn_about.png
+SHA1-Digest: MyemtkVJVduTTnTJ4RBbrrxQIf4=
+
+Name: res/drawable-mdpi/player_north.png
+SHA1-Digest: hCum6pOjzUjSWGJuS1uCGsf9SfM=
+
+Name: res/drawable-hdpi/card_yellow_d.png
+SHA1-Digest: qZpxnAEV/xAA6exk3iWHLZ3PqJ0=
+
+Name: emma_default.properties
+SHA1-Digest: t2aJ4vA+08gVAALZAwrrFRx73Oc=
+
+Name: res/drawable-xhdpi/ccw_green.png
+SHA1-Digest: VZIRkIXvNRjaNNsFe/HFusQBxhc=
+
+Name: res/drawable-hdpi/card_red_s.png
+SHA1-Digest: +pldDAVC4/idIEYkZ8I+JoIA++s=
+
+Name: res/drawable-mdpi/card_blue_9.png
+SHA1-Digest: DSWp19zr1QbJET/BFL+PU6GmDVg=
+
+Name: res/drawable-xhdpi/card_yellow_s.png
+SHA1-Digest: RT+xI66F/AEU7VY5yzd+Fzx7CWU=
+
+Name: res/drawable-hdpi/card_green_d_spreader.png
+SHA1-Digest: s3+8be5RW5+IZ/XD7Y/X9s0/mp4=
+
+Name: res/drawable-xhdpi/player_red_east.png
+SHA1-Digest: aOaoKvI3Dq0JXvLG1gW78WGRjLQ=
+
+Name: res/drawable-mdpi/player_red_south.png
+SHA1-Digest: E3VmZk7CUMP+9JUBprMSmlHGtdo=
+
+Name: res/drawable-xlarge-hdpi/ccw_blue.png
+SHA1-Digest: w0ngV7/8qjiZpwoBX7hCTCUTZ1I=
+
+Name: res/drawable-xlarge-mdpi/btn_help_outline.png
+SHA1-Digest: pzwkngibO3+sZ5RLVaY6wI5RO8Q=
+
+Name: res/drawable-hdpi/winner_west.png
+SHA1-Digest: 9/LK1MrPFjTUEafw7M4isv7N3gk=
+
+Name: res/layout/main.xml
+SHA1-Digest: 6WuJavLd8frXtTXaBM2xP2AoZyA=
+
+Name: res/drawable-xlarge-mdpi/card_wild_hos.png
+SHA1-Digest: m7uOw6CC/wa78EJzUkehtemnBag=
+
+Name: res/drawable-xhdpi/card_blue_r.png
+SHA1-Digest: yQ1rZGrvGmIQmNVbkkbSIertvfo=
+
+Name: res/drawable-xlarge-hdpi/player_green_north.png
+SHA1-Digest: tdfFZ1zYkSU6wjZ4W5YEwCHnGVs=
+
+Name: res/drawable-xlarge-hdpi/card_red_1.png
+SHA1-Digest: 6wkxw1ICQFYjAIsoJyycQ/Kyvpc=
+
+Name: res/drawable-ldpi/currplayer.png
+SHA1-Digest: 9YskxBSoTbFNj1skjOASr+y381o=
+
+Name: res/drawable-hdpi/card_blue_4.png
+SHA1-Digest: vyACtIkq8OSiJFydziyxYT4xypc=
+
+Name: res/drawable-xlarge-mdpi/card_red_8.png
+SHA1-Digest: 7Is9DcJA9vrB6FXSBjFvmYi8n+U=
+
+Name: res/drawable-xlarge-hdpi/card_red_7.png
+SHA1-Digest: OCCW1Rj7tAKIZ2mJ+hORZxdRhZY=
+
+Name: res/drawable-xlarge-hdpi/card_yellow_d_spreader.png
+SHA1-Digest: 8IKzRyrANZYjr7wEHYvEEoKuiGo=
+
+Name: res/drawable-xhdpi/card_yellow_r_skip.png
+SHA1-Digest: wy0sKF649D8K5/pGHSsJeDHvnRo=
+
+Name: res/drawable-mdpi/ccw_yellow.png
+SHA1-Digest: upmn8h2yqlEuMUqQNfyO9ANlSlw=
+
+Name: res/drawable-xlarge-mdpi/ccw_yellow.png
+SHA1-Digest: uLQywAVAqec6gqa0YHOmVL44t+E=
+
+Name: res/drawable-xlarge-mdpi/card_red_2.png
+SHA1-Digest: A1AUV/Qo65qLamd/BaxaLjM3NKM=
+
+Name: res/drawable-hdpi/player_south.png
+SHA1-Digest: aCFxvbToMZqkCwGahLJSy5kKtM8=
+
+Name: res/drawable-xlarge-mdpi/card_blue_2.png
+SHA1-Digest: mVEDkQf47Remx8GuN2aYTaj7/kY=
+
+Name: res/drawable-mdpi/card_red_r.png
+SHA1-Digest: OePdiG1iVKbDoI5ARFuElS6UTV0=
+
+Name: res/drawable-hdpi/ccw_blue.png
+SHA1-Digest: q1jLLSXbHaVwCcK15BlA/98FX8A=
+
+Name: res/drawable-mdpi/card_yellow_5.png
+SHA1-Digest: 0s9k+ekeT5twIyuxsh+XkoIuGGk=
+
+Name: res/drawable-mdpi/winner_east.png
+SHA1-Digest: fZCYpLLJc5GqinyqlrSb3q+TYaI=
+
+Name: res/drawable-xlarge-mdpi/card_red_9.png
+SHA1-Digest: i4egDag7EMNpa74EDkeJeMqwLdo=
+
+Name: res/drawable-xlarge-hdpi/card_blue_s_double.png
+SHA1-Digest: gVLXbSND+zq90Mo3LxRZk8FaWQo=
+
+Name: res/drawable-hdpi/player_east.png
+SHA1-Digest: nCOvjK7nlBr7BNaxJe0dDDtFJqc=
+
+Name: res/drawable-xlarge-hdpi/btn_new_game.png
+SHA1-Digest: uJyaUvZvqnKRO6GRcY9xg/8M1Gk=
+
+Name: res/drawable-xlarge-hdpi/card_blue_1.png
+SHA1-Digest: 6Z9jnpKqylyi0g25ICHKBCqEuPM=
+
+Name: res/drawable-xhdpi/cw_red.png
+SHA1-Digest: 1Pu/GaqdCinps5UO0JfA55dNqfw=
+
+Name: res/drawable-xhdpi/card_yellow_6.png
+SHA1-Digest: 5j8uEt7YKHRWeXqTvpwy3mI/okw=
+
+Name: res/drawable-xlarge-hdpi/card_red_2.png
+SHA1-Digest: mk0VUDedru4HBXvyonoLHMlX4z0=
+
+Name: res/drawable-hdpi/btn_exit.png
+SHA1-Digest: G5ubXrZFZJ2oKdLkofUlTbKlOGw=
+
+Name: res/drawable-xhdpi/player_yellow_west.png
+SHA1-Digest: S3BfUtsHumYnbOYvnbsNg/46ssc=
+
+Name: res/drawable-mdpi/card_red_1.png
+SHA1-Digest: CoNA4c24COr4r+6sFxZtCbbaOVM=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_1_mad.png
+SHA1-Digest: 5z2TB6NRWlWa3ipSX59a6imQDl0=
+
+Name: res/drawable-mdpi/card_yellow_8.png
+SHA1-Digest: XHhR8hUs9moLPdKRUuaDfDl7cao=
+
+Name: res/drawable-mdpi/card_yellow_s.png
+SHA1-Digest: BV4XhqfckIKjzbh2UhCq8b2suQY=
+
+Name: res/drawable-xhdpi/card_wild_drawfour.png
+SHA1-Digest: LKnneMi9dLMELZq/VJR65uST+PI=
+
+Name: res/drawable-xhdpi/card_yellow_69.png
+SHA1-Digest: eBPp4lnkDGY8V1wcMH/yOG5/SgA=
+
+Name: res/drawable-hdpi/card_yellow_s_double.png
+SHA1-Digest: nU5E63z0cpsF2DEFiKu51g0NIyo=
+
+Name: res/drawable-hdpi/card_green_6.png
+SHA1-Digest: 5QePk04Z8GD+F8A8H1LFNYExjq8=
+
+Name: res/drawable-mdpi/card_green_s_double.png
+SHA1-Digest: RUcPfrmBtWXD+UQ1kcHWCLGZcqk=
+
+Name: res/drawable-mdpi/btn_help_outline.png
+SHA1-Digest: Tr4Ulrqclr4pxRnctgf/tBEn6IQ=
+
+Name: res/drawable-xlarge-hdpi/btn_continue.png
+SHA1-Digest: 7FTMrWZq04GhZe+wmeVWBygmfug=
+
+Name: res/drawable-xhdpi/card_blue_6.png
+SHA1-Digest: r9H4xkBGcZkxlfR4XLIDUvVbj5Q=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_0_shitter_ff.png
+SHA1-Digest: /RQ9x6M1CdIaZE8iL3P7HmVnfTg=
+
+Name: res/drawable-mdpi/card_wild.png
+SHA1-Digest: SmrBPTfDvRy8gXZ7CFi4UjjSZ+0=
+
+Name: res/drawable-hdpi/card_blue_r_skip.png
+SHA1-Digest: dkd9+rKb2stIj78q5lHVExZrPsU=
+
+Name: res/drawable-xlarge-mdpi/card_yellow_8.png
+SHA1-Digest: TuzKtZUPQO6wUjkTcRDWQ/k9Lcw=
+
+Name: res/drawable-hdpi/btn_help.png
+SHA1-Digest: lNOOJJZyvZ8LjKiD7/AD3blBcdo=
+
+Name: res/drawable-xhdpi/card_back.png
+SHA1-Digest: uDl/YSQnmGgpPh+VywDVhDP7zPc=
+
+Name: res/drawable-xlarge-mdpi/cw_blue.png
+SHA1-Digest: G67Hycpu8CMxfwS7p3UCwa9Bh1Q=
+
+Name: res/drawable-hdpi/card_red_7.png
+SHA1-Digest: 2PLw5uphnKu53VOfRx4g2DYM5EQ=
+
+Name: res/drawable-hdpi/card_yellow_d_spreader.png
+SHA1-Digest: neSG+Hyybmi/ITR21KKZ0ZoO4Zk=
+
+Name: res/drawable-xlarge-mdpi/card_green_r_skip.png
+SHA1-Digest: WFyKTMgckLZVo/WXRLRbti37MyQ=
+
+Name: res/drawable-xlarge-mdpi/card_green_9.png
+SHA1-Digest: CGuqtIoeo+O2px8Cmcf2xHrfdUc=
+
+Name: res/drawable-xhdpi/card_red_d.png
+SHA1-Digest: HMPShzJB0AQ0LPkmfzqlG7ceWiY=
+
+Name: res/drawable-hdpi/card_yellow_s.png
+SHA1-Digest: DZFLWJwKLYxluB4r4atxGtmcGto=
+
+Name: res/drawable-xlarge-mdpi/player_green_west.png
+SHA1-Digest: xZ++2yoZ0U13CuTg5L57cWNM/3I=
+

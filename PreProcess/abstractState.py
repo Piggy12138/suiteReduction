@@ -7,9 +7,11 @@ import json
 from bs4 import UnicodeDammit
 import xml.etree.ElementTree as ET
 from playsound import playsound
+#################################################
 # 运行saphiez生成的脚本，记录每一个操作引起的覆盖率变化
 # 2020/11/30
 # by :lyy
+#################################################
 
 
 namespace = '{http://schemas.android.com/apk/res/android}'
@@ -139,7 +141,6 @@ def extract_coverage(path):
 
     parser = html.HTMLParser(encoding=doc.original_encoding)
     root = html.document_fromstring(content, parser=parser)
-    root = html.document_fromstring(content, parser=parser)
     return root.xpath('/html/body/table[2]/tr[2]/td[2]/text()')[0].strip()
 
 
@@ -149,39 +150,55 @@ def del_before_ec(device):
     os.system("adb -s " + device + " shell rm /mnt/sdcard/coverage.ec")
     # os.popen('adb shell "rm /mnt/sdcard/coverage.ec“')
 
+# 初始测试从桌面开始
+def back_home(emulator):
+    command = 'adb -s '+emulator+' shell input keyevent 3'
+    os.system(command)
 
 
-def init(path, apkname, emulator,i):
+def init(path, apkname, emulator,indexi,indexj,indexm):
     # 解析获得包名
     package_name = extract_package_name(os.path.dirname(os.getcwd()) + '/Input/' + apkname + '/bin/AndroidManifest.xml')
 
-    # 拷贝coverage.em结构文件
-    os.system('copy "' + os.path.dirname(
-        os.getcwd()) + '\\Input\\' + apkname + '\\bin\\coverage.em"' + ' "' + path + '\\Input\\' + apkname + '"')
+
+
+
 
     # 读取原始脚本，以事件类型创建抽象状态流
-    for x in range(0,i+1):
-        for j in range(0,5):
+    for x in range(0,indexi+1):
 
-
-            for m in range(0,3):
+        for j in range(0,indexj+1):
+            for m in range(0,indexm+1):
+                 # if (x < 2):
+                 #    break
+                 # if(x == 2 and j == 0 and m == 0):
+                 #    continue
+                 # if (x == 2 and j == 0 and m == 1):
+                 #    continue
                  # clean states
                  os.system("adb -s " + emulator + " shell am force-stop " + package_name)
                  os.system("adb -s " + emulator + " shell pm clear " + package_name)
                  # 程序插桩，启动Emma
                  coverage_instrument(package_name, emulator)
+                 #返回桌面
+                 back_home(emulator)
+
+
                  print("Current script:script" + str(x) + str(j) + str(m))
                  playsound("D:\\BaiduNetdiskDownload\\media.mp3")
-                 command = input("Do you want to continue with the next script?")
-                 # os.remove('D:\\BaiduNetdiskDownload\\media.mp3')
-                 if(command == 'yes'):
-                         script = os.path.dirname(os.getcwd())+\
-                          '\\Input\\'+apkname+'\\intermediate\\motifcore.evo.script.'+str(x)+'.'+str(j)+'.'+str(m)
-                          # 调用readin函数
-                         readin(path, apkname, emulator, package_name,script,x,j,m)
+                 #command = input("Do you want to continue with the next script?")
+
+                 try:
+                     #if(command == 'yes'):
+                             script = os.path.dirname(os.getcwd())+\
+                              '\\Input\\'+apkname+'\\intermediate\\motifcore.evo.script.'+str(x)+'.'+str(j)+'.'+str(m)
+                             # 调用readin函数
+                             readin(path, apkname, emulator, package_name, script, x, j, m)
+                 except:
+                    pass
 
 
 
 
 #del_before_ec('emulator-5554')
-init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"RandomMusicPlayer",'emulator-5554',5)
+init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"MyExpenses",'emulator-5554',8,3,2)

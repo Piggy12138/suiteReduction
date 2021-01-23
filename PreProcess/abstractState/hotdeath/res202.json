@@ -1,0 +1,1942 @@
+[
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f68120)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3ea4ad8)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.android.launcher2.Launcher(b3f0f100)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "  mCurrentFocus=Window{b3f5f280 u0 How to Play(b3f5f280)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b3f60f30)"
+  },
+  {
+    "coverage": "75%  (24/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f9f1a0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f6bb48)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3ea4ad8 u0 Red Double Skip(b3ea4ad8)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3ea4ad8 u0 Red Double Skip(b3ea4ad8)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3ea4ad8 u0 Red Double Skip(b3ea4ad8)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f7f540)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f9aa08 u0 Blue 9(b3f9aa08)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f5c4e0 u0 StatusBar(b3f5c4e0)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3fa5f50 u0 Red Double Skip(b3fa5f50)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "  mCurrentFocus=Window{b3f51388 u0 Green 2(b3f51388)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b40a4640)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  },
+  {
+    "coverage": "81%  (26/32)",
+    "state": "com.smorgasbork.hotdeath.GameActivity(b3f2c008)"
+  }
+]

@@ -1,0 +1,2 @@
+com.android.launcher2.Launcher(b4689040),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4219908),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e1c350),org.totschnig.myexpenses.ExpenseEdit(b3e54fa8),org.totschnig.myexpenses.SelectCategory(b3f12d58),org.totschnig.myexpenses.GrisbiImport(b4688e80)
+[[10, 18]]

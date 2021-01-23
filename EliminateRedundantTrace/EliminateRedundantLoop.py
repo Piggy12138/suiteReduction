@@ -112,13 +112,18 @@ def init_elinimate(apkname,index0,index1,index2):
     file_output.writelines(header)
     # line_read:获取需要被删除的下标列表
     line_read = file_read.readlines()[1]
+    if (eval(line_read)[0][0]+3!=1):
+        start_line = 4
+    else:
+        start_line = eval(line_read)[0][0]+3
+
     # j:记录被遍历下标
     j = 4
     # i:记录被遍历下标列表的下标
     i = 0
     # 记录是否为dispatchkey连续操作
     flag =0
-    for lines in file_input.readlines()[eval(line_read)[i][0]+3:]:
+    for lines in file_input.readlines()[start_line:]:
         # 如果j < 坐标对的前一个下标（说明还没到应该被操作的行，继续写入）
         # 如果j >坐标对的最后一个元组的最后一个下标（说明删除已经操作完了，剩下的继续写入）
         if (j<eval(line_read)[i][0]+3 or j>eval(line_read)[-1][1]+3):
@@ -142,6 +147,7 @@ def init_elinimate(apkname,index0,index1,index2):
                     file_output.writelines('\n')
                 if (j==eval(line_read)[i][1]+3 and i<len(eval(line_read))-1):
                     i = i+1
+                    start_line = eval(line_read)[i][0]+3
                     flag = 0
                 
 
@@ -155,4 +161,4 @@ def init_elinimate(apkname,index0,index1,index2):
 
 
 
-init_elinimate('RandomMusicPlayer',0,0,0)
+init_elinimate('MyExpenses',0,0,0)

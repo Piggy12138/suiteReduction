@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="text">false</item>
+    <item type="id" name="gridview">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="btn_continue">false</item>
+    <item type="id" name="btn_new_game">false</item>
+    <item type="id" name="btn_settings">false</item>
+    <item type="id" name="btn_help">false</item>
+    <item type="id" name="btn_about">false</item>
+    <item type="id" name="btn_exit">false</item>
+    <item type="id" name="menu_item_draw">false</item>
+    <item type="id" name="menu_item_pass">false</item>
+    <item type="id" name="menu_item_card_info">false</item>
+</resources>

@@ -79,7 +79,7 @@ def init(emulator,apkname,indexi,indexj,indexm):
                     coverage_instrument(package_name,emulator)
                    # run_script(os.getcwd()+'/Output/'+apkname+'/script'+str(i)+str(j)+str(m)+'.txt',emulator,package_name)
                     time.sleep(3)
-                    run_script(os.getcwd() + '/Output/' + apkname + '/script' + str(i) + str(j) + str(m) + '.txt',
+                    run_script(os.getcwd() + '/Output/' + apkname + '/script_' + str(i) + str(j) + str(m) + '.txt',
                                emulator, package_name)
                     generate_coverage(emulator,apkname)
                     try:
@@ -90,5 +90,5 @@ def init(emulator,apkname,indexi,indexj,indexm):
 
 
 
-del_before_ec('emulator-5558')
-init('emulator-5558','RandomMusicPlayer',0,0,2)
+del_before_ec('emulator-5554')
+init('emulator-5554','hotdeath',0,2,0)

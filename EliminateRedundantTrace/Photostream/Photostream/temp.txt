@@ -1,5 +1,0 @@
-type= raw events
-count= -1
-speed= 1.0
-start data >>
-DispatchTrackball(-1,547044,2,-5.0,2.0,0.0,0.0,0,1.0,1.0,0,0)

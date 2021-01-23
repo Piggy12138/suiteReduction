@@ -130,6 +130,10 @@ def del_before_ec(device):
     os.system("adb -s " + device + " shell rm /mnt/sdcard/coverage.ec")
     # os.popen('adb shell "rm /mnt/sdcard/coverage.ec“')
 
+# 初始测试从桌面开始
+def back_home(emulator):
+    command = 'adb -s '+emulator+' shell input keyevent 3'
+    os.system(command)
 
 
 def init(path, apkname, emulator,indexi,indexj,indexm):
@@ -140,11 +144,16 @@ def init(path, apkname, emulator,indexi,indexj,indexm):
     for x in range(0,indexi+1):
         for j in range(0,indexj+1):
             for m in range(0,indexm+1):
+             try:
+                 if(m== 0):
+                     continue
                  # clean states
                  os.system("adb -s " + emulator + " shell am force-stop " + package_name)
                  os.system("adb -s " + emulator + " shell pm clear " + package_name)
                  # 程序插桩，启动Emma
                  coverage_instrument(package_name, emulator)
+                 #返回桌面
+                 back_home(emulator)
                  print("Current script:script" + str(x) + str(j) + str(m))
                  script = os.getcwd()+'//Output//'+apkname+'//script_'+str(x)+str(j)+str(m)+'.txt'
                           # 调用readin函数
@@ -154,9 +163,11 @@ def init(path, apkname, emulator,indexi,indexj,indexm):
                  with open(os.getcwd()+'//Output//'+apkname+'//coverage//coverage'+str(x)+str(j)+str(m)+'.txt','w')as file:
                    generate_coverage(emulator,apkname)
                    file.write(extract_coverage(path+'/coverage/index.html').replace('\xa0', ' '))
+             except:
+                pass
 
 
 
 
-#del_before_ec('emulator-5554')
-init(os.getcwd(),"RandomMusicPlayer",'emulator-5556',0,0,1)
+del_before_ec('emulator-5556')
+init(os.getcwd(),"MyExpenses",'emulator-5556',0,0,2)

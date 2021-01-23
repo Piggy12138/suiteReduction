@@ -1,0 +1,87 @@
+[
+  {
+    "index": 6,
+    "state": "com.android.launcher2.Launcher(b4689040) to com.android.internal.app.ChooserActivity(b4036fc8)",
+    "coverage": "19%  (19/100) to 19%  (19/100)"
+  },
+  {
+    "index": 10,
+    "state": "com.android.internal.app.ChooserActivity(b4036fc8) to   mCurrentFocus=null()",
+    "coverage": "19%  (19/100) to 19%  (19/100)"
+  },
+  {
+    "index": 11,
+    "state": "  mCurrentFocus=null() to com.android.settings.applications.InstalledAppDetails(b4037210)",
+    "coverage": "19%  (19/100) to 19%  (19/100)"
+  },
+  {
+    "index": 82,
+    "state": "com.android.settings.applications.InstalledAppDetails(b4037210) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8)",
+    "coverage": "19%  (19/100) to 19%  (19/100)"
+  },
+  {
+    "index": 130,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8) to   mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78)",
+    "coverage": "19%  (19/100) to 19%  (19/100)"
+  },
+  {
+    "index": 131,
+    "state": "  mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8)",
+    "coverage": "19%  (19/100) to 19%  (19/100)"
+  },
+  {
+    "index": 177,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ec100)",
+    "coverage": "19%  (19/100) to 20%  (20/100)"
+  },
+  {
+    "index": 178,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ec100) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0)",
+    "coverage": "20%  (20/100) to 20%  (20/100)"
+  },
+  {
+    "index": 215,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e10e28)",
+    "coverage": "20%  (20/100) to 21%  (21/100)"
+  },
+  {
+    "index": 229,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e10e28) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
+  },
+  {
+    "index": 247,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3f79560)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
+  },
+  {
+    "index": 258,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3f79560) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
+  },
+  {
+    "index": 279,
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0) to org.totschnig.myexpenses.ExpenseEdit(b3f12d58)",
+    "coverage": "21%  (21/100) to 33%  (33/100)"
+  },
+  {
+    "index": 325,
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b3f12d58) to   mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 335,
+    "state": "  mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78) to org.totschnig.myexpenses.ExpenseEdit(b3f12d58)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 361,
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b3f12d58) to org.totschnig.myexpenses.ExpenseEdit(b432a6c8)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  },
+  {
+    "index": 364,
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b432a6c8) to org.totschnig.myexpenses.ExpenseEdit(b3f12d58)",
+    "coverage": "33%  (33/100) to 33%  (33/100)"
+  }
+]
