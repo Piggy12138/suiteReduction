@@ -1,2 +1,0 @@
-com.android.launcher2.Launcher(a98796a0),com.smorgasbork.hotdeath.Main(a97a2fa0),com.smorgasbork.hotdeath.GameActivity(a9852698),com.smorgasbork.hotdeath.GameActivity(a9852698),com.smorgasbork.hotdeath.GameActivity(a9852698),com.smorgasbork.hotdeath.GameActivity(a982ca78),com.smorgasbork.hotdeath.GameActivity(a98d3bb8),com.smorgasbork.hotdeath.GameActivity(a982ca78),  mCurrentFocus=Window{a9909ba0 u0 Blue 4(a9909ba0),com.smorgasbork.hotdeath.GameActivity(a982ca78),com.smorgasbork.hotdeath.GameActivity(a9947f28)
-[[1, 42], [54, 135], [179, 241], [275, 307], [179, 454]]

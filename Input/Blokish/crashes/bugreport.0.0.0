@@ -1,0 +1,24 @@
+// CRASH: org.scoutant.blokish (pid 2760)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: acteve.symbolic.Util
+// Build Label: generic/sdk/generic:4.4.2/KK/3462041:eng/test-keys
+// Build Changelist: 3462041
+// Build Time: 1478757122000
+// java.lang.NoClassDefFoundError: acteve.symbolic.Util
+// 	at org.scoutant.blokish.SplashScreen.<clinit>(SplashScreen.java)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at android.app.Instrumentation.newActivity(Instrumentation.java:1061)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2112)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 

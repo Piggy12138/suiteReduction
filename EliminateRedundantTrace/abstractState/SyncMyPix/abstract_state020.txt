@@ -1,0 +1,2 @@
+com.android.launcher2.Launcher(b445e998),com.nloko.android.syncmypix.MainActivity(b4454828),com.nloko.android.syncmypix.MainActivity(b40363d0),com.nloko.android.syncmypix.facebook.FacebookLoginWebView(b4135e28),  mCurrentFocus=null(),com.nloko.android.syncmypix.MainActivity(b40363d0),  mCurrentFocus=Window{b46bc220 u0 StatusBar(b46bc220),com.nloko.android.syncmypix.MainActivity(b40363d0)
+[[1, 32], [169, 290]]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="24.0dip" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="0.0dip" android:layout_height="24.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/red_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/red" android:scaleType="centerCrop" android:contentDescription="red" />
+        <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/red" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="0.0dip" android:layout_height="24.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/green" android:scaleType="centerCrop" android:contentDescription="green" />
+        <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/green" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="0.0dip" android:layout_height="24.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/blue" android:scaleType="centerCrop" android:contentDescription="blue" />
+        <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/blue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="0.0dip" android:layout_height="24.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/orange" android:scaleType="centerCrop" android:contentDescription="orange" />
+        <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/orange" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" />
+    </FrameLayout>
+</LinearLayout>

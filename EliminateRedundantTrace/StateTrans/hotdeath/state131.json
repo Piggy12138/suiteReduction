@@ -1,0 +1,1 @@
+[{"index": 1, "state": "com.android.launcher2.Launcher(b45a8d28) to com.android.launcher2.Launcher(b413a688)", "coverage": "75%  (24/32) to 75%  (24/32)"}, {"index": 6, "state": "com.android.launcher2.Launcher(b413a688) to com.android.launcher2.Launcher(b45a8d28)", "coverage": "75%  (24/32) to 75%  (24/32)"}]

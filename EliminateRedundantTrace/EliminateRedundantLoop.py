@@ -6,7 +6,7 @@
 
 import json
 import os
-import re
+
 
 header = "type= raw events\ncount= -1\nspeed= 2.0\nstart data >>\n"
 
@@ -134,7 +134,7 @@ def init_elinimate(apkname,index0,index1,index2):
 
         else:
             if(j<=eval(line_read)[i][1]+3):
-                if('DispatchKey' in lines and flag == 0):
+                if ('DispatchKey' in lines and flag == 0) or ('LaunchActivity' in lines) or ('GUIGen' in lines):
                     file_output.writelines(lines)
                     fp = open(os.getcwd() + "./Output/"+ apkname + '/script' + str(index0) + str(index1) + str(
             index2) + '.txt', 'r')
@@ -161,4 +161,4 @@ def init_elinimate(apkname,index0,index1,index2):
 
 
 
-init_elinimate('MyExpenses',0,0,0)
+init_elinimate('hotdeath',1,2,0)

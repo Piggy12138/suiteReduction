@@ -1,0 +1,766 @@
+[
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b3df3460)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b3df3460)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b3df3460)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b3df3460)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.launcher2.Launcher(b445e998)"
+  },
+  {
+    "coverage": "19%  (23/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.internal.app.ChooserActivity(b4725570)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "  mCurrentFocus=null()"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b3e13970)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  },
+  {
+    "coverage": "20%  (24/123)",
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500)"
+  }
+]

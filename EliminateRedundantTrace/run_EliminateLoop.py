@@ -145,8 +145,6 @@ def init(path, apkname, emulator,indexi,indexj,indexm):
         for j in range(0,indexj+1):
             for m in range(0,indexm+1):
              try:
-                 if(m== 0):
-                     continue
                  # clean states
                  os.system("adb -s " + emulator + " shell am force-stop " + package_name)
                  os.system("adb -s " + emulator + " shell pm clear " + package_name)
@@ -155,7 +153,7 @@ def init(path, apkname, emulator,indexi,indexj,indexm):
                  #返回桌面
                  back_home(emulator)
                  print("Current script:script" + str(x) + str(j) + str(m))
-                 script = os.getcwd()+'//Output//'+apkname+'//script_'+str(x)+str(j)+str(m)+'.txt'
+                 script = os.getcwd()+'//Output//'+apkname+'//script'+str(x)+str(j)+str(m)+'.txt'
                           # 调用readin函数
                  readin(path, apkname, emulator, package_name,script,x,j,m)
                  if not os.path.exists(os.getcwd()+'//Output//'+apkname+'//coverage'):
@@ -170,4 +168,7 @@ def init(path, apkname, emulator,indexi,indexj,indexm):
 
 
 del_before_ec('emulator-5556')
-init(os.getcwd(),"MyExpenses",'emulator-5556',0,0,2)
+start = time.perf_counter()
+init(os.getcwd(),"hotdeath",'emulator-5556',0,4,2)
+end = time.perf_counter()
+print(end - start)

@@ -1,0 +1,42 @@
+[
+  {
+    "index": 3,
+    "state": "com.android.launcher2.Launcher(b445e998) to com.android.launcher2.Launcher(b3df3460)",
+    "coverage": "19%  (23/123) to 19%  (23/123)"
+  },
+  {
+    "index": 7,
+    "state": "com.android.launcher2.Launcher(b3df3460) to com.android.launcher2.Launcher(b445e998)",
+    "coverage": "19%  (23/123) to 19%  (23/123)"
+  },
+  {
+    "index": 12,
+    "state": "com.android.launcher2.Launcher(b445e998) to com.android.internal.app.ChooserActivity(b4725570)",
+    "coverage": "19%  (23/123) to 19%  (23/123)"
+  },
+  {
+    "index": 13,
+    "state": "com.android.internal.app.ChooserActivity(b4725570) to com.android.internal.app.ChooserActivity(b4725570)",
+    "coverage": "19%  (23/123) to 20%  (24/123)"
+  },
+  {
+    "index": 38,
+    "state": "com.android.internal.app.ChooserActivity(b4725570) to   mCurrentFocus=null()",
+    "coverage": "20%  (24/123) to 20%  (24/123)"
+  },
+  {
+    "index": 39,
+    "state": "  mCurrentFocus=null() to com.android.settings.applications.InstalledAppDetails(b4167500)",
+    "coverage": "20%  (24/123) to 20%  (24/123)"
+  },
+  {
+    "index": 181,
+    "state": "com.android.settings.applications.InstalledAppDetails(b4167500) to com.android.settings.applications.InstalledAppDetails(b3e13970)",
+    "coverage": "20%  (24/123) to 20%  (24/123)"
+  },
+  {
+    "index": 182,
+    "state": "com.android.settings.applications.InstalledAppDetails(b3e13970) to com.android.settings.applications.InstalledAppDetails(b4167500)",
+    "coverage": "20%  (24/123) to 20%  (24/123)"
+  }
+]

@@ -115,7 +115,7 @@ def init_replay(emulator,apkname,index0,index1,index2):
                             os.remove(script)
                     else:
                         # 创建临时脚本
-                        temp_script = os.getcwd() + '/temp.txt'
+                        temp_script = os.getcwd() + '/temp2.txt'
 
                     # 读取原始脚本
                     fp = open(script, 'r')
@@ -147,4 +147,4 @@ def init_replay(emulator,apkname,index0,index1,index2):
 
 
 
-init_replay('emulator-5556','MyExpenses',4,4,2)
+init_replay('emulator-5554','ShowSettingsActivity',2,4,2)

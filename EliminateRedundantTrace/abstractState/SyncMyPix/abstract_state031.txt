@@ -1,0 +1,2 @@
+com.android.launcher2.Launcher(b445e998),com.nloko.android.syncmypix.MainActivity(b4049168),com.nloko.android.syncmypix.MainActivity(b4167500),com.nloko.android.syncmypix.MainActivity(b401b2a0),com.nloko.android.syncmypix.MainActivity(b4167500),com.nloko.android.syncmypix.MainActivity(b472a100),  mCurrentFocus=Window{b46bc220 u0 StatusBar(b46bc220),com.nloko.android.syncmypix.MainActivity(b472a100)
+[[1, 28], [143, 164], [67, 173], [177, 178], [174, 185]]

@@ -201,4 +201,4 @@ def init(path, apkname, emulator,indexi,indexj,indexm):
 
 
 #del_before_ec('emulator-5554')
-init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"MyExpenses",'emulator-5554',8,3,2)
+init('D:/2020学年秋季学期\毕业设计\suite reduction\PreProcess',"ShowSettingsActivity",'emulator-5554',1,4,2)

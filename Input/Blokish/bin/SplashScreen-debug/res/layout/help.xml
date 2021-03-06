@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/video" android:layout_width="180.0dip" android:layout_height="300.0dip" android:layout_marginTop="16.0dip" android:src="@drawable/blokish_21_youtube_arrow" />
+        <TextView android:textStyle="bold|italic" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Click above to watch demo on YouTube" />
+        <TextView android:textStyle="italic" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="You can enlarge video rotating phone in landscape mode" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="Rules of the game Blokus Classic" style="@style/h1" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- A board with 20 * 20 squares." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- 4 players having each 21 pieces : 1 single-square, 1 domino, 2 triominos, 5 tetraminos and 12 pentaminos" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- As player, I shall place on the board most of my pieces. " />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- For first round, I must place a piece so that it touches one of the corners of the board." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- Next, a piece must be placed so that it touches a corner of one of my own pieces. It may touch several corners, but never any edge of my pieces!" />
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/blokish_2_pieces" android:scaleType="centerInside" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- If a cannot place any more piece I pass my turn." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- The end of the game is reached when every player passes." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- My score is : addition of all the squares of the pieces I placed." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="How to play with Blokish Android app" style="@style/h1" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Do notice the smooth Drag&amp;Drop and swipe gestures to place the pieces :" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- Scroll through your remaining pieces with you finger from left to right." />
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/blokish_scroll" android:scaleType="centerInside" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- Select an drag a piece onto the board. You can now drag it around easily putting the finger on the large grey circle" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/blokish_dragging" android:scaleType="centerInside" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- Rotate the piece using one the handles" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/blokish_rotating" android:scaleType="centerInside" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- You can flip the piece to its mirror position : with a long press on the piece." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Flip a piece can also be done using the menu, specially usefull for tablets." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- You can cancel with the red button. It will replace the piece in your store." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- When the move is valid a green 'ok' button appears. You can commit the move by clicking it!" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:src="@drawable/blokish_21_1" android:scaleType="centerInside" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- At any time you can see you oponent remaining pieces : just select tab of corresponding color at the bottom." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="- When you win against the machine, you can select a harder level : Menu > Preferences." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="http://scoutant.org" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Blokish is an Free/Libre open-source app, licence GPL." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Fell free to use the code you can get at http://github.com/scoutant." />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Stephane Coutant" />
+    </LinearLayout>
+</ScrollView>

@@ -1,2 +1,2 @@
-com.android.launcher2.Launcher(b4689040),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4219908),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e1c350),org.totschnig.myexpenses.ExpenseEdit(b3e54fa8),org.totschnig.myexpenses.SelectCategory(b3f12d58),org.totschnig.myexpenses.GrisbiImport(b4688e80)
+com.android.launcher2.Launcher(b3e22508),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b44833d0),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3daaea8),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b45f03c0),org.totschnig.myexpenses.ExpenseEdit(b4199070),org.totschnig.myexpenses.SelectCategory(b43f3350),org.totschnig.myexpenses.GrisbiImport(b418b1c0)
 [[10, 18]]

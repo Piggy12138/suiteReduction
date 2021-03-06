@@ -147,7 +147,7 @@ def init_eliminate(indexi,indexj,indexm,apkname):
 
 
 #eliminate_trace('emulator-5554','Photostream','D:\\2020学年秋季学期\\毕业设计\\suite reduction\\EliminateRedundantTrace\\State\\Photostream\\state002.json',os.getcwd()+'/Input/motifcore.evo.script.0.1.2')
-init_eliminate(0,3,2,'MyExpenses')
+init_eliminate(0,4,2,'hotdeath')
 
 
 #state_trans("D:\\2020学年秋季学期\毕业设计\suite reduction\PreProcess\\abstractState\Photostream\\res2.json",'Photostream')

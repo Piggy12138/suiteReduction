@@ -1,87 +1,77 @@
 [
   {
     "index": 6,
-    "state": "com.android.launcher2.Launcher(b4689040) to com.android.internal.app.ChooserActivity(b4036fc8)",
-    "coverage": "19%  (19/100) to 19%  (19/100)"
-  },
-  {
-    "index": 10,
-    "state": "com.android.internal.app.ChooserActivity(b4036fc8) to   mCurrentFocus=null()",
-    "coverage": "19%  (19/100) to 19%  (19/100)"
-  },
-  {
-    "index": 11,
-    "state": "  mCurrentFocus=null() to com.android.settings.applications.InstalledAppDetails(b4037210)",
-    "coverage": "19%  (19/100) to 19%  (19/100)"
+    "state": "com.android.launcher2.Launcher(b3e22508) to com.android.internal.app.ChooserActivity(b3d9f5e0)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 82,
-    "state": "com.android.settings.applications.InstalledAppDetails(b4037210) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8)",
-    "coverage": "19%  (19/100) to 19%  (19/100)"
+    "state": "com.android.internal.app.ChooserActivity(b3d9f5e0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41c3220)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 130,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8) to   mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78)",
-    "coverage": "19%  (19/100) to 19%  (19/100)"
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41c3220) to   mCurrentFocus=Window{b43878b0 u0 StatusBar(b43878b0)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 131,
-    "state": "  mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8)",
-    "coverage": "19%  (19/100) to 19%  (19/100)"
+    "state": "  mCurrentFocus=Window{b43878b0 u0 StatusBar(b43878b0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41c3220)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 177,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3ee91a8) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ec100)",
-    "coverage": "19%  (19/100) to 20%  (20/100)"
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41c3220) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3daaea8)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 178,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ec100) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0)",
-    "coverage": "20%  (20/100) to 20%  (20/100)"
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3daaea8) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e3e5c0)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 215,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e10e28)",
-    "coverage": "20%  (20/100) to 21%  (21/100)"
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e3e5c0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e4c010)",
+    "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 229,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e10e28) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0)",
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e4c010) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e3e5c0)",
     "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 247,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3f79560)",
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e3e5c0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3da5eb0)",
     "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 258,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3f79560) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0)",
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3da5eb0) to org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e3e5c0)",
     "coverage": "21%  (21/100) to 21%  (21/100)"
   },
   {
     "index": 279,
-    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41ddcd0) to org.totschnig.myexpenses.ExpenseEdit(b3f12d58)",
+    "state": "org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b3e3e5c0) to org.totschnig.myexpenses.ExpenseEdit(b3ec8710)",
     "coverage": "21%  (21/100) to 33%  (33/100)"
   },
   {
     "index": 325,
-    "state": "org.totschnig.myexpenses.ExpenseEdit(b3f12d58) to   mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78)",
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b3ec8710) to   mCurrentFocus=Window{b43878b0 u0 StatusBar(b43878b0)",
     "coverage": "33%  (33/100) to 33%  (33/100)"
   },
   {
     "index": 335,
-    "state": "  mCurrentFocus=Window{b3f4ef78 u0 StatusBar(b3f4ef78) to org.totschnig.myexpenses.ExpenseEdit(b3f12d58)",
+    "state": "  mCurrentFocus=Window{b43878b0 u0 StatusBar(b43878b0) to org.totschnig.myexpenses.ExpenseEdit(b3ec8710)",
     "coverage": "33%  (33/100) to 33%  (33/100)"
   },
   {
     "index": 361,
-    "state": "org.totschnig.myexpenses.ExpenseEdit(b3f12d58) to org.totschnig.myexpenses.ExpenseEdit(b432a6c8)",
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b3ec8710) to org.totschnig.myexpenses.ExpenseEdit(b3d9ff68)",
     "coverage": "33%  (33/100) to 33%  (33/100)"
   },
   {
     "index": 364,
-    "state": "org.totschnig.myexpenses.ExpenseEdit(b432a6c8) to org.totschnig.myexpenses.ExpenseEdit(b3f12d58)",
+    "state": "org.totschnig.myexpenses.ExpenseEdit(b3d9ff68) to org.totschnig.myexpenses.ExpenseEdit(b3ec8710)",
     "coverage": "33%  (33/100) to 33%  (33/100)"
   }
 ]

@@ -1,2 +1,2 @@
-com.android.launcher2.Launcher(b4689040),com.android.internal.app.ChooserActivity(b3edc018),com.android.settings.applications.InstalledAppDetails(b4610e50),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b40faa38),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41b4b60),  mCurrentFocus=Window{b40e5868 u0 PopupWindow:b3f18600(b40e5868),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b41b4b60)
-[[23, 82], [92, 118]]
+com.android.launcher2.Launcher(b3e22508),com.android.internal.app.ChooserActivity(b417f398),  mCurrentFocus=null(),com.android.settings.applications.InstalledAppDetails(b3e29de8),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b4177d70),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b444e918),  mCurrentFocus=Window{b3daaea8 u0 PopupWindow:b3f236d0(b3daaea8),org.totschnig.myexpenses.EmmaInstrument.InstrumentedActivity(b444e918)
+[[81, 118]]

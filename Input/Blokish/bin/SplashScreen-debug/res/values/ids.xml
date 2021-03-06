@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="icons">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="video">false</item>
+    <item type="id" name="now">false</item>
+    <item type="id" name="later">false</item>
+    <item type="id" name="never">false</item>
+    <item type="id" name="red_button">false</item>
+    <item type="id" name="red">false</item>
+    <item type="id" name="green">false</item>
+    <item type="id" name="blue">false</item>
+    <item type="id" name="orange">false</item>
+</resources>

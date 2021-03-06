@@ -1,0 +1,2 @@
+com.android.launcher2.Launcher(b445e998),com.android.internal.app.ChooserActivity(b4725570),com.android.internal.app.ChooserActivity(b4725570),com.android.internal.app.ChooserActivity(b4725570),  mCurrentFocus=null(),com.android.settings.applications.InstalledAppDetails(b4167500)
+[[1, 7], [39, 182]]

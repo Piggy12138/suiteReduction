@@ -1,0 +1,95 @@
+// CRASH: com.nloko.android.syncmypix (pid 0)
+// Short Msg: Native crash
+// Long Msg: Native crash: Segmentation fault
+// Build Label: generic/sdk/generic:4.4.2/KK/3462041:eng/test-keys
+// Build Changelist: 3462041
+// Build Time: 1478757122000
+// *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+// Build fingerprint: 'generic/sdk/generic:4.4.2/KK/3462041:eng/test-keys'
+// Revision: '0'
+// pid: 24932, tid: 24932, name: droid.syncmypix  >>> com.nloko.android.syncmypix <<<
+// signal 11 (SIGSEGV), code 2 (SEGV_ACCERR), fault addr a364a518
+//     r0 a364a518  r1 00002000  r2 00002002  r3 00000001
+//     r4 a364a518  r5 00002002  r6 00002000  r7 e8283207
+//     r8 bea9095c  r9 a4852a90  sl b7783cb0  fp bea90974
+//     ip 00000001  sp bea90878  lr b6e125a1  pc b6f59560  cpsr 20000010
+//     d0  00002710461c4000  d1  3ff00000461c4000
+//     d2  4059000000000000  d3  3f95c966ebf3f9e8
+//     d4  40c3880000000000  d5  40c3880000000000
+//     d6  3fa45ce1f39c6535  d7  40c3884000000005
+//     d8  43dd0000000001ba  d9  0000000043978400
+//     d10 0000000000000000  d11 0000000000000000
+//     d12 0000000000000000  d13 0000000000000000
+//     d14 0000000000000000  d15 0000000000000000
+//     scr 20000012
+// 
+// backtrace:
+//     #00  pc 0000e560  /system/lib/libc.so
+//     #01  pc 0000c59d  /system/lib/libandroidfw.so
+//     #02  pc 0006ed0b  /system/lib/libandroid_runtime.so
+//     #03  pc 0001dbcc  /system/lib/libdvm.so (dvmPlatformInvoke+112)
+//     #04  pc 0004deff  /system/lib/libdvm.so (dvmCallJNIMethod(unsigned int const*, JValue*, Method const*, Thread*)+394)
+//     #05  pc 0003873d  /system/lib/libdvm.so (dvmCheckCallJNIMethod(unsigned int const*, JValue*, Method const*, Thread*)+8)
+//     #06  pc 00026fe0  /system/lib/libdvm.so
+//     #07  pc 0002df34  /system/lib/libdvm.so (dvmMterpStd(Thread*)+76)
+//     #08  pc 0002b5cc  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+184)
+//     #09  pc 00060319  /system/lib/libdvm.so (dvmCallMethodV(Thread*, Method const*, Object*, bool, JValue*, std::__va_list)+336)
+//     #10  pc 0004c4e1  /system/lib/libdvm.so
+//     #11  pc 0003fb21  /system/lib/libdvm.so
+//     #12  pc 001941b9  /system/lib/libwebviewchromium.so
+//     #13  pc 009d69c5  /system/lib/libwebviewchromium.so
+//     #14  pc 0092e401  /system/lib/libwebviewchromium.so
+//     #15  pc 00911dc3  /system/lib/libwebviewchromium.so
+//     #16  pc 009163bd  /system/lib/libwebviewchromium.so
+//     #17  pc 00910967  /system/lib/libwebviewchromium.so
+//     #18  pc 001ec929  /system/lib/libwebviewchromium.so
+//     #19  pc 001ec701  /system/lib/libwebviewchromium.so
+//     #20  pc 001cf15f  /system/lib/libwebviewchromium.so
+//     #21  pc 001cfc61  /system/lib/libwebviewchromium.so
+//     #22  pc 001cfdbf  /system/lib/libwebviewchromium.so
+//     #23  pc 001dfb9f  /system/lib/libwebviewchromium.so
+//     #24  pc 0001dbcc  /system/lib/libdvm.so (dvmPlatformInvoke+112)
+//     #25  pc 0004deff  /system/lib/libdvm.so (dvmCallJNIMethod(unsigned int const*, JValue*, Method const*, Thread*)+394)
+//     #26  pc 0003873d  /system/lib/libdvm.so (dvmCheckCallJNIMethod(unsigned int const*, JValue*, Method const*, Thread*)+8)
+//     #27  pc 00026fe0  /system/lib/libdvm.so
+//     #28  pc 0002df34  /system/lib/libdvm.so (dvmMterpStd(Thread*)+76)
+//     #29  pc 0002b5cc  /system/lib/libdvm.so (dvmInterpret(Thread*, Method const*, JValue*)+184)
+//     #30  pc 000605fd  /system/lib/libdvm.so (dvmInvokeMethod(Object*, Method const*, ArrayObject*, ArrayObject*, ClassObject*, bool)+392)
+//     #31  pc 000684c7  /system/lib/libdvm.so
+// 
+// code around pc:
+//     b6f59540 e3510000 1afffff9 e1560003 13865002  
+//     b6f59550 1a000001 ea000009 ebffff75 e1947f9f  
+//     b6f59560 e184cf95 e25c3000 e1a00004 e1a01006  
+//     b6f59570 e1a02005 1afffff8 e1560007 1afffff5  
+//     b6f59580 e3a00000 e8bd81f0 e3a00016 e8bd81f0  
+//     b6f59590 fa001214 e5903020 e1530825 0a000024  
+//     b6f595a0 e1867007 e1550007 11a03803 0a000032  
+//     b6f595b0 e3830002 e1808007 ea000012 e205e003  
+//     b6f595c0 e35e0001 1a000009 e2253003 e1942f9f  
+//     b6f595d0 e3a0c000 e1320005 0184cf93 e35c0000  
+//     b6f595e0 1afffff9 e1550002 01a05003 1a000004  
+//     b6f595f0 e1a02005 e1a00004 e1a01006 e3a03000  
+//     b6f59600 ebffff4b e5945000 e1550007 1affffea  
+//     b6f59610 e1941f9f e3a00000 e1310007 01840f98  
+//     b6f59620 e3500000 1afffff9 e1570001 1afffff4  
+//     b6f59630 e8bd81f0 e3570902 0a00001e e3010ffc  
+// 
+// code around lr:
+//     b6e12580 f7ffb118 2200eac8 bd106322 4604b510  
+//     b6e12590 f7ff6800 4620eac6 b508bd10 eac6f7ff  
+//     b6e125a0 bd084240 b5134b19 4604447b 60033308  
+//     b6e125b0 44784817 f7ff9001 4816fff0 44784b16  
+//     b6e125c0 6802447b 60011e51 49146818 447942a0  
+//     b6e125d0 68e0bf08 bf08680a 42a26018 bf0468e3  
+//     b6e125e0 600a6922 6920b10b 69216118 68e2b109  
+//     b6e125f0 230060ca 6123a801 f7ff60e3 f104ffc7  
+//     b6e12600 f7ff0008 4620ea9a bf00bd1c 000142b4  
+//     b6e12610 00014b8e 00014b7a 00014b84 00014b6e  
+//     b6e12620 4604b510 ffbef7ff f7ff4620 4620ea50  
+//     b6e12630 0000bd10 b5104b06 4604447b 60033308  
+//     b6e12640 ff68f7ff f7ff4620 4620ffad bf00bd10  
+//     b6e12650 00014284 4604b510 ffecf7ff f7ff4620  
+//     b6e12660 4620ea36 0000bd10 b5104b06 4604447b  
+//     b6e12670 60033308 ff6ff7ff f7ff4620 4620ff93  
+// 

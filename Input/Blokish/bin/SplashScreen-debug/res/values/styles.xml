@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="scoutant" parent="@android:style/Theme">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:paddingBottom">2.0dip</item>
+    </style>
+    <style name="padding" parent="@style/scoutant">
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+    </style>
+    <style name="h1" parent="@style/scoutant">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+</resources>

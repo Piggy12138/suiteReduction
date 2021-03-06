@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Seeds display" android:key="displaySeeds" android:summary="Display a dot where you may place a piece" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Artificial Intelligence" android:key="ai" android:summary="Computer plays Green, Blue and Yellow" android:defaultValue="true" />
+    <ListPreference android:persistent="true" android:entries="@array/aiLevelNames" android:title="Level" android:key="aiLevel" android:summary="Customize the level according to your experience" android:defaultValue="0" android:dialogTitle="Select level" android:entryValues="@array/aiLevelValues" />
+    <CheckBoxPreference android:title="Exit popup" android:key="popupOnExit" android:summary="Game will be saved anyway..." android:defaultValue="true" />
+</PreferenceScreen>

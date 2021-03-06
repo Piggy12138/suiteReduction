@@ -1,0 +1,2 @@
+com.android.launcher2.Launcher(b445e998),com.nloko.android.syncmypix.MainActivity(b4431fe0),com.nloko.android.syncmypix.DonateActivity(b4140998),com.nloko.android.syncmypix.DonateActivity(b470ebd8),com.nloko.android.syncmypix.DonateActivity(b4140998),com.nloko.android.syncmypix.MainActivity(b4687ba8),com.nloko.android.syncmypix.EmmaInstrument.InstrumentedActivity(b414edf8),com.nloko.android.syncmypix.DonateActivity(b4049168)
+[[1, 144]]

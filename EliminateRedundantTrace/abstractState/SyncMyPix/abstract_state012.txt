@@ -1,0 +1,2 @@
+com.android.launcher2.Launcher(b445e998),com.nloko.android.syncmypix.MainActivity(b401d038),com.nloko.android.syncmypix.DonateActivity(b404fab8),com.nloko.android.syncmypix.MainActivity(b46f1058),com.nloko.android.syncmypix.SettingsActivity(b4140c98),com.nloko.android.syncmypix.MainActivity(b46f1058)
+[[184, 290], [316, 317]]

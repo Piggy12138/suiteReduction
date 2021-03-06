@@ -1,0 +1,162 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/xml/preferences.xml
+SHA1-Digest: zwh3mbJesOq9oXDCycCcfV0oMsg=
+
+Name: res/drawable/blokish_dragging.png
+SHA1-Digest: h+glff/S2Tu4GNANsyH8z/ln+dg=
+
+Name: com/vladium/emma/instr/instr_usage.res
+SHA1-Digest: I2Rq1dLiPtV0mtpqveL3yz+lPKA=
+
+Name: res/drawable/cancel.png
+SHA1-Digest: Cpbrg8xQywDZYV0yR/vqCtk/wwM=
+
+Name: res/drawable/blokish_21_youtube_arrow.png
+SHA1-Digest: mNLRnA+6c/vjE1IfoacsuAlgEWE=
+
+Name: res/drawable/green_bold.png
+SHA1-Digest: elbtvsaJc/UhM9zEq+vgEGfxpNk=
+
+Name: res/layout/endgame.xml
+SHA1-Digest: VHPz/EbQct+nBeg+Ch0ENtqVQO4=
+
+Name: res/drawable/blokish.gif
+SHA1-Digest: dffzym6AlJ2QSh7Xf+ty91Wpbts=
+
+Name: resources.arsc
+SHA1-Digest: TLMN3WhvVmKePfNz7+r1CIvJ5u0=
+
+Name: res/drawable/bol_geel.png
+SHA1-Digest: /X5lAt5hKoGQ3Kx8cPGESabAV/k=
+
+Name: res/drawable-xlarge/cancel.png
+SHA1-Digest: hvG7Kppp7FjUdIuWV4emg9guuoI=
+
+Name: res/drawable/checkmark.png
+SHA1-Digest: L4T2UQhQbNo9IMHYpZGwY2HfJu8=
+
+Name: res/drawable/blue.png
+SHA1-Digest: sfI1ouQfLY+xUV/T/yGaKh0lGTw=
+
+Name: com/vladium/emma/exceptions.properties
+SHA1-Digest: 4QGHferxxnE/Q0/z1dZj2B+S7cI=
+
+Name: res/layout/tabs.xml
+SHA1-Digest: 9N9DvhVKOz1b2BuX7g2nuguMtck=
+
+Name: com/vladium/emma/rt/RTExitHook.closure
+SHA1-Digest: fHtO1H01futHZ7Ie/L4eKFD8zsM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: O+rly6eE6I9Y0XVpqwgUc0XmQVM=
+
+Name: res/drawable/spinner_blue_76.png
+SHA1-Digest: zywiR3DfK74KYfb7QThkyOiN5E0=
+
+Name: res/drawable-xlarge/checkmark.png
+SHA1-Digest: RNwmOFb9FXgkmqrmQbh+OV1o/cM=
+
+Name: res/anim/wave_scale.xml
+SHA1-Digest: kgVylDqbtEJg4iTfiEp+Vam5XaA=
+
+Name: res/xml-de/preferences.xml
+SHA1-Digest: q31uhbDqQuxts57eU/TQq7pQ8d4=
+
+Name: res/drawable/help_48.png
+SHA1-Digest: OW2uLHnX4iTQbsOPwgCVLJx4YSA=
+
+Name: res/drawable/orange_bold.png
+SHA1-Digest: ZuqLuNuvSazLWKDxNqcWAC33TfY=
+
+Name: res/drawable/bol_rood.png
+SHA1-Digest: Fqk9f0OHac6c8Is176/v9LFx/wM=
+
+Name: res/drawable/checkmark_48.png
+SHA1-Digest: IVzp0qTrW/dlYc1xAeYDd6Ix3gM=
+
+Name: res/xml-es/preferences.xml
+SHA1-Digest: tsfGNQeG+bRxJjVt0C8PkyaVj28=
+
+Name: res/layout/rate.xml
+SHA1-Digest: H+2fYUdRP5/KeDL+okE6QUhWEC8=
+
+Name: res/drawable/blokish_title.png
+SHA1-Digest: xaZHh+Y0M4nmMGnmGKo9da2OrfA=
+
+Name: res/drawable/blue_bold.png
+SHA1-Digest: thoUCpXe2vkYM7Osy6CdXfHpo7s=
+
+Name: res/layout/help.xml
+SHA1-Digest: es73JKJx1NeOOMZuVoHidR0lYX0=
+
+Name: com/vladium/emma/run_usage.res
+SHA1-Digest: mHemtPwFTvLEPXfCrRCzKVjCg5Y=
+
+Name: res/drawable/blokish_scroll.png
+SHA1-Digest: 7GyNhYbcHFEGSuGuHMaC8FMaD+g=
+
+Name: res/drawable/blokish_2_pieces.png
+SHA1-Digest: dOh02RbuJLEclaNwLTea/eblp/E=
+
+Name: res/drawable/green.png
+SHA1-Digest: 7FnIFO3X+zbNgZs9KYuge47coUE=
+
+Name: res/drawable/bol_groen.png
+SHA1-Digest: 9qe1oB6lEEdJ/+S3bKieNo7zcCg=
+
+Name: emma_default.properties
+SHA1-Digest: t2aJ4vA+08gVAALZAwrrFRx73Oc=
+
+Name: res/xml-fr/preferences.xml
+SHA1-Digest: FvNTkjllRec9b1+oLnct3TduaUE=
+
+Name: res/drawable/blokish_21_1.png
+SHA1-Digest: sgDnHfnTnrPCj3Wz3KJgE8lt31E=
+
+Name: res/drawable/bullet_ball_glass_yellow.png
+SHA1-Digest: SYZFvHrGXvrKlJnXq9PhYq87TE4=
+
+Name: classes.dex
+SHA1-Digest: 5l0oe8po9X2nmJ4SBBsq7uDUICQ=
+
+Name: res/layout/splashscreen.xml
+SHA1-Digest: saB8RdOLUWW996UZHyLtw9IPK7w=
+
+Name: res/drawable/preferences_48.png
+SHA1-Digest: T7lFICpWtska4+8H46Crfu+DUmU=
+
+Name: res/drawable/restart_48.png
+SHA1-Digest: gMOb2uMuSixzjtDd9dknVtY7MYs=
+
+Name: res/drawable/red_bold.png
+SHA1-Digest: m/PVDzmn3CrhlIet9rvRRQjeY/0=
+
+Name: res/drawable/left_48.png
+SHA1-Digest: S0ZKeCNOSfgXyThDsWOHVL230sg=
+
+Name: com/vladium/emma/report/report_usage.res
+SHA1-Digest: rNy8vxm9C92z5Xa47Ap1bGjU380=
+
+Name: res/drawable/red.png
+SHA1-Digest: lAVRSWcFClEK+Iz8U+ZOaE7mpBw=
+
+Name: res/drawable/blokish2.png
+SHA1-Digest: n+Q+p8erWqyUnPJoIFVmDaiOLa4=
+
+Name: res/drawable/bol_blauw.png
+SHA1-Digest: BiNMTRQ+8yEqBJ1FtxmX/JndfBs=
+
+Name: res/drawable/blokish_rotating.png
+SHA1-Digest: e/c78y8qvCeLsdrB8bdVr+MLrgs=
+
+Name: emma_ant.properties
+SHA1-Digest: +y6pZF5+WngbtuLnokOF3WlXgj8=
+
+Name: res/drawable/orange.png
+SHA1-Digest: /drYV2G/UxhMgvnJ8DVXZg3Zku4=
+
+Name: com/vladium/emma/data/merge_usage.res
+SHA1-Digest: gSgwR8qchJPP4qAY6l658yzRDzY=
+

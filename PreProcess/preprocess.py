@@ -27,7 +27,7 @@ def preprocess(apkname, motifcore_path, motifcore_script_path, device):
               + apkname +'\\bin\\'+apkname+'-debug.apk"')
 
 
-preprocess('MyExpenses',
+preprocess('ShowSettingsActivity',
            'D:\\2020学年秋季学期\\毕业设计\\sapienz\\lib\\motifcore.jar',
            'D:\\2020学年秋季学期\\毕业设计\\sapienz\\resources\\motifcore',
-           'emulator-5556')
+           'emulator-5554')

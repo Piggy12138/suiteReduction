@@ -1,2 +1,2 @@
-com.android.launcher2.Launcher(a98796a0),com.smorgasbork.hotdeath.Main(a976c9d8),com.smorgasbork.hotdeath.Prefs(a9840e18),  mCurrentFocus=Window{a98e63b0 u0 Players(a98e63b0)
+com.android.launcher2.Launcher(b4136eb8),com.smorgasbork.hotdeath.EmmaInstrument.InstrumentedActivity(b46cac48),com.smorgasbork.hotdeath.Prefs(b3f844e8),  mCurrentFocus=Window{b3fc4118 u0 Players(b3fc4118)
 [[33, 174], [2, 181], [250, 269], [222, 438], [440, 475]]

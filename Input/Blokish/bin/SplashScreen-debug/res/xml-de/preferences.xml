@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Anlegepunkte zeigen" android:key="displaySeeds" android:summary="Felder markieren, an denen Anlegen möglich ist." android:defaultValue="true" />
+    <CheckBoxPreference android:title="Computergegner" android:key="ai" android:summary="Computer übernimmt Grün, Blau und Gelb" android:defaultValue="true" />
+    <ListPreference android:persistent="true" android:entries="@array/aiLevelNames" android:title="Spielstärke" android:key="aiLevel" android:summary="Spielstärke der Computergegner anpassen" android:defaultValue="0" android:dialogTitle="Spielstärke auswählen" android:entryValues="@array/aiLevelValues" />
+    <CheckBoxPreference android:title="Popup bei Verlassen" android:key="popupOnExit" android:summary="Spiel wird immer gespeichert..." android:defaultValue="true" />
+</PreferenceScreen>
